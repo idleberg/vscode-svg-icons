@@ -51,6 +51,7 @@ Snippets are limited to the `html` scope. Typing the class name of an icon using
 
 Prefix         | SVG Icons                           | Version
 ---------------|-------------------------------------|--------
+`bi`           | [Bytesize Icons][bi]                | 1.1
 `ei`           | [Evil Icons][ei]                    | 1.8.0
 `octicon`      | [GitHub Octicons][octicon]          | 5.0.0
 `oi`           | [Open Iconic][oi]                   | 1.1.0
@@ -64,6 +65,7 @@ This work is licensed under [The MIT License](https://opensource.org/licenses/MI
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/vscode-svg-icons) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
+[bi]: https://github.com/danklammer/bytesize-icons
 [ei]: https://github.com/outpunk/evil-icons
 [octicon]: https://github.com/github/octicons
 [oi]: https://github.com/iconic/open-iconic
