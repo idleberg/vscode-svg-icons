@@ -7,7 +7,7 @@
 
 Snippets for a variety of icon fonts ([see details](https://github.com/idleberg/vscode-svg-icons#prefixes)).
 
-This package is also available for [Atom](https://github.com/idleberg/atom-svg-icons)
+This package is also available for [Atom](https://github.com/idleberg/atom-svg-icons) and [Sublime Text](https://github.com/idleberg/sublime-svg-icons)
 
 ## Installation
 
@@ -67,4 +67,4 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [ei]: https://github.com/outpunk/evil-icons
 [octicon]: https://github.com/github/octicons
 [oi]: https://github.com/iconic/open-iconic
-[si]: https://github.com/frexy/glyph-iconse
+[si]: https://github.com/frexy/glyph-icons
