@@ -1,0 +1,1117 @@
+{
+  "oi-account-login": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#account-login\" class=\"account-login\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "account-login"
+  },
+  "oi-account-logout": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#account-logout\" class=\"account-logout\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "account-logout"
+  },
+  "oi-action-redo": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#action-redo\" class=\"action-redo\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "action-redo"
+  },
+  "oi-action-undo": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#action-undo\" class=\"action-undo\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "action-undo"
+  },
+  "oi-align-center": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#align-center\" class=\"align-center\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "align-center"
+  },
+  "oi-align-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#align-left\" class=\"align-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "align-left"
+  },
+  "oi-align-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#align-right\" class=\"align-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "align-right"
+  },
+  "oi-aperture": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#aperture\" class=\"aperture\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "aperture"
+  },
+  "oi-arrow-bottom": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-bottom\" class=\"arrow-bottom\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-bottom"
+  },
+  "oi-arrow-circle-bottom": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-circle-bottom\" class=\"arrow-circle-bottom\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-circle-bottom"
+  },
+  "oi-arrow-circle-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-circle-left\" class=\"arrow-circle-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-circle-left"
+  },
+  "oi-arrow-circle-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-circle-right\" class=\"arrow-circle-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-circle-right"
+  },
+  "oi-arrow-circle-top": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-circle-top\" class=\"arrow-circle-top\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-circle-top"
+  },
+  "oi-arrow-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-left\" class=\"arrow-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-left"
+  },
+  "oi-arrow-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-right\" class=\"arrow-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-right"
+  },
+  "oi-arrow-thick-bottom": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-thick-bottom\" class=\"arrow-thick-bottom\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-thick-bottom"
+  },
+  "oi-arrow-thick-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-thick-left\" class=\"arrow-thick-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-thick-left"
+  },
+  "oi-arrow-thick-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-thick-right\" class=\"arrow-thick-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-thick-right"
+  },
+  "oi-arrow-thick-top": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-thick-top\" class=\"arrow-thick-top\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-thick-top"
+  },
+  "oi-arrow-top": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#arrow-top\" class=\"arrow-top\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "arrow-top"
+  },
+  "oi-audio": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#audio\" class=\"audio\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "audio"
+  },
+  "oi-audio-spectrum": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#audio-spectrum\" class=\"audio-spectrum\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "audio-spectrum"
+  },
+  "oi-badge": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#badge\" class=\"badge\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "badge"
+  },
+  "oi-ban": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#ban\" class=\"ban\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "ban"
+  },
+  "oi-bar-chart": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bar-chart\" class=\"bar-chart\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bar-chart"
+  },
+  "oi-basket": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#basket\" class=\"basket\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "basket"
+  },
+  "oi-battery-empty": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#battery-empty\" class=\"battery-empty\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "battery-empty"
+  },
+  "oi-battery-full": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#battery-full\" class=\"battery-full\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "battery-full"
+  },
+  "oi-beaker": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#beaker\" class=\"beaker\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "beaker"
+  },
+  "oi-bell": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bell\" class=\"bell\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bell"
+  },
+  "oi-bluetooth": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bluetooth\" class=\"bluetooth\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bluetooth"
+  },
+  "oi-bold": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bold\" class=\"bold\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bold"
+  },
+  "oi-bolt": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bolt\" class=\"bolt\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bolt"
+  },
+  "oi-book": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#book\" class=\"book\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "book"
+  },
+  "oi-bookmark": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bookmark\" class=\"bookmark\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bookmark"
+  },
+  "oi-box": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#box\" class=\"box\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "box"
+  },
+  "oi-briefcase": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#briefcase\" class=\"briefcase\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "briefcase"
+  },
+  "oi-british-pound": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#british-pound\" class=\"british-pound\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "british-pound"
+  },
+  "oi-browser": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#browser\" class=\"browser\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "browser"
+  },
+  "oi-brush": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#brush\" class=\"brush\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "brush"
+  },
+  "oi-bug": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bug\" class=\"bug\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bug"
+  },
+  "oi-bullhorn": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#bullhorn\" class=\"bullhorn\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "bullhorn"
+  },
+  "oi-calculator": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#calculator\" class=\"calculator\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "calculator"
+  },
+  "oi-calendar": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#calendar\" class=\"calendar\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "calendar"
+  },
+  "oi-camera-slr": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#camera-slr\" class=\"camera-slr\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "camera-slr"
+  },
+  "oi-caret-bottom": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#caret-bottom\" class=\"caret-bottom\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "caret-bottom"
+  },
+  "oi-caret-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#caret-left\" class=\"caret-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "caret-left"
+  },
+  "oi-caret-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#caret-right\" class=\"caret-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "caret-right"
+  },
+  "oi-caret-top": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#caret-top\" class=\"caret-top\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "caret-top"
+  },
+  "oi-cart": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#cart\" class=\"cart\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "cart"
+  },
+  "oi-chat": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#chat\" class=\"chat\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "chat"
+  },
+  "oi-check": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#check\" class=\"check\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "check"
+  },
+  "oi-chevron-bottom": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#chevron-bottom\" class=\"chevron-bottom\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "chevron-bottom"
+  },
+  "oi-chevron-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#chevron-left\" class=\"chevron-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "chevron-left"
+  },
+  "oi-chevron-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#chevron-right\" class=\"chevron-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "chevron-right"
+  },
+  "oi-chevron-top": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#chevron-top\" class=\"chevron-top\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "chevron-top"
+  },
+  "oi-circle-check": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#circle-check\" class=\"circle-check\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "circle-check"
+  },
+  "oi-circle-x": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#circle-x\" class=\"circle-x\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "circle-x"
+  },
+  "oi-clipboard": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#clipboard\" class=\"clipboard\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "clipboard"
+  },
+  "oi-clock": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#clock\" class=\"clock\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "clock"
+  },
+  "oi-cloud": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#cloud\" class=\"cloud\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "cloud"
+  },
+  "oi-cloud-download": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#cloud-download\" class=\"cloud-download\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "cloud-download"
+  },
+  "oi-cloud-upload": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#cloud-upload\" class=\"cloud-upload\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "cloud-upload"
+  },
+  "oi-cloudy": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#cloudy\" class=\"cloudy\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "cloudy"
+  },
+  "oi-code": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#code\" class=\"code\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "code"
+  },
+  "oi-cog": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#cog\" class=\"cog\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "cog"
+  },
+  "oi-collapse-down": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#collapse-down\" class=\"collapse-down\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "collapse-down"
+  },
+  "oi-collapse-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#collapse-left\" class=\"collapse-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "collapse-left"
+  },
+  "oi-collapse-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#collapse-right\" class=\"collapse-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "collapse-right"
+  },
+  "oi-collapse-up": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#collapse-up\" class=\"collapse-up\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "collapse-up"
+  },
+  "oi-command": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#command\" class=\"command\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "command"
+  },
+  "oi-comment-square": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#comment-square\" class=\"comment-square\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "comment-square"
+  },
+  "oi-compass": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#compass\" class=\"compass\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "compass"
+  },
+  "oi-contrast": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#contrast\" class=\"contrast\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "contrast"
+  },
+  "oi-copywriting": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#copywriting\" class=\"copywriting\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "copywriting"
+  },
+  "oi-credit-card": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#credit-card\" class=\"credit-card\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "credit-card"
+  },
+  "oi-crop": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#crop\" class=\"crop\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "crop"
+  },
+  "oi-dashboard": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#dashboard\" class=\"dashboard\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "dashboard"
+  },
+  "oi-data-transfer-download": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#data-transfer-download\" class=\"data-transfer-download\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "data-transfer-download"
+  },
+  "oi-data-transfer-upload": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#data-transfer-upload\" class=\"data-transfer-upload\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "data-transfer-upload"
+  },
+  "oi-delete": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#delete\" class=\"delete\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "delete"
+  },
+  "oi-dial": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#dial\" class=\"dial\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "dial"
+  },
+  "oi-document": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#document\" class=\"document\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "document"
+  },
+  "oi-dollar": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#dollar\" class=\"dollar\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "dollar"
+  },
+  "oi-double-quote-sans-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#double-quote-sans-left\" class=\"double-quote-sans-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "double-quote-sans-left"
+  },
+  "oi-double-quote-sans-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#double-quote-sans-right\" class=\"double-quote-sans-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "double-quote-sans-right"
+  },
+  "oi-double-quote-serif-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#double-quote-serif-left\" class=\"double-quote-serif-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "double-quote-serif-left"
+  },
+  "oi-double-quote-serif-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#double-quote-serif-right\" class=\"double-quote-serif-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "double-quote-serif-right"
+  },
+  "oi-droplet": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#droplet\" class=\"droplet\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "droplet"
+  },
+  "oi-eject": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#eject\" class=\"eject\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "eject"
+  },
+  "oi-elevator": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#elevator\" class=\"elevator\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "elevator"
+  },
+  "oi-ellipses": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#ellipses\" class=\"ellipses\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "ellipses"
+  },
+  "oi-envelope-closed": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#envelope-closed\" class=\"envelope-closed\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "envelope-closed"
+  },
+  "oi-envelope-open": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#envelope-open\" class=\"envelope-open\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "envelope-open"
+  },
+  "oi-euro": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#euro\" class=\"euro\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "euro"
+  },
+  "oi-excerpt": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#excerpt\" class=\"excerpt\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "excerpt"
+  },
+  "oi-expand-down": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#expand-down\" class=\"expand-down\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "expand-down"
+  },
+  "oi-expand-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#expand-left\" class=\"expand-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "expand-left"
+  },
+  "oi-expand-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#expand-right\" class=\"expand-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "expand-right"
+  },
+  "oi-expand-up": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#expand-up\" class=\"expand-up\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "expand-up"
+  },
+  "oi-external-link": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#external-link\" class=\"external-link\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "external-link"
+  },
+  "oi-eye": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#eye\" class=\"eye\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "eye"
+  },
+  "oi-eyedropper": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#eyedropper\" class=\"eyedropper\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "eyedropper"
+  },
+  "oi-file": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#file\" class=\"file\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "file"
+  },
+  "oi-fire": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#fire\" class=\"fire\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "fire"
+  },
+  "oi-flag": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#flag\" class=\"flag\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "flag"
+  },
+  "oi-flash": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#flash\" class=\"flash\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "flash"
+  },
+  "oi-folder": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#folder\" class=\"folder\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "folder"
+  },
+  "oi-fork": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#fork\" class=\"fork\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "fork"
+  },
+  "oi-fullscreen-enter": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#fullscreen-enter\" class=\"fullscreen-enter\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "fullscreen-enter"
+  },
+  "oi-fullscreen-exit": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#fullscreen-exit\" class=\"fullscreen-exit\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "fullscreen-exit"
+  },
+  "oi-globe": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#globe\" class=\"globe\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "globe"
+  },
+  "oi-graph": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#graph\" class=\"graph\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "graph"
+  },
+  "oi-grid-four-up": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#grid-four-up\" class=\"grid-four-up\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "grid-four-up"
+  },
+  "oi-grid-three-up": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#grid-three-up\" class=\"grid-three-up\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "grid-three-up"
+  },
+  "oi-grid-two-up": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#grid-two-up\" class=\"grid-two-up\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "grid-two-up"
+  },
+  "oi-hard-drive": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#hard-drive\" class=\"hard-drive\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "hard-drive"
+  },
+  "oi-header": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#header\" class=\"header\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "header"
+  },
+  "oi-headphones": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#headphones\" class=\"headphones\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "headphones"
+  },
+  "oi-heart": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#heart\" class=\"heart\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "heart"
+  },
+  "oi-home": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#home\" class=\"home\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "home"
+  },
+  "oi-image": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#image\" class=\"image\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "image"
+  },
+  "oi-inbox": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#inbox\" class=\"inbox\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "inbox"
+  },
+  "oi-infinity": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#infinity\" class=\"infinity\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "infinity"
+  },
+  "oi-info": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#info\" class=\"info\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "info"
+  },
+  "oi-italic": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#italic\" class=\"italic\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "italic"
+  },
+  "oi-justify-center": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#justify-center\" class=\"justify-center\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "justify-center"
+  },
+  "oi-justify-left": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#justify-left\" class=\"justify-left\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "justify-left"
+  },
+  "oi-justify-right": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#justify-right\" class=\"justify-right\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "justify-right"
+  },
+  "oi-key": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#key\" class=\"key\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "key"
+  },
+  "oi-laptop": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#laptop\" class=\"laptop\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "laptop"
+  },
+  "oi-layers": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#layers\" class=\"layers\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "layers"
+  },
+  "oi-lightbulb": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#lightbulb\" class=\"lightbulb\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "lightbulb"
+  },
+  "oi-link-broken": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#link-broken\" class=\"link-broken\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "link-broken"
+  },
+  "oi-link-intact": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#link-intact\" class=\"link-intact\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "link-intact"
+  },
+  "oi-list": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#list\" class=\"list\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "list"
+  },
+  "oi-list-rich": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#list-rich\" class=\"list-rich\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "list-rich"
+  },
+  "oi-location": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#location\" class=\"location\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "location"
+  },
+  "oi-lock-locked": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#lock-locked\" class=\"lock-locked\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "lock-locked"
+  },
+  "oi-lock-unlocked": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#lock-unlocked\" class=\"lock-unlocked\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "lock-unlocked"
+  },
+  "oi-loop": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#loop\" class=\"loop\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "loop"
+  },
+  "oi-loop-circular": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#loop-circular\" class=\"loop-circular\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "loop-circular"
+  },
+  "oi-loop-square": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#loop-square\" class=\"loop-square\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "loop-square"
+  },
+  "oi-magnifying-glass": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#magnifying-glass\" class=\"magnifying-glass\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "magnifying-glass"
+  },
+  "oi-map": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#map\" class=\"map\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "map"
+  },
+  "oi-map-marker": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#map-marker\" class=\"map-marker\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "map-marker"
+  },
+  "oi-media-pause": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-pause\" class=\"media-pause\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-pause"
+  },
+  "oi-media-play": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-play\" class=\"media-play\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-play"
+  },
+  "oi-media-record": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-record\" class=\"media-record\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-record"
+  },
+  "oi-media-skip-backward": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-skip-backward\" class=\"media-skip-backward\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-skip-backward"
+  },
+  "oi-media-skip-forward": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-skip-forward\" class=\"media-skip-forward\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-skip-forward"
+  },
+  "oi-media-step-backward": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-step-backward\" class=\"media-step-backward\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-step-backward"
+  },
+  "oi-media-step-forward": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-step-forward\" class=\"media-step-forward\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-step-forward"
+  },
+  "oi-media-stop": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#media-stop\" class=\"media-stop\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "media-stop"
+  },
+  "oi-medical-cross": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#medical-cross\" class=\"medical-cross\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "medical-cross"
+  },
+  "oi-menu": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#menu\" class=\"menu\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "menu"
+  },
+  "oi-microphone": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#microphone\" class=\"microphone\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "microphone"
+  },
+  "oi-minus": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#minus\" class=\"minus\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "minus"
+  },
+  "oi-monitor": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#monitor\" class=\"monitor\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "monitor"
+  },
+  "oi-moon": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#moon\" class=\"moon\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "moon"
+  },
+  "oi-move": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#move\" class=\"move\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "move"
+  },
+  "oi-musical-note": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#musical-note\" class=\"musical-note\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "musical-note"
+  },
+  "oi-paperclip": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#paperclip\" class=\"paperclip\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "paperclip"
+  },
+  "oi-pencil": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#pencil\" class=\"pencil\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "pencil"
+  },
+  "oi-people": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#people\" class=\"people\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "people"
+  },
+  "oi-person": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#person\" class=\"person\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "person"
+  },
+  "oi-phone": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#phone\" class=\"phone\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "phone"
+  },
+  "oi-pie-chart": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#pie-chart\" class=\"pie-chart\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "pie-chart"
+  },
+  "oi-pin": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#pin\" class=\"pin\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "pin"
+  },
+  "oi-play-circle": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#play-circle\" class=\"play-circle\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "play-circle"
+  },
+  "oi-plus": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#plus\" class=\"plus\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "plus"
+  },
+  "oi-power-standby": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#power-standby\" class=\"power-standby\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "power-standby"
+  },
+  "oi-print": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#print\" class=\"print\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "print"
+  },
+  "oi-project": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#project\" class=\"project\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "project"
+  },
+  "oi-pulse": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#pulse\" class=\"pulse\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "pulse"
+  },
+  "oi-puzzle-piece": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#puzzle-piece\" class=\"puzzle-piece\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "puzzle-piece"
+  },
+  "oi-question-mark": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#question-mark\" class=\"question-mark\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "question-mark"
+  },
+  "oi-rain": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#rain\" class=\"rain\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "rain"
+  },
+  "oi-random": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#random\" class=\"random\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "random"
+  },
+  "oi-reload": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#reload\" class=\"reload\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "reload"
+  },
+  "oi-resize-both": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#resize-both\" class=\"resize-both\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "resize-both"
+  },
+  "oi-resize-height": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#resize-height\" class=\"resize-height\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "resize-height"
+  },
+  "oi-resize-width": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#resize-width\" class=\"resize-width\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "resize-width"
+  },
+  "oi-rss": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#rss\" class=\"rss\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "rss"
+  },
+  "oi-rss-alt": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#rss-alt\" class=\"rss-alt\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "rss-alt"
+  },
+  "oi-script": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#script\" class=\"script\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "script"
+  },
+  "oi-share": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#share\" class=\"share\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "share"
+  },
+  "oi-share-boxed": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#share-boxed\" class=\"share-boxed\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "share-boxed"
+  },
+  "oi-shield": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#shield\" class=\"shield\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "shield"
+  },
+  "oi-signal": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#signal\" class=\"signal\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "signal"
+  },
+  "oi-signpost": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#signpost\" class=\"signpost\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "signpost"
+  },
+  "oi-sort-ascending": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#sort-ascending\" class=\"sort-ascending\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "sort-ascending"
+  },
+  "oi-sort-descending": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#sort-descending\" class=\"sort-descending\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "sort-descending"
+  },
+  "oi-spreadsheet": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#spreadsheet\" class=\"spreadsheet\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "spreadsheet"
+  },
+  "oi-star": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#star\" class=\"star\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "star"
+  },
+  "oi-sun": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#sun\" class=\"sun\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "sun"
+  },
+  "oi-tablet": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#tablet\" class=\"tablet\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "tablet"
+  },
+  "oi-tag": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#tag\" class=\"tag\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "tag"
+  },
+  "oi-tags": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#tags\" class=\"tags\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "tags"
+  },
+  "oi-target": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#target\" class=\"target\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "target"
+  },
+  "oi-task": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#task\" class=\"task\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "task"
+  },
+  "oi-terminal": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#terminal\" class=\"terminal\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "terminal"
+  },
+  "oi-text": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#text\" class=\"text\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "text"
+  },
+  "oi-thumb-down": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#thumb-down\" class=\"thumb-down\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "thumb-down"
+  },
+  "oi-thumb-up": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#thumb-up\" class=\"thumb-up\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "thumb-up"
+  },
+  "oi-timer": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#timer\" class=\"timer\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "timer"
+  },
+  "oi-transfer": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#transfer\" class=\"transfer\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "transfer"
+  },
+  "oi-trash": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#trash\" class=\"trash\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "trash"
+  },
+  "oi-underline": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#underline\" class=\"underline\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "underline"
+  },
+  "oi-vertical-align-bottom": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#vertical-align-bottom\" class=\"vertical-align-bottom\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "vertical-align-bottom"
+  },
+  "oi-vertical-align-center": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#vertical-align-center\" class=\"vertical-align-center\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "vertical-align-center"
+  },
+  "oi-vertical-align-top": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#vertical-align-top\" class=\"vertical-align-top\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "vertical-align-top"
+  },
+  "oi-video": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#video\" class=\"video\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "video"
+  },
+  "oi-volume-high": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#volume-high\" class=\"volume-high\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "volume-high"
+  },
+  "oi-volume-low": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#volume-low\" class=\"volume-low\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "volume-low"
+  },
+  "oi-volume-off": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#volume-off\" class=\"volume-off\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "volume-off"
+  },
+  "oi-warning": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#warning\" class=\"warning\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "warning"
+  },
+  "oi-wifi": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#wifi\" class=\"wifi\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "wifi"
+  },
+  "oi-wrench": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#wrench\" class=\"wrench\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "wrench"
+  },
+  "oi-x": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#x\" class=\"x\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "x"
+  },
+  "oi-yen": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#yen\" class=\"yen\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "yen"
+  },
+  "oi-zoom-in": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#zoom-in\" class=\"zoom-in\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "zoom-in"
+  },
+  "oi-zoom-out": {
+    "body": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic}.svg#zoom-out\" class=\"zoom-out\"></use>\n</svg>$0",
+    "description": "<svg>",
+    "prefix": "zoom-out"
+  }
+}
