@@ -1,427 +1,427 @@
 {
   "bi-activity": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#activity\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-activity"
   },
   "bi-alert": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#alert\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-alert"
   },
   "bi-archive": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#archive\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-archive"
   },
   "bi-arrow-bottom": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#arrow-bottom\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-arrow-bottom"
   },
   "bi-arrow-left": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#arrow-left\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-arrow-left"
   },
   "bi-arrow-right": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#arrow-right\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-arrow-right"
   },
   "bi-arrow-top": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#arrow-top\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-arrow-top"
   },
   "bi-backwards": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#backwards\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-backwards"
   },
   "bi-ban": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#ban\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-ban"
   },
   "bi-bell": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#bell\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-bell"
   },
   "bi-book": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#book\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-book"
   },
   "bi-bookmark": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#bookmark\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-bookmark"
   },
   "bi-calendar": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#calendar\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-calendar"
   },
   "bi-camera": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#camera\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-camera"
   },
   "bi-caret-bottom": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#caret-bottom\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-caret-bottom"
   },
   "bi-caret-left": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#caret-left\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-caret-left"
   },
   "bi-caret-right": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#caret-right\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-caret-right"
   },
   "bi-caret-top": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#caret-top\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-caret-top"
   },
   "bi-cart": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#cart\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-cart"
   },
   "bi-checkmark": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#checkmark\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-checkmark"
   },
   "bi-chevron-bottom": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#chevron-bottom\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-chevron-bottom"
   },
   "bi-chevron-left": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#chevron-left\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-chevron-left"
   },
   "bi-chevron-right": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#chevron-right\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-chevron-right"
   },
   "bi-chevron-top": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#chevron-top\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-chevron-top"
   },
   "bi-clock": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#clock\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-clock"
   },
   "bi-close": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#close\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-close"
   },
   "bi-code": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#code\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-code"
   },
   "bi-compose": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#compose\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-compose"
   },
   "bi-creditcard": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#creditcard\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-creditcard"
   },
   "bi-download": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#download\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-download"
   },
   "bi-edit": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#edit\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-edit"
   },
   "bi-eject": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#eject\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-eject"
   },
   "bi-ellipsis-horizontal": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#ellipsis-horizontal\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-ellipsis-horizontal"
   },
   "bi-ellipsis-vertical": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#ellipsis-vertical\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-ellipsis-vertical"
   },
   "bi-end": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#end\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-end"
   },
   "bi-export": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#export\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-export"
   },
   "bi-external": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#external\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-external"
   },
   "bi-eye": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#eye\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-eye"
   },
   "bi-file": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#file\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-file"
   },
   "bi-fire": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#fire\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-fire"
   },
   "bi-flag": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#flag\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-flag"
   },
   "bi-folder": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#folder\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-folder"
   },
   "bi-folder-open": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#folder-open\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-folder-open"
   },
   "bi-forwards": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#forwards\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-forwards"
   },
   "bi-gift": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#gift\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-gift"
   },
   "bi-github": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#github\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-github"
   },
   "bi-heart": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#heart\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-heart"
   },
   "bi-home": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#home\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-home"
   },
   "bi-import": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#import\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-import"
   },
   "bi-inbox": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#inbox\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-inbox"
   },
   "bi-info": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#info\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-info"
   },
   "bi-lightning": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#lightning\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-lightning"
   },
   "bi-link": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#link\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-link"
   },
   "bi-location": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#location\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-location"
   },
   "bi-lock": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#lock\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-lock"
   },
   "bi-mail": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#mail\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-mail"
   },
   "bi-menu": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#menu\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-menu"
   },
   "bi-message": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#message\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-message"
   },
   "bi-minus": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#minus\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-minus"
   },
   "bi-music": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#music\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-music"
   },
   "bi-mute": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#mute\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-mute"
   },
   "bi-options": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#options\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-options"
   },
   "bi-paperclip": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#paperclip\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-paperclip"
   },
   "bi-pause": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#pause\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-pause"
   },
   "bi-photo": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#photo\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-photo"
   },
   "bi-play": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#play\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-play"
   },
   "bi-plus": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#plus\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-plus"
   },
   "bi-portfolio": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#portfolio\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-portfolio"
   },
   "bi-print": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#print\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-print"
   },
   "bi-reload": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#reload\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-reload"
   },
   "bi-reply": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#reply\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-reply"
   },
   "bi-search": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#search\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-search"
   },
   "bi-send": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#send\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-send"
   },
   "bi-settings": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#settings\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-settings"
   },
   "bi-star": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#star\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-star"
   },
   "bi-start": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#start\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-start"
   },
   "bi-tag": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#tag\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-tag"
   },
   "bi-trash": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#trash\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-trash"
   },
   "bi-twitter": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#twitter\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-twitter"
   },
   "bi-unlock": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#unlock\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-unlock"
   },
   "bi-upload": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#upload\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-upload"
   },
   "bi-user": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#user\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-user"
   },
   "bi-video": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#video\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-video"
   },
   "bi-volume": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#volume\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-volume"
   },
   "bi-work": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"$1#work\" />\n</svg>",
-    "description": "<svg>",
+    "description": "<use>",
     "prefix": "bi-work"
   }
 }
