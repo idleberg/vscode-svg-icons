@@ -23,6 +23,10 @@
     "bugs": {
         "url": "https://github.com/idleberg/vscode-svg-icons/issues"
     },
+    "icon": "images/logo.svg",
+    "galleryBanner": {
+        "color": "#bee7fa"
+    },
     "engines": {
         "vscode": "^1.0.0"
     },
