@@ -67,4 +67,4 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [ei]: https://github.com/outpunk/evil-icons
 [octicon]: https://github.com/github/octicons
 [oi]: https://github.com/iconic/open-iconic
-[si]: https://github.com/frexy/glyph-icons
+[si]: https://github.com/frexy/glyph-iconset
