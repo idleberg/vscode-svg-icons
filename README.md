@@ -5,7 +5,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/vscode-svg-icons.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-svg-icons)
 [![David](https://img.shields.io/david/dev/idleberg/vscode-svg-icons.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-svg-icons?type=dev)
 
-Snippets for a variety of icon fonts ([see details](https://github.com/idleberg/vscode-svg-icons#prefixes)).
+Snippets for popular SVG icons including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize ([see details](https://github.com/idleberg/vscode-svg-icons#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-svg-icons) and [Sublime Text](https://github.com/idleberg/sublime-svg-icons)
 

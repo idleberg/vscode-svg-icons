@@ -1,7 +1,7 @@
 {
     "name": "svg-icons",
     "displayName": "SVG Icons",
-    "description": "Snippets for popular SVG fonts Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize",
+    "description": "Snippets for popular SVG icons, including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize",
     "version": "0.2.1",
     "publisher": "idleberg",
     "license": "MIT",
