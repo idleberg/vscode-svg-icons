@@ -53,6 +53,10 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/se.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/si.json"
             }
         ]

@@ -55,6 +55,7 @@ Prefix         | SVG Icons                           | Version
 `ei`           | [Evil Icons][ei]                    | 1.8.0
 `octicon`      | [GitHub Octicons][octicon]          | 5.0.0
 `oi`           | [Open Iconic][oi]                   | 1.1.0
+`se`           | [Speakemoji][se]                    | -
 `si`           | [SmartIcons Glyphs][si]             | 1.1
 
 ## License
@@ -69,4 +70,5 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [ei]: https://github.com/outpunk/evil-icons
 [octicon]: https://github.com/github/octicons
 [oi]: https://github.com/iconic/open-iconic
+[se]: https://github.com/rizalrenaldi/speakemoji
 [si]: https://github.com/frexy/glyph-iconset
