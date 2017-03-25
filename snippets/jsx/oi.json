@@ -1,0 +1,1117 @@
+{
+  "oi-account-login": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#account-login\" className=\"account-login\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "account-login"
+  },
+  "oi-account-logout": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#account-logout\" className=\"account-logout\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "account-logout"
+  },
+  "oi-action-redo": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#action-redo\" className=\"action-redo\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "action-redo"
+  },
+  "oi-action-undo": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#action-undo\" className=\"action-undo\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "action-undo"
+  },
+  "oi-align-center": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-center\" className=\"align-center\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "align-center"
+  },
+  "oi-align-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-left\" className=\"align-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "align-left"
+  },
+  "oi-align-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-right\" className=\"align-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "align-right"
+  },
+  "oi-aperture": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#aperture\" className=\"aperture\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "aperture"
+  },
+  "oi-arrow-bottom": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-bottom\" className=\"arrow-bottom\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-bottom"
+  },
+  "oi-arrow-circle-bottom": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-bottom\" className=\"arrow-circle-bottom\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-circle-bottom"
+  },
+  "oi-arrow-circle-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-left\" className=\"arrow-circle-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-circle-left"
+  },
+  "oi-arrow-circle-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-right\" className=\"arrow-circle-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-circle-right"
+  },
+  "oi-arrow-circle-top": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-top\" className=\"arrow-circle-top\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-circle-top"
+  },
+  "oi-arrow-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-left\" className=\"arrow-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-left"
+  },
+  "oi-arrow-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-right\" className=\"arrow-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-right"
+  },
+  "oi-arrow-thick-bottom": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-bottom\" className=\"arrow-thick-bottom\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-thick-bottom"
+  },
+  "oi-arrow-thick-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-left\" className=\"arrow-thick-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-thick-left"
+  },
+  "oi-arrow-thick-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-right\" className=\"arrow-thick-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-thick-right"
+  },
+  "oi-arrow-thick-top": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-top\" className=\"arrow-thick-top\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-thick-top"
+  },
+  "oi-arrow-top": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-top\" className=\"arrow-top\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "arrow-top"
+  },
+  "oi-audio": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#audio\" className=\"audio\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "audio"
+  },
+  "oi-audio-spectrum": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#audio-spectrum\" className=\"audio-spectrum\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "audio-spectrum"
+  },
+  "oi-badge": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#badge\" className=\"badge\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "badge"
+  },
+  "oi-ban": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#ban\" className=\"ban\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "ban"
+  },
+  "oi-bar-chart": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bar-chart\" className=\"bar-chart\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bar-chart"
+  },
+  "oi-basket": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#basket\" className=\"basket\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "basket"
+  },
+  "oi-battery-empty": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#battery-empty\" className=\"battery-empty\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "battery-empty"
+  },
+  "oi-battery-full": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#battery-full\" className=\"battery-full\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "battery-full"
+  },
+  "oi-beaker": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#beaker\" className=\"beaker\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "beaker"
+  },
+  "oi-bell": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bell\" className=\"bell\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bell"
+  },
+  "oi-bluetooth": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bluetooth\" className=\"bluetooth\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bluetooth"
+  },
+  "oi-bold": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bold\" className=\"bold\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bold"
+  },
+  "oi-bolt": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bolt\" className=\"bolt\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bolt"
+  },
+  "oi-book": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#book\" className=\"book\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "book"
+  },
+  "oi-bookmark": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bookmark\" className=\"bookmark\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bookmark"
+  },
+  "oi-box": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#box\" className=\"box\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "box"
+  },
+  "oi-briefcase": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#briefcase\" className=\"briefcase\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "briefcase"
+  },
+  "oi-british-pound": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#british-pound\" className=\"british-pound\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "british-pound"
+  },
+  "oi-browser": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#browser\" className=\"browser\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "browser"
+  },
+  "oi-brush": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#brush\" className=\"brush\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "brush"
+  },
+  "oi-bug": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bug\" className=\"bug\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bug"
+  },
+  "oi-bullhorn": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bullhorn\" className=\"bullhorn\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "bullhorn"
+  },
+  "oi-calculator": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#calculator\" className=\"calculator\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "calculator"
+  },
+  "oi-calendar": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#calendar\" className=\"calendar\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "calendar"
+  },
+  "oi-camera-slr": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#camera-slr\" className=\"camera-slr\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "camera-slr"
+  },
+  "oi-caret-bottom": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-bottom\" className=\"caret-bottom\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "caret-bottom"
+  },
+  "oi-caret-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-left\" className=\"caret-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "caret-left"
+  },
+  "oi-caret-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-right\" className=\"caret-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "caret-right"
+  },
+  "oi-caret-top": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-top\" className=\"caret-top\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "caret-top"
+  },
+  "oi-cart": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cart\" className=\"cart\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "cart"
+  },
+  "oi-chat": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chat\" className=\"chat\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "chat"
+  },
+  "oi-check": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#check\" className=\"check\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "check"
+  },
+  "oi-chevron-bottom": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-bottom\" className=\"chevron-bottom\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "chevron-bottom"
+  },
+  "oi-chevron-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-left\" className=\"chevron-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "chevron-left"
+  },
+  "oi-chevron-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-right\" className=\"chevron-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "chevron-right"
+  },
+  "oi-chevron-top": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-top\" className=\"chevron-top\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "chevron-top"
+  },
+  "oi-circle-check": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#circle-check\" className=\"circle-check\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "circle-check"
+  },
+  "oi-circle-x": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#circle-x\" className=\"circle-x\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "circle-x"
+  },
+  "oi-clipboard": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#clipboard\" className=\"clipboard\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "clipboard"
+  },
+  "oi-clock": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#clock\" className=\"clock\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "clock"
+  },
+  "oi-cloud": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud\" className=\"cloud\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "cloud"
+  },
+  "oi-cloud-download": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud-download\" className=\"cloud-download\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "cloud-download"
+  },
+  "oi-cloud-upload": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud-upload\" className=\"cloud-upload\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "cloud-upload"
+  },
+  "oi-cloudy": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloudy\" className=\"cloudy\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "cloudy"
+  },
+  "oi-code": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#code\" className=\"code\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "code"
+  },
+  "oi-cog": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cog\" className=\"cog\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "cog"
+  },
+  "oi-collapse-down": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-down\" className=\"collapse-down\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "collapse-down"
+  },
+  "oi-collapse-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-left\" className=\"collapse-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "collapse-left"
+  },
+  "oi-collapse-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-right\" className=\"collapse-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "collapse-right"
+  },
+  "oi-collapse-up": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-up\" className=\"collapse-up\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "collapse-up"
+  },
+  "oi-command": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#command\" className=\"command\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "command"
+  },
+  "oi-comment-square": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#comment-square\" className=\"comment-square\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "comment-square"
+  },
+  "oi-compass": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#compass\" className=\"compass\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "compass"
+  },
+  "oi-contrast": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#contrast\" className=\"contrast\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "contrast"
+  },
+  "oi-copywriting": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#copywriting\" className=\"copywriting\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "copywriting"
+  },
+  "oi-credit-card": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#credit-card\" className=\"credit-card\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "credit-card"
+  },
+  "oi-crop": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#crop\" className=\"crop\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "crop"
+  },
+  "oi-dashboard": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dashboard\" className=\"dashboard\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "dashboard"
+  },
+  "oi-data-transfer-download": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#data-transfer-download\" className=\"data-transfer-download\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "data-transfer-download"
+  },
+  "oi-data-transfer-upload": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#data-transfer-upload\" className=\"data-transfer-upload\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "data-transfer-upload"
+  },
+  "oi-delete": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#delete\" className=\"delete\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "delete"
+  },
+  "oi-dial": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dial\" className=\"dial\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "dial"
+  },
+  "oi-document": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#document\" className=\"document\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "document"
+  },
+  "oi-dollar": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dollar\" className=\"dollar\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "dollar"
+  },
+  "oi-double-quote-sans-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-sans-left\" className=\"double-quote-sans-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "double-quote-sans-left"
+  },
+  "oi-double-quote-sans-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-sans-right\" className=\"double-quote-sans-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "double-quote-sans-right"
+  },
+  "oi-double-quote-serif-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-serif-left\" className=\"double-quote-serif-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "double-quote-serif-left"
+  },
+  "oi-double-quote-serif-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-serif-right\" className=\"double-quote-serif-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "double-quote-serif-right"
+  },
+  "oi-droplet": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#droplet\" className=\"droplet\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "droplet"
+  },
+  "oi-eject": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eject\" className=\"eject\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "eject"
+  },
+  "oi-elevator": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#elevator\" className=\"elevator\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "elevator"
+  },
+  "oi-ellipses": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#ellipses\" className=\"ellipses\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "ellipses"
+  },
+  "oi-envelope-closed": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#envelope-closed\" className=\"envelope-closed\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "envelope-closed"
+  },
+  "oi-envelope-open": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#envelope-open\" className=\"envelope-open\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "envelope-open"
+  },
+  "oi-euro": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#euro\" className=\"euro\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "euro"
+  },
+  "oi-excerpt": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#excerpt\" className=\"excerpt\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "excerpt"
+  },
+  "oi-expand-down": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-down\" className=\"expand-down\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "expand-down"
+  },
+  "oi-expand-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-left\" className=\"expand-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "expand-left"
+  },
+  "oi-expand-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-right\" className=\"expand-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "expand-right"
+  },
+  "oi-expand-up": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-up\" className=\"expand-up\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "expand-up"
+  },
+  "oi-external-link": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#external-link\" className=\"external-link\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "external-link"
+  },
+  "oi-eye": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eye\" className=\"eye\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "eye"
+  },
+  "oi-eyedropper": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eyedropper\" className=\"eyedropper\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "eyedropper"
+  },
+  "oi-file": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#file\" className=\"file\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "file"
+  },
+  "oi-fire": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fire\" className=\"fire\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "fire"
+  },
+  "oi-flag": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#flag\" className=\"flag\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "flag"
+  },
+  "oi-flash": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#flash\" className=\"flash\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "flash"
+  },
+  "oi-folder": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#folder\" className=\"folder\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "folder"
+  },
+  "oi-fork": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fork\" className=\"fork\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "fork"
+  },
+  "oi-fullscreen-enter": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fullscreen-enter\" className=\"fullscreen-enter\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "fullscreen-enter"
+  },
+  "oi-fullscreen-exit": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fullscreen-exit\" className=\"fullscreen-exit\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "fullscreen-exit"
+  },
+  "oi-globe": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#globe\" className=\"globe\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "globe"
+  },
+  "oi-graph": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#graph\" className=\"graph\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "graph"
+  },
+  "oi-grid-four-up": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-four-up\" className=\"grid-four-up\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "grid-four-up"
+  },
+  "oi-grid-three-up": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-three-up\" className=\"grid-three-up\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "grid-three-up"
+  },
+  "oi-grid-two-up": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-two-up\" className=\"grid-two-up\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "grid-two-up"
+  },
+  "oi-hard-drive": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#hard-drive\" className=\"hard-drive\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "hard-drive"
+  },
+  "oi-header": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#header\" className=\"header\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "header"
+  },
+  "oi-headphones": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#headphones\" className=\"headphones\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "headphones"
+  },
+  "oi-heart": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#heart\" className=\"heart\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "heart"
+  },
+  "oi-home": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#home\" className=\"home\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "home"
+  },
+  "oi-image": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#image\" className=\"image\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "image"
+  },
+  "oi-inbox": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#inbox\" className=\"inbox\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "inbox"
+  },
+  "oi-infinity": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#infinity\" className=\"infinity\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "infinity"
+  },
+  "oi-info": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#info\" className=\"info\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "info"
+  },
+  "oi-italic": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#italic\" className=\"italic\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "italic"
+  },
+  "oi-justify-center": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-center\" className=\"justify-center\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "justify-center"
+  },
+  "oi-justify-left": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-left\" className=\"justify-left\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "justify-left"
+  },
+  "oi-justify-right": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-right\" className=\"justify-right\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "justify-right"
+  },
+  "oi-key": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#key\" className=\"key\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "key"
+  },
+  "oi-laptop": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#laptop\" className=\"laptop\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "laptop"
+  },
+  "oi-layers": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#layers\" className=\"layers\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "layers"
+  },
+  "oi-lightbulb": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lightbulb\" className=\"lightbulb\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "lightbulb"
+  },
+  "oi-link-broken": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#link-broken\" className=\"link-broken\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "link-broken"
+  },
+  "oi-link-intact": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#link-intact\" className=\"link-intact\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "link-intact"
+  },
+  "oi-list": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#list\" className=\"list\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "list"
+  },
+  "oi-list-rich": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#list-rich\" className=\"list-rich\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "list-rich"
+  },
+  "oi-location": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#location\" className=\"location\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "location"
+  },
+  "oi-lock-locked": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lock-locked\" className=\"lock-locked\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "lock-locked"
+  },
+  "oi-lock-unlocked": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lock-unlocked\" className=\"lock-unlocked\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "lock-unlocked"
+  },
+  "oi-loop": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop\" className=\"loop\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "loop"
+  },
+  "oi-loop-circular": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop-circular\" className=\"loop-circular\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "loop-circular"
+  },
+  "oi-loop-square": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop-square\" className=\"loop-square\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "loop-square"
+  },
+  "oi-magnifying-glass": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#magnifying-glass\" className=\"magnifying-glass\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "magnifying-glass"
+  },
+  "oi-map": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#map\" className=\"map\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "map"
+  },
+  "oi-map-marker": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#map-marker\" className=\"map-marker\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "map-marker"
+  },
+  "oi-media-pause": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-pause\" className=\"media-pause\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-pause"
+  },
+  "oi-media-play": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-play\" className=\"media-play\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-play"
+  },
+  "oi-media-record": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-record\" className=\"media-record\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-record"
+  },
+  "oi-media-skip-backward": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-skip-backward\" className=\"media-skip-backward\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-skip-backward"
+  },
+  "oi-media-skip-forward": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-skip-forward\" className=\"media-skip-forward\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-skip-forward"
+  },
+  "oi-media-step-backward": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-step-backward\" className=\"media-step-backward\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-step-backward"
+  },
+  "oi-media-step-forward": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-step-forward\" className=\"media-step-forward\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-step-forward"
+  },
+  "oi-media-stop": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-stop\" className=\"media-stop\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "media-stop"
+  },
+  "oi-medical-cross": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#medical-cross\" className=\"medical-cross\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "medical-cross"
+  },
+  "oi-menu": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#menu\" className=\"menu\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "menu"
+  },
+  "oi-microphone": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#microphone\" className=\"microphone\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "microphone"
+  },
+  "oi-minus": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#minus\" className=\"minus\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "minus"
+  },
+  "oi-monitor": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#monitor\" className=\"monitor\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "monitor"
+  },
+  "oi-moon": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#moon\" className=\"moon\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "moon"
+  },
+  "oi-move": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#move\" className=\"move\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "move"
+  },
+  "oi-musical-note": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#musical-note\" className=\"musical-note\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "musical-note"
+  },
+  "oi-paperclip": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#paperclip\" className=\"paperclip\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "paperclip"
+  },
+  "oi-pencil": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pencil\" className=\"pencil\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "pencil"
+  },
+  "oi-people": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#people\" className=\"people\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "people"
+  },
+  "oi-person": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#person\" className=\"person\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "person"
+  },
+  "oi-phone": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#phone\" className=\"phone\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "phone"
+  },
+  "oi-pie-chart": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pie-chart\" className=\"pie-chart\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "pie-chart"
+  },
+  "oi-pin": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pin\" className=\"pin\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "pin"
+  },
+  "oi-play-circle": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#play-circle\" className=\"play-circle\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "play-circle"
+  },
+  "oi-plus": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#plus\" className=\"plus\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "plus"
+  },
+  "oi-power-standby": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#power-standby\" className=\"power-standby\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "power-standby"
+  },
+  "oi-print": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#print\" className=\"print\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "print"
+  },
+  "oi-project": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#project\" className=\"project\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "project"
+  },
+  "oi-pulse": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pulse\" className=\"pulse\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "pulse"
+  },
+  "oi-puzzle-piece": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#puzzle-piece\" className=\"puzzle-piece\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "puzzle-piece"
+  },
+  "oi-question-mark": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#question-mark\" className=\"question-mark\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "question-mark"
+  },
+  "oi-rain": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rain\" className=\"rain\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "rain"
+  },
+  "oi-random": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#random\" className=\"random\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "random"
+  },
+  "oi-reload": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#reload\" className=\"reload\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "reload"
+  },
+  "oi-resize-both": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-both\" className=\"resize-both\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "resize-both"
+  },
+  "oi-resize-height": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-height\" className=\"resize-height\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "resize-height"
+  },
+  "oi-resize-width": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-width\" className=\"resize-width\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "resize-width"
+  },
+  "oi-rss": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rss\" className=\"rss\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "rss"
+  },
+  "oi-rss-alt": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rss-alt\" className=\"rss-alt\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "rss-alt"
+  },
+  "oi-script": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#script\" className=\"script\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "script"
+  },
+  "oi-share": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#share\" className=\"share\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "share"
+  },
+  "oi-share-boxed": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#share-boxed\" className=\"share-boxed\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "share-boxed"
+  },
+  "oi-shield": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#shield\" className=\"shield\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "shield"
+  },
+  "oi-signal": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#signal\" className=\"signal\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "signal"
+  },
+  "oi-signpost": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#signpost\" className=\"signpost\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "signpost"
+  },
+  "oi-sort-ascending": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sort-ascending\" className=\"sort-ascending\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "sort-ascending"
+  },
+  "oi-sort-descending": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sort-descending\" className=\"sort-descending\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "sort-descending"
+  },
+  "oi-spreadsheet": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#spreadsheet\" className=\"spreadsheet\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "spreadsheet"
+  },
+  "oi-star": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#star\" className=\"star\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "star"
+  },
+  "oi-sun": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sun\" className=\"sun\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "sun"
+  },
+  "oi-tablet": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tablet\" className=\"tablet\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "tablet"
+  },
+  "oi-tag": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tag\" className=\"tag\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "tag"
+  },
+  "oi-tags": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tags\" className=\"tags\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "tags"
+  },
+  "oi-target": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#target\" className=\"target\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "target"
+  },
+  "oi-task": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#task\" className=\"task\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "task"
+  },
+  "oi-terminal": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#terminal\" className=\"terminal\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "terminal"
+  },
+  "oi-text": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#text\" className=\"text\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "text"
+  },
+  "oi-thumb-down": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#thumb-down\" className=\"thumb-down\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "thumb-down"
+  },
+  "oi-thumb-up": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#thumb-up\" className=\"thumb-up\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "thumb-up"
+  },
+  "oi-timer": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#timer\" className=\"timer\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "timer"
+  },
+  "oi-transfer": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#transfer\" className=\"transfer\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "transfer"
+  },
+  "oi-trash": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#trash\" className=\"trash\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "trash"
+  },
+  "oi-underline": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#underline\" className=\"underline\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "underline"
+  },
+  "oi-vertical-align-bottom": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-bottom\" className=\"vertical-align-bottom\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "vertical-align-bottom"
+  },
+  "oi-vertical-align-center": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-center\" className=\"vertical-align-center\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "vertical-align-center"
+  },
+  "oi-vertical-align-top": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-top\" className=\"vertical-align-top\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "vertical-align-top"
+  },
+  "oi-video": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#video\" className=\"video\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "video"
+  },
+  "oi-volume-high": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-high\" className=\"volume-high\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "volume-high"
+  },
+  "oi-volume-low": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-low\" className=\"volume-low\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "volume-low"
+  },
+  "oi-volume-off": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-off\" className=\"volume-off\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "volume-off"
+  },
+  "oi-warning": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#warning\" className=\"warning\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "warning"
+  },
+  "oi-wifi": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#wifi\" className=\"wifi\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "wifi"
+  },
+  "oi-wrench": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#wrench\" className=\"wrench\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "wrench"
+  },
+  "oi-x": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#x\" className=\"x\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "x"
+  },
+  "oi-yen": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#yen\" className=\"yen\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "yen"
+  },
+  "oi-zoom-in": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#zoom-in\" className=\"zoom-in\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "zoom-in"
+  },
+  "oi-zoom-out": {
+    "body": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#zoom-out\" className=\"zoom-out\"></use>\n</svg>",
+    "description": "<use>",
+    "prefix": "zoom-out"
+  }
+}

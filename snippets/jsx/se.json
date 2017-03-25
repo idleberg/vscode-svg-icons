@@ -1,0 +1,242 @@
+{
+  "se-angry": {
+    "body": "<${1:div} className=\"se se-angry se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-angry"
+  },
+  "se-badEvil": {
+    "body": "<${1:div} className=\"se se-badEvil se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-badEvil"
+  },
+  "se-badFrown": {
+    "body": "<${1:div} className=\"se se-badFrown se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-badFrown"
+  },
+  "se-blush": {
+    "body": "<${1:div} className=\"se se-blush se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-blush"
+  },
+  "se-boiled": {
+    "body": "<${1:div} className=\"se se-boiled se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-boiled"
+  },
+  "se-cool": {
+    "body": "<${1:div} className=\"se se-cool se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-cool"
+  },
+  "se-dead": {
+    "body": "<${1:div} className=\"se se-dead se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-dead"
+  },
+  "se-deadSweat": {
+    "body": "<${1:div} className=\"se se-deadSweat se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-deadSweat"
+  },
+  "se-emoKiss": {
+    "body": "<${1:div} className=\"se se-emoKiss se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-emoKiss"
+  },
+  "se-expressionless": {
+    "body": "<${1:div} className=\"se se-expressionless se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-expressionless"
+  },
+  "se-flushed": {
+    "body": "<${1:div} className=\"se se-flushed se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-flushed"
+  },
+  "se-frown": {
+    "body": "<${1:div} className=\"se se-frown se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-frown"
+  },
+  "se-goodEvil": {
+    "body": "<${1:div} className=\"se se-goodEvil se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-goodEvil"
+  },
+  "se-grin": {
+    "body": "<${1:div} className=\"se se-grin se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-grin"
+  },
+  "se-happyKiss": {
+    "body": "<${1:div} className=\"se se-happyKiss se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-happyKiss"
+  },
+  "se-joy": {
+    "body": "<${1:div} className=\"se se-joy se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-joy"
+  },
+  "se-kiss": {
+    "body": "<${1:div} className=\"se se-kiss se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-kiss"
+  },
+  "se-kissHeart": {
+    "body": "<${1:div} className=\"se se-kissHeart se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-kissHeart"
+  },
+  "se-laugh": {
+    "body": "<${1:div} className=\"se se-laugh se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-laugh"
+  },
+  "se-love": {
+    "body": "<${1:div} className=\"se se-love se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-love"
+  },
+  "se-mask": {
+    "body": "<${1:div} className=\"se se-mask se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-mask"
+  },
+  "se-noMouth": {
+    "body": "<${1:div} className=\"se se-noMouth se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-noMouth"
+  },
+  "se-poisoned": {
+    "body": "<${1:div} className=\"se se-poisoned se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-poisoned"
+  },
+  "se-relax": {
+    "body": "<${1:div} className=\"se se-relax se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-relax"
+  },
+  "se-sad": {
+    "body": "<${1:div} className=\"se se-sad se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-sad"
+  },
+  "se-sadFrown": {
+    "body": "<${1:div} className=\"se se-sadFrown se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-sadFrown"
+  },
+  "se-satisfied": {
+    "body": "<${1:div} className=\"se se-satisfied se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-satisfied"
+  },
+  "se-scream": {
+    "body": "<${1:div} className=\"se se-scream se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-scream"
+  },
+  "se-sleep": {
+    "body": "<${1:div} className=\"se se-sleep se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-sleep"
+  },
+  "se-sleepy": {
+    "body": "<${1:div} className=\"se se-sleepy se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-sleepy"
+  },
+  "se-slightlySad": {
+    "body": "<${1:div} className=\"se se-slightlySad se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-slightlySad"
+  },
+  "se-smile": {
+    "body": "<${1:div} className=\"se se-smile se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-smile"
+  },
+  "se-smiley": {
+    "body": "<${1:div} className=\"se se-smiley se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-smiley"
+  },
+  "se-smirk": {
+    "body": "<${1:div} className=\"se se-smirk se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-smirk"
+  },
+  "se-sob": {
+    "body": "<${1:div} className=\"se se-sob se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-sob"
+  },
+  "se-sweat": {
+    "body": "<${1:div} className=\"se se-sweat se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-sweat"
+  },
+  "se-sweatSmile": {
+    "body": "<${1:div} className=\"se se-sweatSmile se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-sweatSmile"
+  },
+  "se-thumbDown": {
+    "body": "<${1:div} className=\"se se-thumbDown se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-thumbDown"
+  },
+  "se-thumbUp": {
+    "body": "<${1:div} className=\"se se-thumbUp se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-thumbUp"
+  },
+  "se-thumbsDown": {
+    "body": "<${1:div} className=\"se se-thumbsDown se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-thumbsDown"
+  },
+  "se-thumbsUp": {
+    "body": "<${1:div} className=\"se se-thumbsUp se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-thumbsUp"
+  },
+  "se-toungeOut": {
+    "body": "<${1:div} className=\"se se-toungeOut se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-toungeOut"
+  },
+  "se-toungeOutHappy": {
+    "body": "<${1:div} className=\"se se-toungeOutHappy se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-toungeOutHappy"
+  },
+  "se-toungeOutWink": {
+    "body": "<${1:div} className=\"se se-toungeOutWink se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-toungeOutWink"
+  },
+  "se-weary": {
+    "body": "<${1:div} className=\"se se-weary se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-weary"
+  },
+  "se-wink": {
+    "body": "<${1:div} className=\"se se-wink se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-wink"
+  },
+  "se-winky": {
+    "body": "<${1:div} className=\"se se-winky se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-winky"
+  },
+  "se-wtf": {
+    "body": "<${1:div} className=\"se se-wtf se-${2:s}\"></${1:div}>",
+    "description": "<div>",
+    "prefix": "se-wtf"
+  }
+}

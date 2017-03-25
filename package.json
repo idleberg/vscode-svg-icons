@@ -37,27 +37,51 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/bi.json"
+                "path": "./snippets/html/bi.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/ei.json"
+                "path": "./snippets/html/ei.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/octicon.json"
+                "path": "./snippets/html/octicon.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/oi.json"
+                "path": "./snippets/html/oi.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/se.json"
+                "path": "./snippets/html/se.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/si.json"
+                "path": "./snippets/html/si.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/bi.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/ei.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/octicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/oi.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/se.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/si.json"
             }
         ]
     },
