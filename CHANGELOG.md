@@ -1,3 +1,7 @@
+# v0.4.2 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.4.2)
+
+- add screenshot
+
 # v0.4.0 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.4.0)
 
 - add support for JSX
