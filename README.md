@@ -10,7 +10,7 @@ Snippets for popular SVG icons including Octicons, Evil Icons, Open Iconic, Smar
 
 This package is also available for [Atom](https://github.com/idleberg/atom-svg-icons) and [Sublime Text](https://github.com/idleberg/sublime-svg-icons)
 
-![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-nsis/master/images/screenshot.gif)
+![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-svg-icons/master/images/screenshot.gif)
 
 *creenshot nicked from the Atom package, but you get the idea (theme is [Hopscotch](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch))*
 
