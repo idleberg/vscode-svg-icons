@@ -12,7 +12,7 @@ This package is also available for [Atom](https://github.com/idleberg/atom-svg-i
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-svg-icons/master/images/screenshot.gif)
 
-*creenshot nicked from the Atom package, but you get the idea (theme is [Hopscotch](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch))*
+*Screenshot nicked from the Sublime Text package, but well… (theme is [Hopscotch](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch))*
 
 
 ## Installation
