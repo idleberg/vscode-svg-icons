@@ -1,3 +1,8 @@
+# v0.4.3 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.4.3)
+
+- use PNG logo (as required by upcoming versions of Code)
+- update `devDependencies`
+
 # v0.4.2 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.4.2)
 
 - add screenshot
