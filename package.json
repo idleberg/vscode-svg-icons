@@ -87,13 +87,16 @@
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
-        "test": "gulp lint"
+        "test": "gulp lint",
+        "vscode:prepublish": "gulp build"
     },
     "devDependencies": {
-        "gulp": "^3.9.1",
+        "gulp": "github:gulpjs/gulp#4.0",
         "gulp-debug": "^3.0.0",
-        "gulp-eslint": "^3.0.1",
+        "gulp-eslint": "^4.0.0",
         "gulp-jsonlint": "^1.2.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-svg2png": "^2.0.2",
         "gulp-xml-validator": "^0.1.2",
         "vscode": "^1.0.3"
     }
