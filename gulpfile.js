@@ -19,9 +19,7 @@ const tsFiles = [
 
 const jsonFiles = [
   'package.json',
-  'snippets/*.json',
-  'tsconfig.json',
-  'tslint.json'
+  'snippets/*.json'
 ];
 
 const xmlFiles = [

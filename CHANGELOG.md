@@ -1,3 +1,7 @@
+# v0.4.4 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.4.4)
+
+- fix `gulpfile.js`
+
 # v0.4.3 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.4.3)
 
 - use PNG logo (as required by upcoming versions of Code)
