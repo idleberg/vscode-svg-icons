@@ -82,6 +82,30 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/si.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/bi.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/ei.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/octicon.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/oi.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/se.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/si.json"
             }
         ]
     },
