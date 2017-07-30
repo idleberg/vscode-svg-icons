@@ -51,7 +51,7 @@ $ git clone https://github.com/idleberg/vscode-svg-icons svg-icons
 
 ### Usage
 
-Snippets are limited to the `html` scope. Typing the class name of an icon using the designated prefix will complete to a SVG tag for the icon.
+Snippets are limited to the `html`, `blade`, `jsx` and `vue` scopes. Typing the class name of an icon using the designated prefix will complete to a SVG tag for the icon.
 
 ### Prefixes
 

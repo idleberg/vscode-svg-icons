@@ -36,6 +36,30 @@
     "contributes": {
         "snippets": [
             {
+                "language": "blade",
+                "path": "./snippets/html/bi.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/ei.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/octicon.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/oi.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/se.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/si.json"
+            },
+            {
                 "language": "html",
                 "path": "./snippets/html/bi.json"
             },

@@ -1,3 +1,8 @@
+# v0.5.0 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.5.0)
+
+- add support for Vue
+- add support for Laravel Blade
+
 # v0.4.4 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.4.4)
 
 - fix `gulpfile.js`
