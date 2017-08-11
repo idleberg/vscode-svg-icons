@@ -244,11 +244,6 @@
     "description": "<use>",
     "prefix": "octicon-diff-renamed"
   },
-  "octicon-ellipses": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" className=\"octicon octicon-ellipses\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#ellipses\" />\n</svg>",
-    "description": "<use>",
-    "prefix": "octicon-ellipses"
-  },
   "octicon-ellipsis": {
     "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" className=\"octicon octicon-ellipsis\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#ellipsis\" />\n</svg>",
     "description": "<use>",
@@ -443,6 +438,16 @@
     "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" className=\"octicon octicon-jersey\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#jersey\" />\n</svg>",
     "description": "<use>",
     "prefix": "octicon-jersey"
+  },
+  "octicon-kebab-horizontal": {
+    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" className=\"octicon octicon-kebab-horizontal\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#kebab-horizontal\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "octicon-kebab-horizontal"
+  },
+  "octicon-kebab-vertical": {
+    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" className=\"octicon octicon-kebab-vertical\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#kebab-vertical\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "octicon-kebab-vertical"
   },
   "octicon-key": {
     "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" className=\"octicon octicon-key\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#key\" />\n</svg>",
