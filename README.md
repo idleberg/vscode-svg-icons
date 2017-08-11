@@ -59,7 +59,7 @@ Prefix         | SVG Icons                           | Version
 ---------------|-------------------------------------|--------
 `bi`           | [Bytesize Icons][bi]                | 1.1
 `ei`           | [Evil Icons][ei]                    | 1.8.0
-`octicon`      | [GitHub Octicons][octicon]          | 6.0.0
+`octicon`      | [GitHub Octicons][octicon]          | 6.0.1
 `oi`           | [Open Iconic][oi]                   | 1.1.0
 `se`           | [Speakemoji][se]                    | -
 `si`           | [SmartIcons Glyphs][si]             | 1.1
