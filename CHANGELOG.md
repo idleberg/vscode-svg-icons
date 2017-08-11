@@ -1,3 +1,7 @@
+# v0.5.1 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.5.1)
+
+- bump Octicons to v6.0.1
+
 # v0.5.0 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.5.0)
 
 - add support for Vue
