@@ -59,6 +59,7 @@ Prefix         | SVG Icons                           | Version
 ---------------|-------------------------------------|--------
 `bi`           | [Bytesize Icons][bi]                | 1.1
 `ei`           | [Evil Icons][ei]                    | 1.8.0
+`feather`      | [Feather][feather]                  | 3.2.2
 `octicon`      | [GitHub Octicons][octicon]          | 6.0.1
 `oi`           | [Open Iconic][oi]                   | 1.1.0
 `se`           | [Speakemoji][se]                    | -
@@ -74,6 +75,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 
 [bi]: https://github.com/danklammer/bytesize-icons
 [ei]: https://github.com/outpunk/evil-icons
+[feather]: https://github.com/colebemis/feather
 [octicon]: https://github.com/github/octicons
 [oi]: https://github.com/iconic/open-iconic
 [se]: https://github.com/rizalrenaldi/speakemoji
