@@ -2,7 +2,7 @@
     "name": "svg-icons",
     "displayName": "SVG Icons",
     "description": "Snippets for popular SVG icons, including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize",
-    "version": "0.5.1",
+    "version": "0.6.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -71,7 +71,6 @@
                 "language": "html",
                 "path": "./snippets/html/ei.json"
             },
-
             {
                 "language": "html",
                 "path": "./snippets/feather.json"
@@ -100,7 +99,6 @@
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/ei.json"
             },
-
             {
                 "language": "javascriptreact",
                 "path": "./snippets/feather.json"
