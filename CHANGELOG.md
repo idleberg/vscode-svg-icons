@@ -1,3 +1,8 @@
+# v0.6.1 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.1)
+
+- update development toolchain
+- update Travis CI configuration
+
 # v0.6.0 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.0)
 
 - add Feather Icons
