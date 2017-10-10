@@ -1,3 +1,7 @@
+# v0.6.2 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.2)
+
+- fix logo
+
 # v0.6.1 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.1)
 
 - update development toolchain
