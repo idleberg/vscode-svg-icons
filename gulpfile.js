@@ -52,7 +52,7 @@ gulp.task('lint:xml', gulp.series( (done) => {
 // Convert SVG
 gulp.task('convert:svg', gulp.series( (done) => {
   gulp.src(svgFiles)
-
+    .pipe(raster())
     .pipe(rename("logo.png"))
     .pipe(gulp.dest('./images'));
   done();
