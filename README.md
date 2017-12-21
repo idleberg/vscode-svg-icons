@@ -57,9 +57,9 @@ Snippets are limited to the `html`, `blade`, `jsx` and `vue` scopes. Typing the 
 
 Prefix         | SVG Icons                           | Version
 ---------------|-------------------------------------|--------
-`bi`           | [Bytesize Icons][bi]                | 1.1
+`bi`           | [Bytesize Icons][bi]                | 1.3
 `ei`           | [Evil Icons][ei]                    | 1.8.0
-`feather`      | [Feather][feather]                  | 3.2.2
+`feather`      | [Feather][feather]                  | 4.4.0
 `octicon`      | [GitHub Octicons][octicon]          | 6.0.1
 `oi`           | [Open Iconic][oi]                   | 1.1.0
 `se`           | [Speakemoji][se]                    | -

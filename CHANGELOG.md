@@ -1,3 +1,8 @@
+# v0.6.3 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.3)
+
+- bump Feather Icons to 4.4
+- bump Bytesize Icons to 1.3
+
 # v0.6.2 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.2)
 
 - fix logo
