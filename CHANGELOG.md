@@ -1,3 +1,8 @@
+# v0.6.4 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.4)
+
+- replace linter
+- update dependencies
+
 # v0.6.3 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.3)
 
 - bump Feather Icons to 4.4
