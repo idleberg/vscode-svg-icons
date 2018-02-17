@@ -17,9 +17,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-svg-icons.git"
+        "url": "https://github.com/idleberg/vscode-svg-icons"
     },
-    "homepage": "https://github.com/idleberg/vscode-svg-icons",
+    "homepage": "https://github.com/idleberg/vscode-svg-icons#readme",
     "bugs": {
         "url": "https://github.com/idleberg/vscode-svg-icons/issues"
     },
