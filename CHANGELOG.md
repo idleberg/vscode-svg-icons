@@ -1,3 +1,7 @@
+# v0.6.5 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.5)
+
+- fix Open Iconic prefixes
+
 # v0.6.4 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.4)
 
 - replace linter
