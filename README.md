@@ -14,7 +14,6 @@ This package is also available for [Atom](https://github.com/idleberg/atom-svg-i
 
 *Screenshot nicked from the Sublime Text package, but you get the idea*
 
-
 ## Installation
 
 ### Extension Marketplace
