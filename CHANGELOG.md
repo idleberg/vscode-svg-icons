@@ -1,3 +1,7 @@
+# v0.6.7 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.7)
+
+- fix typo in snippets
+
 # v0.6.6 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.6)
 
 - bump Feather Icons to 4.7

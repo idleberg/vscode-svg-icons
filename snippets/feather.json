@@ -1,1331 +1,1331 @@
 {
   "activity": {
-    "body": "<i data-feather\"activity\"></i>",
+    "body": "<i data-feather=\"activity\"></i>",
     "description": "<i>",
     "prefix": "feather-activity"
   },
   "airplay": {
-    "body": "<i data-feather\"airplay\"></i>",
+    "body": "<i data-feather=\"airplay\"></i>",
     "description": "<i>",
     "prefix": "feather-airplay"
   },
   "alert-circle": {
-    "body": "<i data-feather\"alert-circle\"></i>",
+    "body": "<i data-feather=\"alert-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-alert-circle"
   },
   "alert-octagon": {
-    "body": "<i data-feather\"alert-octagon\"></i>",
+    "body": "<i data-feather=\"alert-octagon\"></i>",
     "description": "<i>",
     "prefix": "feather-alert-octagon"
   },
   "alert-triangle": {
-    "body": "<i data-feather\"alert-triangle\"></i>",
+    "body": "<i data-feather=\"alert-triangle\"></i>",
     "description": "<i>",
     "prefix": "feather-alert-triangle"
   },
   "align-center": {
-    "body": "<i data-feather\"align-center\"></i>",
+    "body": "<i data-feather=\"align-center\"></i>",
     "description": "<i>",
     "prefix": "feather-align-center"
   },
   "align-justify": {
-    "body": "<i data-feather\"align-justify\"></i>",
+    "body": "<i data-feather=\"align-justify\"></i>",
     "description": "<i>",
     "prefix": "feather-align-justify"
   },
   "align-left": {
-    "body": "<i data-feather\"align-left\"></i>",
+    "body": "<i data-feather=\"align-left\"></i>",
     "description": "<i>",
     "prefix": "feather-align-left"
   },
   "align-right": {
-    "body": "<i data-feather\"align-right\"></i>",
+    "body": "<i data-feather=\"align-right\"></i>",
     "description": "<i>",
     "prefix": "feather-align-right"
   },
   "anchor": {
-    "body": "<i data-feather\"anchor\"></i>",
+    "body": "<i data-feather=\"anchor\"></i>",
     "description": "<i>",
     "prefix": "feather-anchor"
   },
   "aperture": {
-    "body": "<i data-feather\"aperture\"></i>",
+    "body": "<i data-feather=\"aperture\"></i>",
     "description": "<i>",
     "prefix": "feather-aperture"
   },
   "archive": {
-    "body": "<i data-feather\"archive\"></i>",
+    "body": "<i data-feather=\"archive\"></i>",
     "description": "<i>",
     "prefix": "feather-archive"
   },
   "arrow-down-circle": {
-    "body": "<i data-feather\"arrow-down-circle\"></i>",
+    "body": "<i data-feather=\"arrow-down-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-down-circle"
   },
   "arrow-down-left": {
-    "body": "<i data-feather\"arrow-down-left\"></i>",
+    "body": "<i data-feather=\"arrow-down-left\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-down-left"
   },
   "arrow-down-right": {
-    "body": "<i data-feather\"arrow-down-right\"></i>",
+    "body": "<i data-feather=\"arrow-down-right\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-down-right"
   },
   "arrow-down": {
-    "body": "<i data-feather\"arrow-down\"></i>",
+    "body": "<i data-feather=\"arrow-down\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-down"
   },
   "arrow-left-circle": {
-    "body": "<i data-feather\"arrow-left-circle\"></i>",
+    "body": "<i data-feather=\"arrow-left-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-left-circle"
   },
   "arrow-left": {
-    "body": "<i data-feather\"arrow-left\"></i>",
+    "body": "<i data-feather=\"arrow-left\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-left"
   },
   "arrow-right-circle": {
-    "body": "<i data-feather\"arrow-right-circle\"></i>",
+    "body": "<i data-feather=\"arrow-right-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-right-circle"
   },
   "arrow-right": {
-    "body": "<i data-feather\"arrow-right\"></i>",
+    "body": "<i data-feather=\"arrow-right\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-right"
   },
   "arrow-up-circle": {
-    "body": "<i data-feather\"arrow-up-circle\"></i>",
+    "body": "<i data-feather=\"arrow-up-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-up-circle"
   },
   "arrow-up-left": {
-    "body": "<i data-feather\"arrow-up-left\"></i>",
+    "body": "<i data-feather=\"arrow-up-left\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-up-left"
   },
   "arrow-up-right": {
-    "body": "<i data-feather\"arrow-up-right\"></i>",
+    "body": "<i data-feather=\"arrow-up-right\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-up-right"
   },
   "arrow-up": {
-    "body": "<i data-feather\"arrow-up\"></i>",
+    "body": "<i data-feather=\"arrow-up\"></i>",
     "description": "<i>",
     "prefix": "feather-arrow-up"
   },
   "at-sign": {
-    "body": "<i data-feather\"at-sign\"></i>",
+    "body": "<i data-feather=\"at-sign\"></i>",
     "description": "<i>",
     "prefix": "feather-at-sign"
   },
   "award": {
-    "body": "<i data-feather\"award\"></i>",
+    "body": "<i data-feather=\"award\"></i>",
     "description": "<i>",
     "prefix": "feather-award"
   },
   "bar-chart-2": {
-    "body": "<i data-feather\"bar-chart-2\"></i>",
+    "body": "<i data-feather=\"bar-chart-2\"></i>",
     "description": "<i>",
     "prefix": "feather-bar-chart-2"
   },
   "bar-chart": {
-    "body": "<i data-feather\"bar-chart\"></i>",
+    "body": "<i data-feather=\"bar-chart\"></i>",
     "description": "<i>",
     "prefix": "feather-bar-chart"
   },
   "battery-charging": {
-    "body": "<i data-feather\"battery-charging\"></i>",
+    "body": "<i data-feather=\"battery-charging\"></i>",
     "description": "<i>",
     "prefix": "feather-battery-charging"
   },
   "battery": {
-    "body": "<i data-feather\"battery\"></i>",
+    "body": "<i data-feather=\"battery\"></i>",
     "description": "<i>",
     "prefix": "feather-battery"
   },
   "bell-off": {
-    "body": "<i data-feather\"bell-off\"></i>",
+    "body": "<i data-feather=\"bell-off\"></i>",
     "description": "<i>",
     "prefix": "feather-bell-off"
   },
   "bell": {
-    "body": "<i data-feather\"bell\"></i>",
+    "body": "<i data-feather=\"bell\"></i>",
     "description": "<i>",
     "prefix": "feather-bell"
   },
   "bluetooth": {
-    "body": "<i data-feather\"bluetooth\"></i>",
+    "body": "<i data-feather=\"bluetooth\"></i>",
     "description": "<i>",
     "prefix": "feather-bluetooth"
   },
   "bold": {
-    "body": "<i data-feather\"bold\"></i>",
+    "body": "<i data-feather=\"bold\"></i>",
     "description": "<i>",
     "prefix": "feather-bold"
   },
   "book-open": {
-    "body": "<i data-feather\"book-open\"></i>",
+    "body": "<i data-feather=\"book-open\"></i>",
     "description": "<i>",
     "prefix": "feather-book-open"
   },
   "book": {
-    "body": "<i data-feather\"book\"></i>",
+    "body": "<i data-feather=\"book\"></i>",
     "description": "<i>",
     "prefix": "feather-book"
   },
   "bookmark": {
-    "body": "<i data-feather\"bookmark\"></i>",
+    "body": "<i data-feather=\"bookmark\"></i>",
     "description": "<i>",
     "prefix": "feather-bookmark"
   },
   "box": {
-    "body": "<i data-feather\"box\"></i>",
+    "body": "<i data-feather=\"box\"></i>",
     "description": "<i>",
     "prefix": "feather-box"
   },
   "briefcase": {
-    "body": "<i data-feather\"briefcase\"></i>",
+    "body": "<i data-feather=\"briefcase\"></i>",
     "description": "<i>",
     "prefix": "feather-briefcase"
   },
   "calendar": {
-    "body": "<i data-feather\"calendar\"></i>",
+    "body": "<i data-feather=\"calendar\"></i>",
     "description": "<i>",
     "prefix": "feather-calendar"
   },
   "camera-off": {
-    "body": "<i data-feather\"camera-off\"></i>",
+    "body": "<i data-feather=\"camera-off\"></i>",
     "description": "<i>",
     "prefix": "feather-camera-off"
   },
   "camera": {
-    "body": "<i data-feather\"camera\"></i>",
+    "body": "<i data-feather=\"camera\"></i>",
     "description": "<i>",
     "prefix": "feather-camera"
   },
   "cast": {
-    "body": "<i data-feather\"cast\"></i>",
+    "body": "<i data-feather=\"cast\"></i>",
     "description": "<i>",
     "prefix": "feather-cast"
   },
   "check-circle": {
-    "body": "<i data-feather\"check-circle\"></i>",
+    "body": "<i data-feather=\"check-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-check-circle"
   },
   "check-square": {
-    "body": "<i data-feather\"check-square\"></i>",
+    "body": "<i data-feather=\"check-square\"></i>",
     "description": "<i>",
     "prefix": "feather-check-square"
   },
   "check": {
-    "body": "<i data-feather\"check\"></i>",
+    "body": "<i data-feather=\"check\"></i>",
     "description": "<i>",
     "prefix": "feather-check"
   },
   "chevron-down": {
-    "body": "<i data-feather\"chevron-down\"></i>",
+    "body": "<i data-feather=\"chevron-down\"></i>",
     "description": "<i>",
     "prefix": "feather-chevron-down"
   },
   "chevron-left": {
-    "body": "<i data-feather\"chevron-left\"></i>",
+    "body": "<i data-feather=\"chevron-left\"></i>",
     "description": "<i>",
     "prefix": "feather-chevron-left"
   },
   "chevron-right": {
-    "body": "<i data-feather\"chevron-right\"></i>",
+    "body": "<i data-feather=\"chevron-right\"></i>",
     "description": "<i>",
     "prefix": "feather-chevron-right"
   },
   "chevron-up": {
-    "body": "<i data-feather\"chevron-up\"></i>",
+    "body": "<i data-feather=\"chevron-up\"></i>",
     "description": "<i>",
     "prefix": "feather-chevron-up"
   },
   "chevrons-down": {
-    "body": "<i data-feather\"chevrons-down\"></i>",
+    "body": "<i data-feather=\"chevrons-down\"></i>",
     "description": "<i>",
     "prefix": "feather-chevrons-down"
   },
   "chevrons-left": {
-    "body": "<i data-feather\"chevrons-left\"></i>",
+    "body": "<i data-feather=\"chevrons-left\"></i>",
     "description": "<i>",
     "prefix": "feather-chevrons-left"
   },
   "chevrons-right": {
-    "body": "<i data-feather\"chevrons-right\"></i>",
+    "body": "<i data-feather=\"chevrons-right\"></i>",
     "description": "<i>",
     "prefix": "feather-chevrons-right"
   },
   "chevrons-up": {
-    "body": "<i data-feather\"chevrons-up\"></i>",
+    "body": "<i data-feather=\"chevrons-up\"></i>",
     "description": "<i>",
     "prefix": "feather-chevrons-up"
   },
   "chrome": {
-    "body": "<i data-feather\"chrome\"></i>",
+    "body": "<i data-feather=\"chrome\"></i>",
     "description": "<i>",
     "prefix": "feather-chrome"
   },
   "circle": {
-    "body": "<i data-feather\"circle\"></i>",
+    "body": "<i data-feather=\"circle\"></i>",
     "description": "<i>",
     "prefix": "feather-circle"
   },
   "clipboard": {
-    "body": "<i data-feather\"clipboard\"></i>",
+    "body": "<i data-feather=\"clipboard\"></i>",
     "description": "<i>",
     "prefix": "feather-clipboard"
   },
   "clock": {
-    "body": "<i data-feather\"clock\"></i>",
+    "body": "<i data-feather=\"clock\"></i>",
     "description": "<i>",
     "prefix": "feather-clock"
   },
   "cloud-drizzle": {
-    "body": "<i data-feather\"cloud-drizzle\"></i>",
+    "body": "<i data-feather=\"cloud-drizzle\"></i>",
     "description": "<i>",
     "prefix": "feather-cloud-drizzle"
   },
   "cloud-lightning": {
-    "body": "<i data-feather\"cloud-lightning\"></i>",
+    "body": "<i data-feather=\"cloud-lightning\"></i>",
     "description": "<i>",
     "prefix": "feather-cloud-lightning"
   },
   "cloud-off": {
-    "body": "<i data-feather\"cloud-off\"></i>",
+    "body": "<i data-feather=\"cloud-off\"></i>",
     "description": "<i>",
     "prefix": "feather-cloud-off"
   },
   "cloud-rain": {
-    "body": "<i data-feather\"cloud-rain\"></i>",
+    "body": "<i data-feather=\"cloud-rain\"></i>",
     "description": "<i>",
     "prefix": "feather-cloud-rain"
   },
   "cloud-snow": {
-    "body": "<i data-feather\"cloud-snow\"></i>",
+    "body": "<i data-feather=\"cloud-snow\"></i>",
     "description": "<i>",
     "prefix": "feather-cloud-snow"
   },
   "cloud": {
-    "body": "<i data-feather\"cloud\"></i>",
+    "body": "<i data-feather=\"cloud\"></i>",
     "description": "<i>",
     "prefix": "feather-cloud"
   },
   "code": {
-    "body": "<i data-feather\"code\"></i>",
+    "body": "<i data-feather=\"code\"></i>",
     "description": "<i>",
     "prefix": "feather-code"
   },
   "codepen": {
-    "body": "<i data-feather\"codepen\"></i>",
+    "body": "<i data-feather=\"codepen\"></i>",
     "description": "<i>",
     "prefix": "feather-codepen"
   },
   "command": {
-    "body": "<i data-feather\"command\"></i>",
+    "body": "<i data-feather=\"command\"></i>",
     "description": "<i>",
     "prefix": "feather-command"
   },
   "compass": {
-    "body": "<i data-feather\"compass\"></i>",
+    "body": "<i data-feather=\"compass\"></i>",
     "description": "<i>",
     "prefix": "feather-compass"
   },
   "copy": {
-    "body": "<i data-feather\"copy\"></i>",
+    "body": "<i data-feather=\"copy\"></i>",
     "description": "<i>",
     "prefix": "feather-copy"
   },
   "corner-down-left": {
-    "body": "<i data-feather\"corner-down-left\"></i>",
+    "body": "<i data-feather=\"corner-down-left\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-down-left"
   },
   "corner-down-right": {
-    "body": "<i data-feather\"corner-down-right\"></i>",
+    "body": "<i data-feather=\"corner-down-right\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-down-right"
   },
   "corner-left-down": {
-    "body": "<i data-feather\"corner-left-down\"></i>",
+    "body": "<i data-feather=\"corner-left-down\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-left-down"
   },
   "corner-left-up": {
-    "body": "<i data-feather\"corner-left-up\"></i>",
+    "body": "<i data-feather=\"corner-left-up\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-left-up"
   },
   "corner-right-down": {
-    "body": "<i data-feather\"corner-right-down\"></i>",
+    "body": "<i data-feather=\"corner-right-down\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-right-down"
   },
   "corner-right-up": {
-    "body": "<i data-feather\"corner-right-up\"></i>",
+    "body": "<i data-feather=\"corner-right-up\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-right-up"
   },
   "corner-up-left": {
-    "body": "<i data-feather\"corner-up-left\"></i>",
+    "body": "<i data-feather=\"corner-up-left\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-up-left"
   },
   "corner-up-right": {
-    "body": "<i data-feather\"corner-up-right\"></i>",
+    "body": "<i data-feather=\"corner-up-right\"></i>",
     "description": "<i>",
     "prefix": "feather-corner-up-right"
   },
   "cpu": {
-    "body": "<i data-feather\"cpu\"></i>",
+    "body": "<i data-feather=\"cpu\"></i>",
     "description": "<i>",
     "prefix": "feather-cpu"
   },
   "credit-card": {
-    "body": "<i data-feather\"credit-card\"></i>",
+    "body": "<i data-feather=\"credit-card\"></i>",
     "description": "<i>",
     "prefix": "feather-credit-card"
   },
   "crop": {
-    "body": "<i data-feather\"crop\"></i>",
+    "body": "<i data-feather=\"crop\"></i>",
     "description": "<i>",
     "prefix": "feather-crop"
   },
   "crosshair": {
-    "body": "<i data-feather\"crosshair\"></i>",
+    "body": "<i data-feather=\"crosshair\"></i>",
     "description": "<i>",
     "prefix": "feather-crosshair"
   },
   "database": {
-    "body": "<i data-feather\"database\"></i>",
+    "body": "<i data-feather=\"database\"></i>",
     "description": "<i>",
     "prefix": "feather-database"
   },
   "delete": {
-    "body": "<i data-feather\"delete\"></i>",
+    "body": "<i data-feather=\"delete\"></i>",
     "description": "<i>",
     "prefix": "feather-delete"
   },
   "disc": {
-    "body": "<i data-feather\"disc\"></i>",
+    "body": "<i data-feather=\"disc\"></i>",
     "description": "<i>",
     "prefix": "feather-disc"
   },
   "dollar-sign": {
-    "body": "<i data-feather\"dollar-sign\"></i>",
+    "body": "<i data-feather=\"dollar-sign\"></i>",
     "description": "<i>",
     "prefix": "feather-dollar-sign"
   },
   "download-cloud": {
-    "body": "<i data-feather\"download-cloud\"></i>",
+    "body": "<i data-feather=\"download-cloud\"></i>",
     "description": "<i>",
     "prefix": "feather-download-cloud"
   },
   "download": {
-    "body": "<i data-feather\"download\"></i>",
+    "body": "<i data-feather=\"download\"></i>",
     "description": "<i>",
     "prefix": "feather-download"
   },
   "droplet": {
-    "body": "<i data-feather\"droplet\"></i>",
+    "body": "<i data-feather=\"droplet\"></i>",
     "description": "<i>",
     "prefix": "feather-droplet"
   },
   "edit-2": {
-    "body": "<i data-feather\"edit-2\"></i>",
+    "body": "<i data-feather=\"edit-2\"></i>",
     "description": "<i>",
     "prefix": "feather-edit-2"
   },
   "edit-3": {
-    "body": "<i data-feather\"edit-3\"></i>",
+    "body": "<i data-feather=\"edit-3\"></i>",
     "description": "<i>",
     "prefix": "feather-edit-3"
   },
   "edit": {
-    "body": "<i data-feather\"edit\"></i>",
+    "body": "<i data-feather=\"edit\"></i>",
     "description": "<i>",
     "prefix": "feather-edit"
   },
   "external-link": {
-    "body": "<i data-feather\"external-link\"></i>",
+    "body": "<i data-feather=\"external-link\"></i>",
     "description": "<i>",
     "prefix": "feather-external-link"
   },
   "eye-off": {
-    "body": "<i data-feather\"eye-off\"></i>",
+    "body": "<i data-feather=\"eye-off\"></i>",
     "description": "<i>",
     "prefix": "feather-eye-off"
   },
   "eye": {
-    "body": "<i data-feather\"eye\"></i>",
+    "body": "<i data-feather=\"eye\"></i>",
     "description": "<i>",
     "prefix": "feather-eye"
   },
   "facebook": {
-    "body": "<i data-feather\"facebook\"></i>",
+    "body": "<i data-feather=\"facebook\"></i>",
     "description": "<i>",
     "prefix": "feather-facebook"
   },
   "fast-forward": {
-    "body": "<i data-feather\"fast-forward\"></i>",
+    "body": "<i data-feather=\"fast-forward\"></i>",
     "description": "<i>",
     "prefix": "feather-fast-forward"
   },
   "feather": {
-    "body": "<i data-feather\"feather\"></i>",
+    "body": "<i data-feather=\"feather\"></i>",
     "description": "<i>",
     "prefix": "feather-feather"
   },
   "file-minus": {
-    "body": "<i data-feather\"file-minus\"></i>",
+    "body": "<i data-feather=\"file-minus\"></i>",
     "description": "<i>",
     "prefix": "feather-file-minus"
   },
   "file-plus": {
-    "body": "<i data-feather\"file-plus\"></i>",
+    "body": "<i data-feather=\"file-plus\"></i>",
     "description": "<i>",
     "prefix": "feather-file-plus"
   },
   "file-text": {
-    "body": "<i data-feather\"file-text\"></i>",
+    "body": "<i data-feather=\"file-text\"></i>",
     "description": "<i>",
     "prefix": "feather-file-text"
   },
   "file": {
-    "body": "<i data-feather\"file\"></i>",
+    "body": "<i data-feather=\"file\"></i>",
     "description": "<i>",
     "prefix": "feather-file"
   },
   "film": {
-    "body": "<i data-feather\"film\"></i>",
+    "body": "<i data-feather=\"film\"></i>",
     "description": "<i>",
     "prefix": "feather-film"
   },
   "filter": {
-    "body": "<i data-feather\"filter\"></i>",
+    "body": "<i data-feather=\"filter\"></i>",
     "description": "<i>",
     "prefix": "feather-filter"
   },
   "flag": {
-    "body": "<i data-feather\"flag\"></i>",
+    "body": "<i data-feather=\"flag\"></i>",
     "description": "<i>",
     "prefix": "feather-flag"
   },
   "folder-minus": {
-    "body": "<i data-feather\"folder-minus\"></i>",
+    "body": "<i data-feather=\"folder-minus\"></i>",
     "description": "<i>",
     "prefix": "feather-folder-minus"
   },
   "folder-plus": {
-    "body": "<i data-feather\"folder-plus\"></i>",
+    "body": "<i data-feather=\"folder-plus\"></i>",
     "description": "<i>",
     "prefix": "feather-folder-plus"
   },
   "folder": {
-    "body": "<i data-feather\"folder\"></i>",
+    "body": "<i data-feather=\"folder\"></i>",
     "description": "<i>",
     "prefix": "feather-folder"
   },
   "gift": {
-    "body": "<i data-feather\"gift\"></i>",
+    "body": "<i data-feather=\"gift\"></i>",
     "description": "<i>",
     "prefix": "feather-gift"
   },
   "git-branch": {
-    "body": "<i data-feather\"git-branch\"></i>",
+    "body": "<i data-feather=\"git-branch\"></i>",
     "description": "<i>",
     "prefix": "feather-git-branch"
   },
   "git-commit": {
-    "body": "<i data-feather\"git-commit\"></i>",
+    "body": "<i data-feather=\"git-commit\"></i>",
     "description": "<i>",
     "prefix": "feather-git-commit"
   },
   "git-merge": {
-    "body": "<i data-feather\"git-merge\"></i>",
+    "body": "<i data-feather=\"git-merge\"></i>",
     "description": "<i>",
     "prefix": "feather-git-merge"
   },
   "git-pull-request": {
-    "body": "<i data-feather\"git-pull-request\"></i>",
+    "body": "<i data-feather=\"git-pull-request\"></i>",
     "description": "<i>",
     "prefix": "feather-git-pull-request"
   },
   "github": {
-    "body": "<i data-feather\"github\"></i>",
+    "body": "<i data-feather=\"github\"></i>",
     "description": "<i>",
     "prefix": "feather-github"
   },
   "gitlab": {
-    "body": "<i data-feather\"gitlab\"></i>",
+    "body": "<i data-feather=\"gitlab\"></i>",
     "description": "<i>",
     "prefix": "feather-gitlab"
   },
   "globe": {
-    "body": "<i data-feather\"globe\"></i>",
+    "body": "<i data-feather=\"globe\"></i>",
     "description": "<i>",
     "prefix": "feather-globe"
   },
   "grid": {
-    "body": "<i data-feather\"grid\"></i>",
+    "body": "<i data-feather=\"grid\"></i>",
     "description": "<i>",
     "prefix": "feather-grid"
   },
   "hard-drive": {
-    "body": "<i data-feather\"hard-drive\"></i>",
+    "body": "<i data-feather=\"hard-drive\"></i>",
     "description": "<i>",
     "prefix": "feather-hard-drive"
   },
   "hash": {
-    "body": "<i data-feather\"hash\"></i>",
+    "body": "<i data-feather=\"hash\"></i>",
     "description": "<i>",
     "prefix": "feather-hash"
   },
   "headphones": {
-    "body": "<i data-feather\"headphones\"></i>",
+    "body": "<i data-feather=\"headphones\"></i>",
     "description": "<i>",
     "prefix": "feather-headphones"
   },
   "heart": {
-    "body": "<i data-feather\"heart\"></i>",
+    "body": "<i data-feather=\"heart\"></i>",
     "description": "<i>",
     "prefix": "feather-heart"
   },
   "help-circle": {
-    "body": "<i data-feather\"help-circle\"></i>",
+    "body": "<i data-feather=\"help-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-help-circle"
   },
   "home": {
-    "body": "<i data-feather\"home\"></i>",
+    "body": "<i data-feather=\"home\"></i>",
     "description": "<i>",
     "prefix": "feather-home"
   },
   "image": {
-    "body": "<i data-feather\"image\"></i>",
+    "body": "<i data-feather=\"image\"></i>",
     "description": "<i>",
     "prefix": "feather-image"
   },
   "inbox": {
-    "body": "<i data-feather\"inbox\"></i>",
+    "body": "<i data-feather=\"inbox\"></i>",
     "description": "<i>",
     "prefix": "feather-inbox"
   },
   "info": {
-    "body": "<i data-feather\"info\"></i>",
+    "body": "<i data-feather=\"info\"></i>",
     "description": "<i>",
     "prefix": "feather-info"
   },
   "instagram": {
-    "body": "<i data-feather\"instagram\"></i>",
+    "body": "<i data-feather=\"instagram\"></i>",
     "description": "<i>",
     "prefix": "feather-instagram"
   },
   "italic": {
-    "body": "<i data-feather\"italic\"></i>",
+    "body": "<i data-feather=\"italic\"></i>",
     "description": "<i>",
     "prefix": "feather-italic"
   },
   "layers": {
-    "body": "<i data-feather\"layers\"></i>",
+    "body": "<i data-feather=\"layers\"></i>",
     "description": "<i>",
     "prefix": "feather-layers"
   },
   "layout": {
-    "body": "<i data-feather\"layout\"></i>",
+    "body": "<i data-feather=\"layout\"></i>",
     "description": "<i>",
     "prefix": "feather-layout"
   },
   "life-buoy": {
-    "body": "<i data-feather\"life-buoy\"></i>",
+    "body": "<i data-feather=\"life-buoy\"></i>",
     "description": "<i>",
     "prefix": "feather-life-buoy"
   },
   "link-2": {
-    "body": "<i data-feather\"link-2\"></i>",
+    "body": "<i data-feather=\"link-2\"></i>",
     "description": "<i>",
     "prefix": "feather-link-2"
   },
   "link": {
-    "body": "<i data-feather\"link\"></i>",
+    "body": "<i data-feather=\"link\"></i>",
     "description": "<i>",
     "prefix": "feather-link"
   },
   "linkedin": {
-    "body": "<i data-feather\"linkedin\"></i>",
+    "body": "<i data-feather=\"linkedin\"></i>",
     "description": "<i>",
     "prefix": "feather-linkedin"
   },
   "list": {
-    "body": "<i data-feather\"list\"></i>",
+    "body": "<i data-feather=\"list\"></i>",
     "description": "<i>",
     "prefix": "feather-list"
   },
   "loader": {
-    "body": "<i data-feather\"loader\"></i>",
+    "body": "<i data-feather=\"loader\"></i>",
     "description": "<i>",
     "prefix": "feather-loader"
   },
   "lock": {
-    "body": "<i data-feather\"lock\"></i>",
+    "body": "<i data-feather=\"lock\"></i>",
     "description": "<i>",
     "prefix": "feather-lock"
   },
   "log-in": {
-    "body": "<i data-feather\"log-in\"></i>",
+    "body": "<i data-feather=\"log-in\"></i>",
     "description": "<i>",
     "prefix": "feather-log-in"
   },
   "log-out": {
-    "body": "<i data-feather\"log-out\"></i>",
+    "body": "<i data-feather=\"log-out\"></i>",
     "description": "<i>",
     "prefix": "feather-log-out"
   },
   "mail": {
-    "body": "<i data-feather\"mail\"></i>",
+    "body": "<i data-feather=\"mail\"></i>",
     "description": "<i>",
     "prefix": "feather-mail"
   },
   "map-pin": {
-    "body": "<i data-feather\"map-pin\"></i>",
+    "body": "<i data-feather=\"map-pin\"></i>",
     "description": "<i>",
     "prefix": "feather-map-pin"
   },
   "map": {
-    "body": "<i data-feather\"map\"></i>",
+    "body": "<i data-feather=\"map\"></i>",
     "description": "<i>",
     "prefix": "feather-map"
   },
   "maximize-2": {
-    "body": "<i data-feather\"maximize-2\"></i>",
+    "body": "<i data-feather=\"maximize-2\"></i>",
     "description": "<i>",
     "prefix": "feather-maximize-2"
   },
   "maximize": {
-    "body": "<i data-feather\"maximize\"></i>",
+    "body": "<i data-feather=\"maximize\"></i>",
     "description": "<i>",
     "prefix": "feather-maximize"
   },
   "menu": {
-    "body": "<i data-feather\"menu\"></i>",
+    "body": "<i data-feather=\"menu\"></i>",
     "description": "<i>",
     "prefix": "feather-menu"
   },
   "message-circle": {
-    "body": "<i data-feather\"message-circle\"></i>",
+    "body": "<i data-feather=\"message-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-message-circle"
   },
   "message-square": {
-    "body": "<i data-feather\"message-square\"></i>",
+    "body": "<i data-feather=\"message-square\"></i>",
     "description": "<i>",
     "prefix": "feather-message-square"
   },
   "mic-off": {
-    "body": "<i data-feather\"mic-off\"></i>",
+    "body": "<i data-feather=\"mic-off\"></i>",
     "description": "<i>",
     "prefix": "feather-mic-off"
   },
   "mic": {
-    "body": "<i data-feather\"mic\"></i>",
+    "body": "<i data-feather=\"mic\"></i>",
     "description": "<i>",
     "prefix": "feather-mic"
   },
   "minimize-2": {
-    "body": "<i data-feather\"minimize-2\"></i>",
+    "body": "<i data-feather=\"minimize-2\"></i>",
     "description": "<i>",
     "prefix": "feather-minimize-2"
   },
   "minimize": {
-    "body": "<i data-feather\"minimize\"></i>",
+    "body": "<i data-feather=\"minimize\"></i>",
     "description": "<i>",
     "prefix": "feather-minimize"
   },
   "minus-circle": {
-    "body": "<i data-feather\"minus-circle\"></i>",
+    "body": "<i data-feather=\"minus-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-minus-circle"
   },
   "minus-square": {
-    "body": "<i data-feather\"minus-square\"></i>",
+    "body": "<i data-feather=\"minus-square\"></i>",
     "description": "<i>",
     "prefix": "feather-minus-square"
   },
   "minus": {
-    "body": "<i data-feather\"minus\"></i>",
+    "body": "<i data-feather=\"minus\"></i>",
     "description": "<i>",
     "prefix": "feather-minus"
   },
   "monitor": {
-    "body": "<i data-feather\"monitor\"></i>",
+    "body": "<i data-feather=\"monitor\"></i>",
     "description": "<i>",
     "prefix": "feather-monitor"
   },
   "moon": {
-    "body": "<i data-feather\"moon\"></i>",
+    "body": "<i data-feather=\"moon\"></i>",
     "description": "<i>",
     "prefix": "feather-moon"
   },
   "more-horizontal": {
-    "body": "<i data-feather\"more-horizontal\"></i>",
+    "body": "<i data-feather=\"more-horizontal\"></i>",
     "description": "<i>",
     "prefix": "feather-more-horizontal"
   },
   "more-vertical": {
-    "body": "<i data-feather\"more-vertical\"></i>",
+    "body": "<i data-feather=\"more-vertical\"></i>",
     "description": "<i>",
     "prefix": "feather-more-vertical"
   },
   "move": {
-    "body": "<i data-feather\"move\"></i>",
+    "body": "<i data-feather=\"move\"></i>",
     "description": "<i>",
     "prefix": "feather-move"
   },
   "music": {
-    "body": "<i data-feather\"music\"></i>",
+    "body": "<i data-feather=\"music\"></i>",
     "description": "<i>",
     "prefix": "feather-music"
   },
   "navigation-2": {
-    "body": "<i data-feather\"navigation-2\"></i>",
+    "body": "<i data-feather=\"navigation-2\"></i>",
     "description": "<i>",
     "prefix": "feather-navigation-2"
   },
   "navigation": {
-    "body": "<i data-feather\"navigation\"></i>",
+    "body": "<i data-feather=\"navigation\"></i>",
     "description": "<i>",
     "prefix": "feather-navigation"
   },
   "octagon": {
-    "body": "<i data-feather\"octagon\"></i>",
+    "body": "<i data-feather=\"octagon\"></i>",
     "description": "<i>",
     "prefix": "feather-octagon"
   },
   "package": {
-    "body": "<i data-feather\"package\"></i>",
+    "body": "<i data-feather=\"package\"></i>",
     "description": "<i>",
     "prefix": "feather-package"
   },
   "paperclip": {
-    "body": "<i data-feather\"paperclip\"></i>",
+    "body": "<i data-feather=\"paperclip\"></i>",
     "description": "<i>",
     "prefix": "feather-paperclip"
   },
   "pause-circle": {
-    "body": "<i data-feather\"pause-circle\"></i>",
+    "body": "<i data-feather=\"pause-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-pause-circle"
   },
   "pause": {
-    "body": "<i data-feather\"pause\"></i>",
+    "body": "<i data-feather=\"pause\"></i>",
     "description": "<i>",
     "prefix": "feather-pause"
   },
   "percent": {
-    "body": "<i data-feather\"percent\"></i>",
+    "body": "<i data-feather=\"percent\"></i>",
     "description": "<i>",
     "prefix": "feather-percent"
   },
   "phone-call": {
-    "body": "<i data-feather\"phone-call\"></i>",
+    "body": "<i data-feather=\"phone-call\"></i>",
     "description": "<i>",
     "prefix": "feather-phone-call"
   },
   "phone-forwarded": {
-    "body": "<i data-feather\"phone-forwarded\"></i>",
+    "body": "<i data-feather=\"phone-forwarded\"></i>",
     "description": "<i>",
     "prefix": "feather-phone-forwarded"
   },
   "phone-incoming": {
-    "body": "<i data-feather\"phone-incoming\"></i>",
+    "body": "<i data-feather=\"phone-incoming\"></i>",
     "description": "<i>",
     "prefix": "feather-phone-incoming"
   },
   "phone-missed": {
-    "body": "<i data-feather\"phone-missed\"></i>",
+    "body": "<i data-feather=\"phone-missed\"></i>",
     "description": "<i>",
     "prefix": "feather-phone-missed"
   },
   "phone-off": {
-    "body": "<i data-feather\"phone-off\"></i>",
+    "body": "<i data-feather=\"phone-off\"></i>",
     "description": "<i>",
     "prefix": "feather-phone-off"
   },
   "phone-outgoing": {
-    "body": "<i data-feather\"phone-outgoing\"></i>",
+    "body": "<i data-feather=\"phone-outgoing\"></i>",
     "description": "<i>",
     "prefix": "feather-phone-outgoing"
   },
   "phone": {
-    "body": "<i data-feather\"phone\"></i>",
+    "body": "<i data-feather=\"phone\"></i>",
     "description": "<i>",
     "prefix": "feather-phone"
   },
   "pie-chart": {
-    "body": "<i data-feather\"pie-chart\"></i>",
+    "body": "<i data-feather=\"pie-chart\"></i>",
     "description": "<i>",
     "prefix": "feather-pie-chart"
   },
   "play-circle": {
-    "body": "<i data-feather\"play-circle\"></i>",
+    "body": "<i data-feather=\"play-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-play-circle"
   },
   "play": {
-    "body": "<i data-feather\"play\"></i>",
+    "body": "<i data-feather=\"play\"></i>",
     "description": "<i>",
     "prefix": "feather-play"
   },
   "plus-circle": {
-    "body": "<i data-feather\"plus-circle\"></i>",
+    "body": "<i data-feather=\"plus-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-plus-circle"
   },
   "plus-square": {
-    "body": "<i data-feather\"plus-square\"></i>",
+    "body": "<i data-feather=\"plus-square\"></i>",
     "description": "<i>",
     "prefix": "feather-plus-square"
   },
   "plus": {
-    "body": "<i data-feather\"plus\"></i>",
+    "body": "<i data-feather=\"plus\"></i>",
     "description": "<i>",
     "prefix": "feather-plus"
   },
   "pocket": {
-    "body": "<i data-feather\"pocket\"></i>",
+    "body": "<i data-feather=\"pocket\"></i>",
     "description": "<i>",
     "prefix": "feather-pocket"
   },
   "power": {
-    "body": "<i data-feather\"power\"></i>",
+    "body": "<i data-feather=\"power\"></i>",
     "description": "<i>",
     "prefix": "feather-power"
   },
   "printer": {
-    "body": "<i data-feather\"printer\"></i>",
+    "body": "<i data-feather=\"printer\"></i>",
     "description": "<i>",
     "prefix": "feather-printer"
   },
   "radio": {
-    "body": "<i data-feather\"radio\"></i>",
+    "body": "<i data-feather=\"radio\"></i>",
     "description": "<i>",
     "prefix": "feather-radio"
   },
   "refresh-ccw": {
-    "body": "<i data-feather\"refresh-ccw\"></i>",
+    "body": "<i data-feather=\"refresh-ccw\"></i>",
     "description": "<i>",
     "prefix": "feather-refresh-ccw"
   },
   "refresh-cw": {
-    "body": "<i data-feather\"refresh-cw\"></i>",
+    "body": "<i data-feather=\"refresh-cw\"></i>",
     "description": "<i>",
     "prefix": "feather-refresh-cw"
   },
   "repeat": {
-    "body": "<i data-feather\"repeat\"></i>",
+    "body": "<i data-feather=\"repeat\"></i>",
     "description": "<i>",
     "prefix": "feather-repeat"
   },
   "rewind": {
-    "body": "<i data-feather\"rewind\"></i>",
+    "body": "<i data-feather=\"rewind\"></i>",
     "description": "<i>",
     "prefix": "feather-rewind"
   },
   "rotate-ccw": {
-    "body": "<i data-feather\"rotate-ccw\"></i>",
+    "body": "<i data-feather=\"rotate-ccw\"></i>",
     "description": "<i>",
     "prefix": "feather-rotate-ccw"
   },
   "rotate-cw": {
-    "body": "<i data-feather\"rotate-cw\"></i>",
+    "body": "<i data-feather=\"rotate-cw\"></i>",
     "description": "<i>",
     "prefix": "feather-rotate-cw"
   },
   "rss": {
-    "body": "<i data-feather\"rss\"></i>",
+    "body": "<i data-feather=\"rss\"></i>",
     "description": "<i>",
     "prefix": "feather-rss"
   },
   "save": {
-    "body": "<i data-feather\"save\"></i>",
+    "body": "<i data-feather=\"save\"></i>",
     "description": "<i>",
     "prefix": "feather-save"
   },
   "scissors": {
-    "body": "<i data-feather\"scissors\"></i>",
+    "body": "<i data-feather=\"scissors\"></i>",
     "description": "<i>",
     "prefix": "feather-scissors"
   },
   "search": {
-    "body": "<i data-feather\"search\"></i>",
+    "body": "<i data-feather=\"search\"></i>",
     "description": "<i>",
     "prefix": "feather-search"
   },
   "send": {
-    "body": "<i data-feather\"send\"></i>",
+    "body": "<i data-feather=\"send\"></i>",
     "description": "<i>",
     "prefix": "feather-send"
   },
   "server": {
-    "body": "<i data-feather\"server\"></i>",
+    "body": "<i data-feather=\"server\"></i>",
     "description": "<i>",
     "prefix": "feather-server"
   },
   "settings": {
-    "body": "<i data-feather\"settings\"></i>",
+    "body": "<i data-feather=\"settings\"></i>",
     "description": "<i>",
     "prefix": "feather-settings"
   },
   "share-2": {
-    "body": "<i data-feather\"share-2\"></i>",
+    "body": "<i data-feather=\"share-2\"></i>",
     "description": "<i>",
     "prefix": "feather-share-2"
   },
   "share": {
-    "body": "<i data-feather\"share\"></i>",
+    "body": "<i data-feather=\"share\"></i>",
     "description": "<i>",
     "prefix": "feather-share"
   },
   "shield-off": {
-    "body": "<i data-feather\"shield-off\"></i>",
+    "body": "<i data-feather=\"shield-off\"></i>",
     "description": "<i>",
     "prefix": "feather-shield-off"
   },
   "shield": {
-    "body": "<i data-feather\"shield\"></i>",
+    "body": "<i data-feather=\"shield\"></i>",
     "description": "<i>",
     "prefix": "feather-shield"
   },
   "shopping-bag": {
-    "body": "<i data-feather\"shopping-bag\"></i>",
+    "body": "<i data-feather=\"shopping-bag\"></i>",
     "description": "<i>",
     "prefix": "feather-shopping-bag"
   },
   "shopping-cart": {
-    "body": "<i data-feather\"shopping-cart\"></i>",
+    "body": "<i data-feather=\"shopping-cart\"></i>",
     "description": "<i>",
     "prefix": "feather-shopping-cart"
   },
   "shuffle": {
-    "body": "<i data-feather\"shuffle\"></i>",
+    "body": "<i data-feather=\"shuffle\"></i>",
     "description": "<i>",
     "prefix": "feather-shuffle"
   },
   "sidebar": {
-    "body": "<i data-feather\"sidebar\"></i>",
+    "body": "<i data-feather=\"sidebar\"></i>",
     "description": "<i>",
     "prefix": "feather-sidebar"
   },
   "skip-back": {
-    "body": "<i data-feather\"skip-back\"></i>",
+    "body": "<i data-feather=\"skip-back\"></i>",
     "description": "<i>",
     "prefix": "feather-skip-back"
   },
   "skip-forward": {
-    "body": "<i data-feather\"skip-forward\"></i>",
+    "body": "<i data-feather=\"skip-forward\"></i>",
     "description": "<i>",
     "prefix": "feather-skip-forward"
   },
   "slack": {
-    "body": "<i data-feather\"slack\"></i>",
+    "body": "<i data-feather=\"slack\"></i>",
     "description": "<i>",
     "prefix": "feather-slack"
   },
   "slash": {
-    "body": "<i data-feather\"slash\"></i>",
+    "body": "<i data-feather=\"slash\"></i>",
     "description": "<i>",
     "prefix": "feather-slash"
   },
   "sliders": {
-    "body": "<i data-feather\"sliders\"></i>",
+    "body": "<i data-feather=\"sliders\"></i>",
     "description": "<i>",
     "prefix": "feather-sliders"
   },
   "smartphone": {
-    "body": "<i data-feather\"smartphone\"></i>",
+    "body": "<i data-feather=\"smartphone\"></i>",
     "description": "<i>",
     "prefix": "feather-smartphone"
   },
   "speaker": {
-    "body": "<i data-feather\"speaker\"></i>",
+    "body": "<i data-feather=\"speaker\"></i>",
     "description": "<i>",
     "prefix": "feather-speaker"
   },
   "square": {
-    "body": "<i data-feather\"square\"></i>",
+    "body": "<i data-feather=\"square\"></i>",
     "description": "<i>",
     "prefix": "feather-square"
   },
   "star": {
-    "body": "<i data-feather\"star\"></i>",
+    "body": "<i data-feather=\"star\"></i>",
     "description": "<i>",
     "prefix": "feather-star"
   },
   "stop-circle": {
-    "body": "<i data-feather\"stop-circle\"></i>",
+    "body": "<i data-feather=\"stop-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-stop-circle"
   },
   "sun": {
-    "body": "<i data-feather\"sun\"></i>",
+    "body": "<i data-feather=\"sun\"></i>",
     "description": "<i>",
     "prefix": "feather-sun"
   },
   "sunrise": {
-    "body": "<i data-feather\"sunrise\"></i>",
+    "body": "<i data-feather=\"sunrise\"></i>",
     "description": "<i>",
     "prefix": "feather-sunrise"
   },
   "sunset": {
-    "body": "<i data-feather\"sunset\"></i>",
+    "body": "<i data-feather=\"sunset\"></i>",
     "description": "<i>",
     "prefix": "feather-sunset"
   },
   "tablet": {
-    "body": "<i data-feather\"tablet\"></i>",
+    "body": "<i data-feather=\"tablet\"></i>",
     "description": "<i>",
     "prefix": "feather-tablet"
   },
   "tag": {
-    "body": "<i data-feather\"tag\"></i>",
+    "body": "<i data-feather=\"tag\"></i>",
     "description": "<i>",
     "prefix": "feather-tag"
   },
   "target": {
-    "body": "<i data-feather\"target\"></i>",
+    "body": "<i data-feather=\"target\"></i>",
     "description": "<i>",
     "prefix": "feather-target"
   },
   "terminal": {
-    "body": "<i data-feather\"terminal\"></i>",
+    "body": "<i data-feather=\"terminal\"></i>",
     "description": "<i>",
     "prefix": "feather-terminal"
   },
   "thermometer": {
-    "body": "<i data-feather\"thermometer\"></i>",
+    "body": "<i data-feather=\"thermometer\"></i>",
     "description": "<i>",
     "prefix": "feather-thermometer"
   },
   "thumbs-down": {
-    "body": "<i data-feather\"thumbs-down\"></i>",
+    "body": "<i data-feather=\"thumbs-down\"></i>",
     "description": "<i>",
     "prefix": "feather-thumbs-down"
   },
   "thumbs-up": {
-    "body": "<i data-feather\"thumbs-up\"></i>",
+    "body": "<i data-feather=\"thumbs-up\"></i>",
     "description": "<i>",
     "prefix": "feather-thumbs-up"
   },
   "toggle-left": {
-    "body": "<i data-feather\"toggle-left\"></i>",
+    "body": "<i data-feather=\"toggle-left\"></i>",
     "description": "<i>",
     "prefix": "feather-toggle-left"
   },
   "toggle-right": {
-    "body": "<i data-feather\"toggle-right\"></i>",
+    "body": "<i data-feather=\"toggle-right\"></i>",
     "description": "<i>",
     "prefix": "feather-toggle-right"
   },
   "trash-2": {
-    "body": "<i data-feather\"trash-2\"></i>",
+    "body": "<i data-feather=\"trash-2\"></i>",
     "description": "<i>",
     "prefix": "feather-trash-2"
   },
   "trash": {
-    "body": "<i data-feather\"trash\"></i>",
+    "body": "<i data-feather=\"trash\"></i>",
     "description": "<i>",
     "prefix": "feather-trash"
   },
   "trending-down": {
-    "body": "<i data-feather\"trending-down\"></i>",
+    "body": "<i data-feather=\"trending-down\"></i>",
     "description": "<i>",
     "prefix": "feather-trending-down"
   },
   "trending-up": {
-    "body": "<i data-feather\"trending-up\"></i>",
+    "body": "<i data-feather=\"trending-up\"></i>",
     "description": "<i>",
     "prefix": "feather-trending-up"
   },
   "triangle": {
-    "body": "<i data-feather\"triangle\"></i>",
+    "body": "<i data-feather=\"triangle\"></i>",
     "description": "<i>",
     "prefix": "feather-triangle"
   },
   "truck": {
-    "body": "<i data-feather\"truck\"></i>",
+    "body": "<i data-feather=\"truck\"></i>",
     "description": "<i>",
     "prefix": "feather-truck"
   },
   "tv": {
-    "body": "<i data-feather\"tv\"></i>",
+    "body": "<i data-feather=\"tv\"></i>",
     "description": "<i>",
     "prefix": "feather-tv"
   },
   "twitter": {
-    "body": "<i data-feather\"twitter\"></i>",
+    "body": "<i data-feather=\"twitter\"></i>",
     "description": "<i>",
     "prefix": "feather-twitter"
   },
   "type": {
-    "body": "<i data-feather\"type\"></i>",
+    "body": "<i data-feather=\"type\"></i>",
     "description": "<i>",
     "prefix": "feather-type"
   },
   "umbrella": {
-    "body": "<i data-feather\"umbrella\"></i>",
+    "body": "<i data-feather=\"umbrella\"></i>",
     "description": "<i>",
     "prefix": "feather-umbrella"
   },
   "underline": {
-    "body": "<i data-feather\"underline\"></i>",
+    "body": "<i data-feather=\"underline\"></i>",
     "description": "<i>",
     "prefix": "feather-underline"
   },
   "unlock": {
-    "body": "<i data-feather\"unlock\"></i>",
+    "body": "<i data-feather=\"unlock\"></i>",
     "description": "<i>",
     "prefix": "feather-unlock"
   },
   "upload-cloud": {
-    "body": "<i data-feather\"upload-cloud\"></i>",
+    "body": "<i data-feather=\"upload-cloud\"></i>",
     "description": "<i>",
     "prefix": "feather-upload-cloud"
   },
   "upload": {
-    "body": "<i data-feather\"upload\"></i>",
+    "body": "<i data-feather=\"upload\"></i>",
     "description": "<i>",
     "prefix": "feather-upload"
   },
   "user-check": {
-    "body": "<i data-feather\"user-check\"></i>",
+    "body": "<i data-feather=\"user-check\"></i>",
     "description": "<i>",
     "prefix": "feather-user-check"
   },
   "user-minus": {
-    "body": "<i data-feather\"user-minus\"></i>",
+    "body": "<i data-feather=\"user-minus\"></i>",
     "description": "<i>",
     "prefix": "feather-user-minus"
   },
   "user-plus": {
-    "body": "<i data-feather\"user-plus\"></i>",
+    "body": "<i data-feather=\"user-plus\"></i>",
     "description": "<i>",
     "prefix": "feather-user-plus"
   },
   "user-x": {
-    "body": "<i data-feather\"user-x\"></i>",
+    "body": "<i data-feather=\"user-x\"></i>",
     "description": "<i>",
     "prefix": "feather-user-x"
   },
   "user": {
-    "body": "<i data-feather\"user\"></i>",
+    "body": "<i data-feather=\"user\"></i>",
     "description": "<i>",
     "prefix": "feather-user"
   },
   "users": {
-    "body": "<i data-feather\"users\"></i>",
+    "body": "<i data-feather=\"users\"></i>",
     "description": "<i>",
     "prefix": "feather-users"
   },
   "video-off": {
-    "body": "<i data-feather\"video-off\"></i>",
+    "body": "<i data-feather=\"video-off\"></i>",
     "description": "<i>",
     "prefix": "feather-video-off"
   },
   "video": {
-    "body": "<i data-feather\"video\"></i>",
+    "body": "<i data-feather=\"video\"></i>",
     "description": "<i>",
     "prefix": "feather-video"
   },
   "voicemail": {
-    "body": "<i data-feather\"voicemail\"></i>",
+    "body": "<i data-feather=\"voicemail\"></i>",
     "description": "<i>",
     "prefix": "feather-voicemail"
   },
   "volume-1": {
-    "body": "<i data-feather\"volume-1\"></i>",
+    "body": "<i data-feather=\"volume-1\"></i>",
     "description": "<i>",
     "prefix": "feather-volume-1"
   },
   "volume-2": {
-    "body": "<i data-feather\"volume-2\"></i>",
+    "body": "<i data-feather=\"volume-2\"></i>",
     "description": "<i>",
     "prefix": "feather-volume-2"
   },
   "volume-x": {
-    "body": "<i data-feather\"volume-x\"></i>",
+    "body": "<i data-feather=\"volume-x\"></i>",
     "description": "<i>",
     "prefix": "feather-volume-x"
   },
   "volume": {
-    "body": "<i data-feather\"volume\"></i>",
+    "body": "<i data-feather=\"volume\"></i>",
     "description": "<i>",
     "prefix": "feather-volume"
   },
   "watch": {
-    "body": "<i data-feather\"watch\"></i>",
+    "body": "<i data-feather=\"watch\"></i>",
     "description": "<i>",
     "prefix": "feather-watch"
   },
   "wifi-off": {
-    "body": "<i data-feather\"wifi-off\"></i>",
+    "body": "<i data-feather=\"wifi-off\"></i>",
     "description": "<i>",
     "prefix": "feather-wifi-off"
   },
   "wifi": {
-    "body": "<i data-feather\"wifi\"></i>",
+    "body": "<i data-feather=\"wifi\"></i>",
     "description": "<i>",
     "prefix": "feather-wifi"
   },
   "wind": {
-    "body": "<i data-feather\"wind\"></i>",
+    "body": "<i data-feather=\"wind\"></i>",
     "description": "<i>",
     "prefix": "feather-wind"
   },
   "x-circle": {
-    "body": "<i data-feather\"x-circle\"></i>",
+    "body": "<i data-feather=\"x-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-x-circle"
   },
   "x-square": {
-    "body": "<i data-feather\"x-square\"></i>",
+    "body": "<i data-feather=\"x-square\"></i>",
     "description": "<i>",
     "prefix": "feather-x-square"
   },
   "x": {
-    "body": "<i data-feather\"x\"></i>",
+    "body": "<i data-feather=\"x\"></i>",
     "description": "<i>",
     "prefix": "feather-x"
   },
   "youtube": {
-    "body": "<i data-feather\"youtube\"></i>",
+    "body": "<i data-feather=\"youtube\"></i>",
     "description": "<i>",
     "prefix": "feather-youtube"
   },
   "zap-off": {
-    "body": "<i data-feather\"zap-off\"></i>",
+    "body": "<i data-feather=\"zap-off\"></i>",
     "description": "<i>",
     "prefix": "feather-zap-off"
   },
   "zap": {
-    "body": "<i data-feather\"zap\"></i>",
+    "body": "<i data-feather=\"zap\"></i>",
     "description": "<i>",
     "prefix": "feather-zap"
   },
   "zoom-in": {
-    "body": "<i data-feather\"zoom-in\"></i>",
+    "body": "<i data-feather=\"zoom-in\"></i>",
     "description": "<i>",
     "prefix": "feather-zoom-in"
   },
   "zoom-out": {
-    "body": "<i data-feather\"zoom-out\"></i>",
+    "body": "<i data-feather=\"zoom-out\"></i>",
     "description": "<i>",
     "prefix": "feather-zoom-out"
   }
