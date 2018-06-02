@@ -1,3 +1,7 @@
+# v0.6.6 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.6)
+
+- bump Feather Icons to 4.7
+
 # v0.6.5 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.5)
 
 - fix Open Iconic prefixes
