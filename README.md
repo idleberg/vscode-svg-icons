@@ -2,7 +2,7 @@
 
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-svg-icons)](https://github.com/idleberg/vscode-svg-icons/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.svg-icons)](https://marketplace.visualstudio.com/items?itemName=idleberg.svg-icons)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.svg-icons.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.svg-icons)
 [![Travis](https://flat.badgen.net/travis/idleberg/vscode-svg-icons)](https://travis-ci.org/idleberg/vscode-svg-icons)
 [![David](https://flat.badgen.net/david/dev/idleberg/vscode-svg-icons)](https://david-dm.org/idleberg/vscode-svg-icons?type=dev)
 
