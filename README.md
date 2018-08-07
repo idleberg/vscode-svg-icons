@@ -1,10 +1,10 @@
 # vscode-svg-icons
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/release/idleberg/vscode-svg-icons.svg?style=flat-square)](https://github.com/idleberg/vscode-svg-icons/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.svg-icons.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.svg-icons)
-[![Travis](https://img.shields.io/travis/idleberg/vscode-svg-icons.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-svg-icons)
-[![David](https://img.shields.io/david/dev/idleberg/vscode-svg-icons.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-svg-icons?type=dev)
+[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
+[![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-svg-icons)](https://github.com/idleberg/vscode-svg-icons/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.svg-icons)](https://marketplace.visualstudio.com/items?itemName=idleberg.svg-icons)
+[![Travis](https://flat.badgen.net/travis/idleberg/vscode-svg-icons)](https://travis-ci.org/idleberg/vscode-svg-icons)
+[![David](https://flat.badgen.net/david/dev/idleberg/vscode-svg-icons)](https://david-dm.org/idleberg/vscode-svg-icons?type=dev)
 
 Snippets for popular SVG icons including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize ([see details](https://github.com/idleberg/vscode-svg-icons#prefixes)).
 
