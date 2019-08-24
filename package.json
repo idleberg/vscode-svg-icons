@@ -126,41 +126,41 @@
                 "path": "./snippets/jsx/si.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/bi.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/ei.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/feather.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/octicon.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/oi.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/se.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/si.json"
             }
         ]
     },
     "devDependencies": {
-        "gulp": "^4.0.0",
+        "gulp": "^4.0.2",
         "gulp-raster": "^0.2.0",
-        "gulp-rename": "^1.2.2",
-        "husky": "^0.14.3",
-        "vscode": "^1.0.10",
-        "vscode-linter": "^0.2.1"
+        "gulp-rename": "^1.4.0",
+        "husky": "^3.0.4",
+        "vscode": "^1.1.36",
+        "vscode-linter": "^0.2.2"
     }
 }
