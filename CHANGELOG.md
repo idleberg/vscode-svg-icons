@@ -1,3 +1,10 @@
+# v0.6.8 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.8)
+
+- bump Bytesize Icons to 1.4
+- bump Feather Icons to 4.24.0
+- use CircleCI
+- update dependencies
+
 # v0.6.7 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.7)
 
 - fix typo in snippets
