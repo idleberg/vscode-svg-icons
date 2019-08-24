@@ -1,3 +1,5 @@
+*.vsix
+.circleci/
 .travis.yml
 gulpfile.js
 package-lock.json
