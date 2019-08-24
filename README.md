@@ -3,7 +3,7 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-svg-icons)](https://github.com/idleberg/vscode-svg-icons/releases)
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.svg-icons.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.svg-icons)
-[![Travis](https://flat.badgen.net/travis/idleberg/vscode-svg-icons)](https://travis-ci.org/idleberg/vscode-svg-icons)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/vscode-svg-icons)](https://circleci.com/gh/idleberg/vscode-svg-icons/)
 [![David](https://flat.badgen.net/david/dev/idleberg/vscode-svg-icons)](https://david-dm.org/idleberg/vscode-svg-icons?type=dev)
 
 Snippets for popular SVG icons including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize ([see details](https://github.com/idleberg/vscode-svg-icons#prefixes)).
@@ -56,12 +56,12 @@ Snippets are limited to the `html`, `blade`, `jsx` and `vue` scopes. Typing the 
 
 Prefix         | SVG Icons                           | Version
 ---------------|-------------------------------------|--------
-`bi`           | [Bytesize Icons][bi]                | 1.3
+`bi`           | [Bytesize Icons][bi]                | 1.4
 `ei`           | [Evil Icons][ei]                    | 1.8.0
-`feather`      | [Feather][feather]                  | 4.7.0
+`feather`      | [Feather][feather]                  | 4.24.0
 `octicon`      | [GitHub Octicons][octicon]          | 6.0.1
 `oi`           | [Open Iconic][oi]                   | 1.1.0
-`se`           | [Speakemoji][se]                    | -
+`se`           | [Speakemoji][se]                    | 1.0
 `si`           | [SmartIcons Glyphs][si]             | 1.1
 
 ## License

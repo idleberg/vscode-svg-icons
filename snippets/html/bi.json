@@ -204,35 +204,50 @@
     "description": "<use>",
     "prefix": "bi-eye"
   },
+  "feed": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#feed\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-feed"
+  },
   "file": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#file\" />\n</svg>",
     "description": "<use>",
     "prefix": "bi-file"
   },
-  "fire": {
-    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#fire\" />\n</svg>",
+  "filter": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#filter\" />\n</svg>",
     "description": "<use>",
-    "prefix": "bi-fire"
+    "prefix": "bi-filter"
   },
   "flag": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#flag\" />\n</svg>",
     "description": "<use>",
     "prefix": "bi-flag"
   },
-  "folder": {
-    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#folder\" />\n</svg>",
-    "description": "<use>",
-    "prefix": "bi-folder"
-  },
   "folder-open": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#folder-open\" />\n</svg>",
     "description": "<use>",
     "prefix": "bi-folder-open"
   },
+  "folder": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#folder\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-folder"
+  },
   "forwards": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#forwards\" />\n</svg>",
     "description": "<use>",
     "prefix": "bi-forwards"
+  },
+  "fullscreen-exit": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#fullscreen-exit\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-fullscreen-exit"
+  },
+  "fullscreen": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#fullscreen\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-fullscreen"
   },
   "gift": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#gift\" />\n</svg>",
@@ -318,6 +333,11 @@
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#mobile\" />\n</svg>",
     "description": "<use>",
     "prefix": "bi-mobile"
+  },
+  "moon": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#moon\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-moon"
   },
   "move": {
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#move\" />\n</svg>",
@@ -468,5 +488,20 @@
     "body": "<svg class=\"i\">\n\t<use xlink:href=\"#work\" />\n</svg>",
     "description": "<use>",
     "prefix": "bi-work"
+  },
+  "zoom-in": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#zoom-in\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-zoom-in"
+  },
+  "zoom-out": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#zoom-out\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-zoom-out"
+  },
+  "zoom-reset": {
+    "body": "<svg class=\"i\">\n\t<use xlink:href=\"#zoom-reset\" />\n</svg>",
+    "description": "<use>",
+    "prefix": "bi-zoom-reset"
   }
 }

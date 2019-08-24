@@ -329,6 +329,21 @@
     "description": "<i>",
     "prefix": "feather-codepen"
   },
+  "codesandbox": {
+    "body": "<i data-feather=\"codesandbox\"></i>",
+    "description": "<i>",
+    "prefix": "feather-codesandbox"
+  },
+  "coffee": {
+    "body": "<i data-feather=\"coffee\"></i>",
+    "description": "<i>",
+    "prefix": "feather-coffee"
+  },
+  "columns": {
+    "body": "<i data-feather=\"columns\"></i>",
+    "description": "<i>",
+    "prefix": "feather-columns"
+  },
   "command": {
     "body": "<i data-feather=\"command\"></i>",
     "description": "<i>",
@@ -484,6 +499,11 @@
     "description": "<i>",
     "prefix": "feather-feather"
   },
+  "figma": {
+    "body": "<i data-feather=\"figma\"></i>",
+    "description": "<i>",
+    "prefix": "feather-figma"
+  },
   "file-minus": {
     "body": "<i data-feather=\"file-minus\"></i>",
     "description": "<i>",
@@ -533,6 +553,16 @@
     "body": "<i data-feather=\"folder\"></i>",
     "description": "<i>",
     "prefix": "feather-folder"
+  },
+  "framer": {
+    "body": "<i data-feather=\"framer\"></i>",
+    "description": "<i>",
+    "prefix": "feather-framer"
+  },
+  "frown": {
+    "body": "<i data-feather=\"frown\"></i>",
+    "description": "<i>",
+    "prefix": "feather-frown"
   },
   "gift": {
     "body": "<i data-feather=\"gift\"></i>",
@@ -604,6 +634,11 @@
     "description": "<i>",
     "prefix": "feather-help-circle"
   },
+  "hexagon": {
+    "body": "<i data-feather=\"hexagon\"></i>",
+    "description": "<i>",
+    "prefix": "feather-hexagon"
+  },
   "home": {
     "body": "<i data-feather=\"home\"></i>",
     "description": "<i>",
@@ -633,6 +668,11 @@
     "body": "<i data-feather=\"italic\"></i>",
     "description": "<i>",
     "prefix": "feather-italic"
+  },
+  "key": {
+    "body": "<i data-feather=\"key\"></i>",
+    "description": "<i>",
+    "prefix": "feather-key"
   },
   "layers": {
     "body": "<i data-feather=\"layers\"></i>",
@@ -714,6 +754,11 @@
     "description": "<i>",
     "prefix": "feather-maximize"
   },
+  "meh": {
+    "body": "<i data-feather=\"meh\"></i>",
+    "description": "<i>",
+    "prefix": "feather-meh"
+  },
   "menu": {
     "body": "<i data-feather=\"menu\"></i>",
     "description": "<i>",
@@ -784,6 +829,11 @@
     "description": "<i>",
     "prefix": "feather-more-vertical"
   },
+  "mouse-pointer": {
+    "body": "<i data-feather=\"mouse-pointer\"></i>",
+    "description": "<i>",
+    "prefix": "feather-mouse-pointer"
+  },
   "move": {
     "body": "<i data-feather=\"move\"></i>",
     "description": "<i>",
@@ -828,6 +878,11 @@
     "body": "<i data-feather=\"pause\"></i>",
     "description": "<i>",
     "prefix": "feather-pause"
+  },
+  "pen-tool": {
+    "body": "<i data-feather=\"pen-tool\"></i>",
+    "description": "<i>",
+    "prefix": "feather-pen-tool"
   },
   "percent": {
     "body": "<i data-feather=\"percent\"></i>",
@@ -1054,6 +1109,11 @@
     "description": "<i>",
     "prefix": "feather-smartphone"
   },
+  "smile": {
+    "body": "<i data-feather=\"smile\"></i>",
+    "description": "<i>",
+    "prefix": "feather-smile"
+  },
   "speaker": {
     "body": "<i data-feather=\"speaker\"></i>",
     "description": "<i>",
@@ -1134,6 +1194,11 @@
     "description": "<i>",
     "prefix": "feather-toggle-right"
   },
+  "tool": {
+    "body": "<i data-feather=\"tool\"></i>",
+    "description": "<i>",
+    "prefix": "feather-tool"
+  },
   "trash-2": {
     "body": "<i data-feather=\"trash-2\"></i>",
     "description": "<i>",
@@ -1143,6 +1208,11 @@
     "body": "<i data-feather=\"trash\"></i>",
     "description": "<i>",
     "prefix": "feather-trash"
+  },
+  "trello": {
+    "body": "<i data-feather=\"trello\"></i>",
+    "description": "<i>",
+    "prefix": "feather-trello"
   },
   "trending-down": {
     "body": "<i data-feather=\"trending-down\"></i>",
@@ -1168,6 +1238,11 @@
     "body": "<i data-feather=\"tv\"></i>",
     "description": "<i>",
     "prefix": "feather-tv"
+  },
+  "twitch": {
+    "body": "<i data-feather=\"twitch\"></i>",
+    "description": "<i>",
+    "prefix": "feather-twitch"
   },
   "twitter": {
     "body": "<i data-feather=\"twitter\"></i>",
@@ -1293,6 +1368,11 @@
     "body": "<i data-feather=\"x-circle\"></i>",
     "description": "<i>",
     "prefix": "feather-x-circle"
+  },
+  "x-octagon": {
+    "body": "<i data-feather=\"x-octagon\"></i>",
+    "description": "<i>",
+    "prefix": "feather-x-octagon"
   },
   "x-square": {
     "body": "<i data-feather=\"x-square\"></i>",
