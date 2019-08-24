@@ -11,7 +11,6 @@
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
-        "precommit": "npm run test",
         "test": "vscode-linter",
         "vscode:prepublish": "gulp"
     },
@@ -162,5 +161,10 @@
         "husky": "^3.0.4",
         "vscode": "^1.1.36",
         "vscode-linter": "^0.2.2"
+    },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run test"
     }
+  }
 }
