@@ -53,15 +53,15 @@ Snippets are limited to the `html`, `blade`, `jsx` and `vue` scopes. Typing the 
 
 ### Prefixes
 
-Prefix         | SVG Icons                           | Version
----------------|-------------------------------------|--------
-`bi`           | [Bytesize Icons][bi]                | 1.4
-`ei`           | [Evil Icons][ei]                    | 1.8.0
-`feather`      | [Feather][feather]                  | 4.24.0
-`octicon`      | [GitHub Octicons][octicon]          | 6.0.1
-`oi`           | [Open Iconic][oi]                   | 1.1.0
-`se`           | [Speakemoji][se]                    | 1.0
-`si`           | [SmartIcons Glyphs][si]             | 1.1
+| Prefix         | SVG Icons                           | Version |
+|----------------|-------------------------------------|---------|
+| `bi`           | [Bytesize Icons][bi]                | 1.4     |
+| `ei`           | [Evil Icons][ei]                    | 1.8.0   |
+| `feather`      | [Feather][feather]                  | 4.24.0  |
+| `octicon`      | [GitHub Octicons][octicon]          | 6.0.1   |
+| `oi`           | [Open Iconic][oi]                   | 1.1.0   |
+| `se`           | [Speakemoji][se]                    | 1.0     |
+| `si`           | [SmartIcons Glyphs][si]             | 1.1     |
 
 ## License
 
