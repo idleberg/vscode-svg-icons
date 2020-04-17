@@ -1,3 +1,8 @@
+# v0.7.0 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.7.0)
+
+- add support for Svelte files
+- update dependencies
+
 # v0.6.8 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.6.8)
 
 - bump Bytesize Icons to 1.4
