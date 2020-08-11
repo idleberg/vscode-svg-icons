@@ -79,10 +79,6 @@ Snippets are limited to the `html`, `blade`, `jsx` and `vue` scopes. Typing the 
 
 This work is licensed under [The MIT License](https://opensource.org/licenses/MIT)
 
-## Donate
-
-You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/vscode-svg-icons) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
 [bi]: https://github.com/danklammer/bytesize-icons
 [ei]: https://github.com/outpunk/evil-icons
 [feather]: https://github.com/colebemis/feather
