@@ -1,3 +1,9 @@
+# v0.8.0 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.8.0)
+
+- add Tabler Icons
+- add Teenyicons
+- update dependencies
+
 # v0.7.0 [#](https://github.com/idleberg/vscode-svg-icons/releases/tag/0.7.0)
 
 - add support for Svelte files

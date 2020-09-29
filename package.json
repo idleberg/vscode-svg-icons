@@ -69,6 +69,14 @@
                 "path": "./snippets/html/si.json"
             },
             {
+                "language": "blade",
+                "path": "./snippets/tabler.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/teenyicons.json"
+            },
+            {
                 "language": "html",
                 "path": "./snippets/html/bi.json"
             },
@@ -95,6 +103,14 @@
             {
                 "language": "html",
                 "path": "./snippets/html/si.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/tabler.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/teenyicons.json"
             },
             {
                 "language": "javascriptreact",
@@ -125,6 +141,14 @@
                 "path": "./snippets/jsx/si.json"
             },
             {
+                "language": "javascriptreact",
+                "path": "./snippets/tabler.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/teenyicons.json"
+            },
+            {
                 "language": "svelte",
                 "path": "./snippets/html/bi.json"
             },
@@ -153,6 +177,14 @@
                 "path": "./snippets/html/si.json"
             },
             {
+                "language": "svelte",
+                "path": "./snippets/tabler.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/teenyicons.json"
+            },
+            {
                 "language": "vue-html",
                 "path": "./snippets/html/bi.json"
             },
@@ -179,6 +211,14 @@
             {
                 "language": "vue-html",
                 "path": "./snippets/html/si.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/tabler.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/teenyicons.json"
             }
         ]
     },
@@ -186,8 +226,8 @@
         "gulp": "^4.0.2",
         "gulp-raster": "^0.2.0",
         "gulp-rename": "^2.0.0",
-        "husky": "^4.2.5",
-        "vscode": "^1.1.36",
+        "husky": "^4.3.0",
+        "vscode": "^1.1.37",
         "vscode-linter": "^0.3.1"
     },
     "husky": {

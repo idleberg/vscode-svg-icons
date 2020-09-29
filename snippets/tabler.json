@@ -1,0 +1,4177 @@
+{
+  "tabler-2fa": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-2fa\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-2fa"
+  },
+  "tabler-3d-cube-sphere": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-3d-cube-sphere\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-3d-cube-sphere"
+  },
+  "tabler-a-b": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-a-b\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-a-b"
+  },
+  "tabler-access-point-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-access-point-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-access-point-off"
+  },
+  "tabler-access-point": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-access-point\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-access-point"
+  },
+  "tabler-accessible": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-accessible\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-accessible"
+  },
+  "tabler-activity": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-activity\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-activity"
+  },
+  "tabler-ad": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ad\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ad"
+  },
+  "tabler-adjustments-alt": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-adjustments-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-adjustments-alt"
+  },
+  "tabler-adjustments-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-adjustments-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-adjustments-horizontal"
+  },
+  "tabler-adjustments": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-adjustments\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-adjustments"
+  },
+  "tabler-alarm": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-alarm\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-alarm"
+  },
+  "tabler-alert-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-alert-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-alert-circle"
+  },
+  "tabler-alert-octagon": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-alert-octagon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-alert-octagon"
+  },
+  "tabler-alert-triangle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-alert-triangle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-alert-triangle"
+  },
+  "tabler-alien": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-alien\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-alien"
+  },
+  "tabler-align-center": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-center\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-align-center"
+  },
+  "tabler-align-justified": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-justified\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-align-justified"
+  },
+  "tabler-align-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-align-left"
+  },
+  "tabler-align-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-align-right"
+  },
+  "tabler-ambulance": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ambulance\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ambulance"
+  },
+  "tabler-anchor": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-anchor\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-anchor"
+  },
+  "tabler-antenna-bars-1": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-antenna-bars-1"
+  },
+  "tabler-antenna-bars-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-antenna-bars-2"
+  },
+  "tabler-antenna-bars-3": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-antenna-bars-3"
+  },
+  "tabler-antenna-bars-4": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-4\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-antenna-bars-4"
+  },
+  "tabler-antenna-bars-5": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-5\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-antenna-bars-5"
+  },
+  "tabler-aperture": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-aperture\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-aperture"
+  },
+  "tabler-apps": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-apps\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-apps"
+  },
+  "tabler-archive": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-archive\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-archive"
+  },
+  "tabler-arrow-back-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-back-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-back-up"
+  },
+  "tabler-arrow-back": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-back\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-back"
+  },
+  "tabler-arrow-bar-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-down"
+  },
+  "tabler-arrow-bar-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-left"
+  },
+  "tabler-arrow-bar-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-right"
+  },
+  "tabler-arrow-bar-to-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-to-down"
+  },
+  "tabler-arrow-bar-to-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-to-left"
+  },
+  "tabler-arrow-bar-to-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-to-right"
+  },
+  "tabler-arrow-bar-to-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-to-up"
+  },
+  "tabler-arrow-bar-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-bar-up"
+  },
+  "tabler-arrow-down-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-down-circle"
+  },
+  "tabler-arrow-down-left-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-left-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-down-left-circle"
+  },
+  "tabler-arrow-down-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-down-left"
+  },
+  "tabler-arrow-down-right-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-right-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-down-right-circle"
+  },
+  "tabler-arrow-down-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-down-right"
+  },
+  "tabler-arrow-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-down"
+  },
+  "tabler-arrow-forward-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-forward-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-forward-up"
+  },
+  "tabler-arrow-forward": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-forward\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-forward"
+  },
+  "tabler-arrow-left-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-left-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-left-circle"
+  },
+  "tabler-arrow-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-left"
+  },
+  "tabler-arrow-narrow-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-narrow-down"
+  },
+  "tabler-arrow-narrow-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-narrow-left"
+  },
+  "tabler-arrow-narrow-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-narrow-right"
+  },
+  "tabler-arrow-narrow-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-narrow-up"
+  },
+  "tabler-arrow-ramp-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-ramp-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-ramp-left"
+  },
+  "tabler-arrow-ramp-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-ramp-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-ramp-right"
+  },
+  "tabler-arrow-right-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-right-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-right-circle"
+  },
+  "tabler-arrow-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-right"
+  },
+  "tabler-arrow-up-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-up-circle"
+  },
+  "tabler-arrow-up-left-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-left-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-up-left-circle"
+  },
+  "tabler-arrow-up-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-up-left"
+  },
+  "tabler-arrow-up-right-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-right-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-up-right-circle"
+  },
+  "tabler-arrow-up-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-up-right"
+  },
+  "tabler-arrow-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrow-up"
+  },
+  "tabler-arrows-diagonal-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-diagonal-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrows-diagonal-2"
+  },
+  "tabler-arrows-diagonal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-diagonal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrows-diagonal"
+  },
+  "tabler-arrows-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrows-horizontal"
+  },
+  "tabler-arrows-maximize": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-maximize\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrows-maximize"
+  },
+  "tabler-arrows-minimize": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-minimize\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrows-minimize"
+  },
+  "tabler-arrows-sort": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-sort\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrows-sort"
+  },
+  "tabler-arrows-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-arrows-vertical"
+  },
+  "tabler-artboard": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-artboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-artboard"
+  },
+  "tabler-aspect-ratio": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-aspect-ratio\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-aspect-ratio"
+  },
+  "tabler-at": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-at\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-at"
+  },
+  "tabler-atom-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-atom-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-atom-2"
+  },
+  "tabler-atom": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-atom\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-atom"
+  },
+  "tabler-award": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-award\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-award"
+  },
+  "tabler-backspace": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-backspace\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-backspace"
+  },
+  "tabler-ball-basketball": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-basketball\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ball-basketball"
+  },
+  "tabler-ball-bowling": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-bowling\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ball-bowling"
+  },
+  "tabler-ball-tennis": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-tennis\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ball-tennis"
+  },
+  "tabler-ball-volleyball": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-volleyball\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ball-volleyball"
+  },
+  "tabler-ban": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ban\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ban"
+  },
+  "tabler-bandage": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bandage\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bandage"
+  },
+  "tabler-barcode": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-barcode\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-barcode"
+  },
+  "tabler-basket": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-basket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-basket"
+  },
+  "tabler-battery-1": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-battery-1"
+  },
+  "tabler-battery-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-battery-2"
+  },
+  "tabler-battery-3": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-battery-3"
+  },
+  "tabler-battery-4": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-4\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-battery-4"
+  },
+  "tabler-battery-charging": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-charging\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-battery-charging"
+  },
+  "tabler-battery-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-battery-off"
+  },
+  "tabler-battery": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-battery"
+  },
+  "tabler-bed": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bed\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bed"
+  },
+  "tabler-bell-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bell-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bell-off"
+  },
+  "tabler-bell-ringing": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bell-ringing\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bell-ringing"
+  },
+  "tabler-bell": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bell\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bell"
+  },
+  "tabler-bike": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bike\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bike"
+  },
+  "tabler-biohazard": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-biohazard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-biohazard"
+  },
+  "tabler-bluetooth-connected": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bluetooth-connected\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bluetooth-connected"
+  },
+  "tabler-bluetooth-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bluetooth-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bluetooth-off"
+  },
+  "tabler-bluetooth": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bluetooth\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bluetooth"
+  },
+  "tabler-bold": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bold\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bold"
+  },
+  "tabler-bolt-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bolt-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bolt-off"
+  },
+  "tabler-bolt": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bolt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bolt"
+  },
+  "tabler-book": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-book\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-book"
+  },
+  "tabler-bookmark-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bookmark-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bookmark-off"
+  },
+  "tabler-bookmark": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bookmark\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bookmark"
+  },
+  "tabler-bookmarks": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bookmarks\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bookmarks"
+  },
+  "tabler-border-all": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-all\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-all"
+  },
+  "tabler-border-bottom": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-bottom\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-bottom"
+  },
+  "tabler-border-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-horizontal"
+  },
+  "tabler-border-inner": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-inner\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-inner"
+  },
+  "tabler-border-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-left"
+  },
+  "tabler-border-none": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-none\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-none"
+  },
+  "tabler-border-outer": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-outer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-outer"
+  },
+  "tabler-border-radius": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-radius\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-radius"
+  },
+  "tabler-border-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-right"
+  },
+  "tabler-border-top": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-top\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-top"
+  },
+  "tabler-border-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-border-vertical"
+  },
+  "tabler-box": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-box\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-box"
+  },
+  "tabler-braces": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-braces\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-braces"
+  },
+  "tabler-brackets": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brackets\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brackets"
+  },
+  "tabler-brand-android": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-android\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-android"
+  },
+  "tabler-brand-apple": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-apple\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-apple"
+  },
+  "tabler-brand-appstore": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-appstore\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-appstore"
+  },
+  "tabler-brand-behance": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-behance\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-behance"
+  },
+  "tabler-brand-chrome": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-chrome\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-chrome"
+  },
+  "tabler-brand-codepen": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-codepen\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-codepen"
+  },
+  "tabler-brand-deviantart": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-deviantart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-deviantart"
+  },
+  "tabler-brand-discord": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-discord\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-discord"
+  },
+  "tabler-brand-dribbble": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-dribbble\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-dribbble"
+  },
+  "tabler-brand-edge": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-edge\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-edge"
+  },
+  "tabler-brand-facebook": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-facebook\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-facebook"
+  },
+  "tabler-brand-figma": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-figma\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-figma"
+  },
+  "tabler-brand-firefox": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-firefox\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-firefox"
+  },
+  "tabler-brand-flickr": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-flickr\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-flickr"
+  },
+  "tabler-brand-foursquare": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-foursquare\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-foursquare"
+  },
+  "tabler-brand-framer": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-framer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-framer"
+  },
+  "tabler-brand-github": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-github\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-github"
+  },
+  "tabler-brand-gitlab": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-gitlab\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-gitlab"
+  },
+  "tabler-brand-google-drive": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-google-drive\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-google-drive"
+  },
+  "tabler-brand-google-play": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-google-play\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-google-play"
+  },
+  "tabler-brand-google": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-google\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-google"
+  },
+  "tabler-brand-instagram": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-instagram\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-instagram"
+  },
+  "tabler-brand-linkedin": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-linkedin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-linkedin"
+  },
+  "tabler-brand-medium": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-medium\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-medium"
+  },
+  "tabler-brand-messenger": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-messenger\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-messenger"
+  },
+  "tabler-brand-opera": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-opera\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-opera"
+  },
+  "tabler-brand-paypal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-paypal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-paypal"
+  },
+  "tabler-brand-pinterest": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-pinterest\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-pinterest"
+  },
+  "tabler-brand-pocket": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-pocket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-pocket"
+  },
+  "tabler-brand-python": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-python\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-python"
+  },
+  "tabler-brand-reddit": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-reddit\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-reddit"
+  },
+  "tabler-brand-safari": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-safari\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-safari"
+  },
+  "tabler-brand-sketch": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-sketch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-sketch"
+  },
+  "tabler-brand-skype": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-skype\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-skype"
+  },
+  "tabler-brand-slack": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-slack\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-slack"
+  },
+  "tabler-brand-snapchat": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-snapchat\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-snapchat"
+  },
+  "tabler-brand-spotify": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-spotify\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-spotify"
+  },
+  "tabler-brand-tabler": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tabler\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-tabler"
+  },
+  "tabler-brand-tailwind": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tailwind\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-tailwind"
+  },
+  "tabler-brand-telegram": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-telegram\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-telegram"
+  },
+  "tabler-brand-tiktok": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tiktok\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-tiktok"
+  },
+  "tabler-brand-tumblr": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tumblr\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-tumblr"
+  },
+  "tabler-brand-twitch": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-twitch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-twitch"
+  },
+  "tabler-brand-twitter": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-twitter\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-twitter"
+  },
+  "tabler-brand-vimeo": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-vimeo\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-vimeo"
+  },
+  "tabler-brand-whatsapp": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-whatsapp\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-whatsapp"
+  },
+  "tabler-brand-windows": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-windows\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-windows"
+  },
+  "tabler-brand-youtube": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-youtube\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brand-youtube"
+  },
+  "tabler-briefcase": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-briefcase\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-briefcase"
+  },
+  "tabler-brightness-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brightness-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brightness-down"
+  },
+  "tabler-brightness-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brightness-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brightness-up"
+  },
+  "tabler-brightness": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brightness\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brightness"
+  },
+  "tabler-browser": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-browser\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-browser"
+  },
+  "tabler-brush": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-brush\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-brush"
+  },
+  "tabler-bucket": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bucket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bucket"
+  },
+  "tabler-bug": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bug\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bug"
+  },
+  "tabler-building-arch": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-arch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-arch"
+  },
+  "tabler-building-bank": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-bank\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-bank"
+  },
+  "tabler-building-bridge-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-bridge-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-bridge-2"
+  },
+  "tabler-building-bridge": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-bridge\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-bridge"
+  },
+  "tabler-building-church": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-church\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-church"
+  },
+  "tabler-building-community": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-community\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-community"
+  },
+  "tabler-building-hospital": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-hospital\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-hospital"
+  },
+  "tabler-building-monument": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-monument\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-monument"
+  },
+  "tabler-building-pavilon": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-pavilon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-pavilon"
+  },
+  "tabler-building-skyscraper": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-skyscraper\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-skyscraper"
+  },
+  "tabler-building-store": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-store\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-store"
+  },
+  "tabler-building-warehouse": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-warehouse\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building-warehouse"
+  },
+  "tabler-building": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-building\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-building"
+  },
+  "tabler-bulb-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bulb-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bulb-off"
+  },
+  "tabler-bulb": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bulb\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bulb"
+  },
+  "tabler-bus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-bus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-bus"
+  },
+  "tabler-calculator": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-calculator\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-calculator"
+  },
+  "tabler-calendar-event": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar-event\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-calendar-event"
+  },
+  "tabler-calendar-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-calendar-minus"
+  },
+  "tabler-calendar-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-calendar-plus"
+  },
+  "tabler-calendar": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-calendar"
+  },
+  "tabler-camera-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-camera-minus"
+  },
+  "tabler-camera-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-camera-off"
+  },
+  "tabler-camera-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-camera-plus"
+  },
+  "tabler-camera": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-camera"
+  },
+  "tabler-capture": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-capture\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-capture"
+  },
+  "tabler-car": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-car\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-car"
+  },
+  "tabler-caravan": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-caravan\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-caravan"
+  },
+  "tabler-caret-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-caret-down"
+  },
+  "tabler-caret-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-caret-left"
+  },
+  "tabler-caret-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-caret-right"
+  },
+  "tabler-caret-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-caret-up"
+  },
+  "tabler-cash": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cash\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cash"
+  },
+  "tabler-cast": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cast\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cast"
+  },
+  "tabler-chart-area-line": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-area-line\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-area-line"
+  },
+  "tabler-chart-area": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-area\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-area"
+  },
+  "tabler-chart-bar": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-bar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-bar"
+  },
+  "tabler-chart-bubble": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-bubble\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-bubble"
+  },
+  "tabler-chart-candle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-candle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-candle"
+  },
+  "tabler-chart-donut": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-donut\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-donut"
+  },
+  "tabler-chart-line": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-line\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-line"
+  },
+  "tabler-chart-pie": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-pie\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chart-pie"
+  },
+  "tabler-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-check"
+  },
+  "tabler-checkbox": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-checkbox\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-checkbox"
+  },
+  "tabler-checks": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-checks\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-checks"
+  },
+  "tabler-chevron-down-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-down-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-down-left"
+  },
+  "tabler-chevron-down-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-down-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-down-right"
+  },
+  "tabler-chevron-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-down"
+  },
+  "tabler-chevron-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-left"
+  },
+  "tabler-chevron-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-right"
+  },
+  "tabler-chevron-up-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-up-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-up-left"
+  },
+  "tabler-chevron-up-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-up-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-up-right"
+  },
+  "tabler-chevron-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevron-up"
+  },
+  "tabler-chevrons-down-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-down-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-down-left"
+  },
+  "tabler-chevrons-down-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-down-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-down-right"
+  },
+  "tabler-chevrons-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-down"
+  },
+  "tabler-chevrons-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-left"
+  },
+  "tabler-chevrons-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-right"
+  },
+  "tabler-chevrons-up-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-up-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-up-left"
+  },
+  "tabler-chevrons-up-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-up-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-up-right"
+  },
+  "tabler-chevrons-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-chevrons-up"
+  },
+  "tabler-circle-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle-check"
+  },
+  "tabler-circle-dashed": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-dashed\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle-dashed"
+  },
+  "tabler-circle-dotted": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-dotted\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle-dotted"
+  },
+  "tabler-circle-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle-minus"
+  },
+  "tabler-circle-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle-plus"
+  },
+  "tabler-circle-square": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-square\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle-square"
+  },
+  "tabler-circle-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle-x"
+  },
+  "tabler-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circle"
+  },
+  "tabler-circles": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-circles\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-circles"
+  },
+  "tabler-clear-formatting": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-clear-formatting\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-clear-formatting"
+  },
+  "tabler-click": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-click\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-click"
+  },
+  "tabler-clipboard-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-clipboard-check"
+  },
+  "tabler-clipboard-list": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard-list\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-clipboard-list"
+  },
+  "tabler-clipboard-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-clipboard-x"
+  },
+  "tabler-clipboard": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-clipboard"
+  },
+  "tabler-clock": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-clock\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-clock"
+  },
+  "tabler-cloud-download": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-download\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud-download"
+  },
+  "tabler-cloud-fog": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-fog\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud-fog"
+  },
+  "tabler-cloud-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud-off"
+  },
+  "tabler-cloud-rain": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-rain\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud-rain"
+  },
+  "tabler-cloud-snow": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-snow\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud-snow"
+  },
+  "tabler-cloud-storm": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-storm\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud-storm"
+  },
+  "tabler-cloud-upload": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-upload\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud-upload"
+  },
+  "tabler-cloud": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cloud"
+  },
+  "tabler-code": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-code\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-code"
+  },
+  "tabler-coin": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-coin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-coin"
+  },
+  "tabler-color-picker": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-color-picker\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-color-picker"
+  },
+  "tabler-color-swatch": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-color-swatch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-color-swatch"
+  },
+  "tabler-columns": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-columns\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-columns"
+  },
+  "tabler-comet": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-comet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-comet"
+  },
+  "tabler-command": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-command\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-command"
+  },
+  "tabler-compass": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-compass\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-compass"
+  },
+  "tabler-contrast": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-contrast\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-contrast"
+  },
+  "tabler-copy": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-copy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-copy"
+  },
+  "tabler-copyleft": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-copyleft\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-copyleft"
+  },
+  "tabler-copyright": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-copyright\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-copyright"
+  },
+  "tabler-corner-down-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-down-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-down-left"
+  },
+  "tabler-corner-down-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-down-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-down-right"
+  },
+  "tabler-corner-left-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-left-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-left-down"
+  },
+  "tabler-corner-left-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-left-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-left-up"
+  },
+  "tabler-corner-right-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-right-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-right-down"
+  },
+  "tabler-corner-right-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-right-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-right-up"
+  },
+  "tabler-corner-up-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-up-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-up-left"
+  },
+  "tabler-corner-up-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-up-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-corner-up-right"
+  },
+  "tabler-credit-card-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-credit-card-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-credit-card-off"
+  },
+  "tabler-credit-card": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-credit-card\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-credit-card"
+  },
+  "tabler-crop": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-crop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-crop"
+  },
+  "tabler-crosshair": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-crosshair\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-crosshair"
+  },
+  "tabler-crown": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-crown\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-crown"
+  },
+  "tabler-curly-loop": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-curly-loop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-curly-loop"
+  },
+  "tabler-currency-bitcoin": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-bitcoin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-currency-bitcoin"
+  },
+  "tabler-currency-dollar": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-dollar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-currency-dollar"
+  },
+  "tabler-currency-euro": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-euro\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-currency-euro"
+  },
+  "tabler-currency-pound": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-pound\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-currency-pound"
+  },
+  "tabler-currency-rupee": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-rupee\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-currency-rupee"
+  },
+  "tabler-currency-yen": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-yen\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-currency-yen"
+  },
+  "tabler-current-location": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-current-location\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-current-location"
+  },
+  "tabler-cut": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-cut\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-cut"
+  },
+  "tabler-dashboard": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-dashboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-dashboard"
+  },
+  "tabler-database": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-database\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-database"
+  },
+  "tabler-device-desktop": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-desktop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-desktop"
+  },
+  "tabler-device-floppy": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-floppy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-floppy"
+  },
+  "tabler-device-gamepad": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-gamepad\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-gamepad"
+  },
+  "tabler-device-laptop": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-laptop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-laptop"
+  },
+  "tabler-device-mobile-rotated": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-mobile-rotated\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-mobile-rotated"
+  },
+  "tabler-device-mobile-vibration": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-mobile-vibration\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-mobile-vibration"
+  },
+  "tabler-device-mobile": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-mobile\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-mobile"
+  },
+  "tabler-device-speaker": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-speaker\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-speaker"
+  },
+  "tabler-device-tablet": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-tablet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-tablet"
+  },
+  "tabler-device-tv": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-tv\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-tv"
+  },
+  "tabler-device-watch": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-watch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-device-watch"
+  },
+  "tabler-devices-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-devices-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-devices-2"
+  },
+  "tabler-devices": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-devices\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-devices"
+  },
+  "tabler-diamond": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-diamond\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-diamond"
+  },
+  "tabler-dice": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-dice\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-dice"
+  },
+  "tabler-direction-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-direction-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-direction-horizontal"
+  },
+  "tabler-direction": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-direction\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-direction"
+  },
+  "tabler-directions": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-directions\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-directions"
+  },
+  "tabler-disabled-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-disabled-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-disabled-2"
+  },
+  "tabler-disabled": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-disabled\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-disabled"
+  },
+  "tabler-disc": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-disc\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-disc"
+  },
+  "tabler-discount": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-discount\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-discount"
+  },
+  "tabler-dots-circle-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-circle-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-dots-circle-horizontal"
+  },
+  "tabler-dots-diagonal-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-diagonal-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-dots-diagonal-2"
+  },
+  "tabler-dots-diagonal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-diagonal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-dots-diagonal"
+  },
+  "tabler-dots-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-dots-vertical"
+  },
+  "tabler-dots": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-dots"
+  },
+  "tabler-download": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-download\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-download"
+  },
+  "tabler-drag-drop-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-drag-drop-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-drag-drop-2"
+  },
+  "tabler-drag-drop": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-drag-drop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-drag-drop"
+  },
+  "tabler-droplet": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-droplet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-droplet"
+  },
+  "tabler-ear": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ear\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ear"
+  },
+  "tabler-edit": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-edit\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-edit"
+  },
+  "tabler-egg": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-egg\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-egg"
+  },
+  "tabler-emphasis": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-emphasis\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-emphasis"
+  },
+  "tabler-eraser": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-eraser\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-eraser"
+  },
+  "tabler-exchange": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-exchange\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-exchange"
+  },
+  "tabler-exposure": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-exposure\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-exposure"
+  },
+  "tabler-external-link": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-external-link\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-external-link"
+  },
+  "tabler-eye-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-eye-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-eye-off"
+  },
+  "tabler-eye": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-eye\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-eye"
+  },
+  "tabler-face-id": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-face-id\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-face-id"
+  },
+  "tabler-fall": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-fall\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-fall"
+  },
+  "tabler-file-certificate": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-certificate\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-certificate"
+  },
+  "tabler-file-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-check"
+  },
+  "tabler-file-code": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-code\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-code"
+  },
+  "tabler-file-diff": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-diff\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-diff"
+  },
+  "tabler-file-dislike": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-dislike\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-dislike"
+  },
+  "tabler-file-download": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-download\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-download"
+  },
+  "tabler-file-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-horizontal"
+  },
+  "tabler-file-invoice": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-invoice\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-invoice"
+  },
+  "tabler-file-like": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-like\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-like"
+  },
+  "tabler-file-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-minus"
+  },
+  "tabler-file-music": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-music\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-music"
+  },
+  "tabler-file-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-off"
+  },
+  "tabler-file-phone": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-phone\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-phone"
+  },
+  "tabler-file-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-plus"
+  },
+  "tabler-file-shredder": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-shredder\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-shredder"
+  },
+  "tabler-file-symlink": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-symlink\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-symlink"
+  },
+  "tabler-file-text": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-text\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-text"
+  },
+  "tabler-file-upload": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-upload\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-upload"
+  },
+  "tabler-file-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-x"
+  },
+  "tabler-file-zip": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-zip\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file-zip"
+  },
+  "tabler-file": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-file\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-file"
+  },
+  "tabler-filter-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-filter-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-filter-off"
+  },
+  "tabler-filter": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-filter\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-filter"
+  },
+  "tabler-fingerprint": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-fingerprint\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-fingerprint"
+  },
+  "tabler-firetruck": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-firetruck\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-firetruck"
+  },
+  "tabler-flag": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-flag\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-flag"
+  },
+  "tabler-flame": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-flame\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-flame"
+  },
+  "tabler-flask": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-flask\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-flask"
+  },
+  "tabler-flip-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-flip-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-flip-horizontal"
+  },
+  "tabler-flip-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-flip-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-flip-vertical"
+  },
+  "tabler-float-center": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-center\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-float-center"
+  },
+  "tabler-float-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-float-left"
+  },
+  "tabler-float-none": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-none\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-float-none"
+  },
+  "tabler-float-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-float-right"
+  },
+  "tabler-focus-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-focus-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-focus-2"
+  },
+  "tabler-focus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-focus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-focus"
+  },
+  "tabler-fold-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-fold-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-fold-down"
+  },
+  "tabler-fold-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-fold-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-fold-up"
+  },
+  "tabler-fold": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-fold\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-fold"
+  },
+  "tabler-folder-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-folder-minus"
+  },
+  "tabler-folder-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-folder-off"
+  },
+  "tabler-folder-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-folder-plus"
+  },
+  "tabler-folder-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-folder-x"
+  },
+  "tabler-folder": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-folder"
+  },
+  "tabler-folders": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-folders\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-folders"
+  },
+  "tabler-forbid-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-forbid-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-forbid-2"
+  },
+  "tabler-forbid": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-forbid\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-forbid"
+  },
+  "tabler-forklift": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-forklift\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-forklift"
+  },
+  "tabler-frame": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-frame\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-frame"
+  },
+  "tabler-friends": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-friends\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-friends"
+  },
+  "tabler-gas-station": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-gas-station\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-gas-station"
+  },
+  "tabler-gauge": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-gauge\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-gauge"
+  },
+  "tabler-ghost": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ghost\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ghost"
+  },
+  "tabler-gift": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-gift\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-gift"
+  },
+  "tabler-git-branch": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-branch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-git-branch"
+  },
+  "tabler-git-commit": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-commit\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-git-commit"
+  },
+  "tabler-git-compare": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-compare\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-git-compare"
+  },
+  "tabler-git-fork": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-fork\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-git-fork"
+  },
+  "tabler-git-merge": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-merge\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-git-merge"
+  },
+  "tabler-git-pull-request": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-pull-request\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-git-pull-request"
+  },
+  "tabler-glass-full": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-glass-full\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-glass-full"
+  },
+  "tabler-glass": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-glass\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-glass"
+  },
+  "tabler-globe": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-globe\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-globe"
+  },
+  "tabler-grid-dots": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-grid-dots\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-grid-dots"
+  },
+  "tabler-grid": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-grid\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-grid"
+  },
+  "tabler-grip-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-grip-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-grip-horizontal"
+  },
+  "tabler-grip-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-grip-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-grip-vertical"
+  },
+  "tabler-h-1": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-h-1"
+  },
+  "tabler-h-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-h-2"
+  },
+  "tabler-h-3": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-h-3"
+  },
+  "tabler-h-4": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-4\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-h-4"
+  },
+  "tabler-h-5": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-5\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-h-5"
+  },
+  "tabler-h-6": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-6\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-h-6"
+  },
+  "tabler-hand-middle-finger": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-hand-middle-finger\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-hand-middle-finger"
+  },
+  "tabler-hand-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-hand-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-hand-off"
+  },
+  "tabler-hand-stop": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-hand-stop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-hand-stop"
+  },
+  "tabler-hash": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-hash\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-hash"
+  },
+  "tabler-headphones-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-headphones-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-headphones-off"
+  },
+  "tabler-headphones": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-headphones\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-headphones"
+  },
+  "tabler-headset": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-headset\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-headset"
+  },
+  "tabler-heart-broken": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-heart-broken\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-heart-broken"
+  },
+  "tabler-heart": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-heart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-heart"
+  },
+  "tabler-help": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-help\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-help"
+  },
+  "tabler-hexagon": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-hexagon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-hexagon"
+  },
+  "tabler-history": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-history\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-history"
+  },
+  "tabler-home-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-home-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-home-2"
+  },
+  "tabler-home": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-home\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-home"
+  },
+  "tabler-ice-cream": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ice-cream\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ice-cream"
+  },
+  "tabler-id": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-id\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-id"
+  },
+  "tabler-inbox": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-inbox\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-inbox"
+  },
+  "tabler-indent-decrease": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-indent-decrease\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-indent-decrease"
+  },
+  "tabler-indent-increase": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-indent-increase\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-indent-increase"
+  },
+  "tabler-infinity": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-infinity\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-infinity"
+  },
+  "tabler-info-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-info-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-info-circle"
+  },
+  "tabler-info-square": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-info-square\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-info-square"
+  },
+  "tabler-italic": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-italic\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-italic"
+  },
+  "tabler-karate": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-karate\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-karate"
+  },
+  "tabler-key": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-key\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-key"
+  },
+  "tabler-keyboard-hide": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-keyboard-hide\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-keyboard-hide"
+  },
+  "tabler-keyboard-show": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-keyboard-show\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-keyboard-show"
+  },
+  "tabler-keyboard": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-keyboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-keyboard"
+  },
+  "tabler-language": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-language\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-language"
+  },
+  "tabler-layers-difference": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-difference\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layers-difference"
+  },
+  "tabler-layers-intersect": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-intersect\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layers-intersect"
+  },
+  "tabler-layers-subtract": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-subtract\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layers-subtract"
+  },
+  "tabler-layers-union": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-union\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layers-union"
+  },
+  "tabler-layout-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-2"
+  },
+  "tabler-layout-align-bottom": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-bottom\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-align-bottom"
+  },
+  "tabler-layout-align-center": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-center\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-align-center"
+  },
+  "tabler-layout-align-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-align-left"
+  },
+  "tabler-layout-align-middle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-middle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-align-middle"
+  },
+  "tabler-layout-align-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-align-right"
+  },
+  "tabler-layout-align-top": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-top\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-align-top"
+  },
+  "tabler-layout-bottombar": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-bottombar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-bottombar"
+  },
+  "tabler-layout-cards": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-cards\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-cards"
+  },
+  "tabler-layout-columns": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-columns\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-columns"
+  },
+  "tabler-layout-distribute-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-distribute-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-distribute-horizontal"
+  },
+  "tabler-layout-distribute-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-distribute-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-distribute-vertical"
+  },
+  "tabler-layout-kanban": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-kanban\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-kanban"
+  },
+  "tabler-layout-list": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-list\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-list"
+  },
+  "tabler-layout-navbar": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-navbar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-navbar"
+  },
+  "tabler-layout-rows": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-rows\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-rows"
+  },
+  "tabler-layout-sidebar-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-sidebar-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-sidebar-right"
+  },
+  "tabler-layout-sidebar": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-sidebar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout-sidebar"
+  },
+  "tabler-layout": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-layout"
+  },
+  "tabler-leaf": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-leaf\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-leaf"
+  },
+  "tabler-lego": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-lego\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-lego"
+  },
+  "tabler-letter-a": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-a\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-a"
+  },
+  "tabler-letter-b": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-b\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-b"
+  },
+  "tabler-letter-c": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-c\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-c"
+  },
+  "tabler-letter-d": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-d\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-d"
+  },
+  "tabler-letter-e": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-e\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-e"
+  },
+  "tabler-letter-f": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-f\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-f"
+  },
+  "tabler-letter-g": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-g\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-g"
+  },
+  "tabler-letter-h": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-h\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-h"
+  },
+  "tabler-letter-i": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-i\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-i"
+  },
+  "tabler-letter-j": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-j\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-j"
+  },
+  "tabler-letter-k": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-k\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-k"
+  },
+  "tabler-letter-l": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-l\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-l"
+  },
+  "tabler-letter-m": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-m\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-m"
+  },
+  "tabler-letter-n": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-n\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-n"
+  },
+  "tabler-letter-o": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-o\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-o"
+  },
+  "tabler-letter-p": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-p\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-p"
+  },
+  "tabler-letter-q": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-q\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-q"
+  },
+  "tabler-letter-r": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-r\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-r"
+  },
+  "tabler-letter-s": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-s\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-s"
+  },
+  "tabler-letter-t": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-t\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-t"
+  },
+  "tabler-letter-u": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-u\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-u"
+  },
+  "tabler-letter-v": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-v\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-v"
+  },
+  "tabler-letter-w": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-w\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-w"
+  },
+  "tabler-letter-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-x"
+  },
+  "tabler-letter-y": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-y\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-y"
+  },
+  "tabler-letter-z": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-z\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letter-z"
+  },
+  "tabler-letters-case": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-letters-case\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-letters-case"
+  },
+  "tabler-license": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-license\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-license"
+  },
+  "tabler-lifebuoy": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-lifebuoy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-lifebuoy"
+  },
+  "tabler-line-height": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-line-height\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-line-height"
+  },
+  "tabler-line": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-line\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-line"
+  },
+  "tabler-link": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-link\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-link"
+  },
+  "tabler-list-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-list-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-list-check"
+  },
+  "tabler-list": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-list\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-list"
+  },
+  "tabler-live-photo": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-live-photo\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-live-photo"
+  },
+  "tabler-live-view": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-live-view\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-live-view"
+  },
+  "tabler-loader-quarter": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-loader-quarter\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-loader-quarter"
+  },
+  "tabler-loader": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-loader\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-loader"
+  },
+  "tabler-location": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-location\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-location"
+  },
+  "tabler-lock-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-lock-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-lock-off"
+  },
+  "tabler-lock-open": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-lock-open\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-lock-open"
+  },
+  "tabler-lock": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-lock\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-lock"
+  },
+  "tabler-login": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-login\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-login"
+  },
+  "tabler-logout": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-logout\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-logout"
+  },
+  "tabler-magnet": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-magnet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-magnet"
+  },
+  "tabler-mail-opened": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mail-opened\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mail-opened"
+  },
+  "tabler-mail": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mail\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mail"
+  },
+  "tabler-man": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-man\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-man"
+  },
+  "tabler-map-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-map-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-map-2"
+  },
+  "tabler-map-pin-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-map-pin-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-map-pin-off"
+  },
+  "tabler-map-pin": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-map-pin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-map-pin"
+  },
+  "tabler-map": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-map\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-map"
+  },
+  "tabler-markdown": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-markdown\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-markdown"
+  },
+  "tabler-marquee": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-marquee\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-marquee"
+  },
+  "tabler-mars": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mars\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mars"
+  },
+  "tabler-math": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-math\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-math"
+  },
+  "tabler-maximize": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-maximize\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-maximize"
+  },
+  "tabler-medal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-medal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-medal"
+  },
+  "tabler-medical-cross": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-medical-cross\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-medical-cross"
+  },
+  "tabler-menu-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-menu-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-menu-2"
+  },
+  "tabler-menu": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-menu\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-menu"
+  },
+  "tabler-message-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-2"
+  },
+  "tabler-message-circle-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-circle-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-circle-2"
+  },
+  "tabler-message-circle-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-circle-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-circle-off"
+  },
+  "tabler-message-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-circle"
+  },
+  "tabler-message-dots": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-dots\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-dots"
+  },
+  "tabler-message-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-off"
+  },
+  "tabler-message-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-plus"
+  },
+  "tabler-message-report": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-report\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message-report"
+  },
+  "tabler-message": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-message\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-message"
+  },
+  "tabler-messages-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-messages-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-messages-off"
+  },
+  "tabler-messages": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-messages\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-messages"
+  },
+  "tabler-microphone-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-microphone-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-microphone-off"
+  },
+  "tabler-microphone": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-microphone\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-microphone"
+  },
+  "tabler-minimize": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-minimize\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-minimize"
+  },
+  "tabler-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-minus"
+  },
+  "tabler-mist": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mist\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mist"
+  },
+  "tabler-mood-boy": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-boy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-boy"
+  },
+  "tabler-mood-confuzed": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-confuzed\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-confuzed"
+  },
+  "tabler-mood-cry": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-cry\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-cry"
+  },
+  "tabler-mood-happy": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-happy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-happy"
+  },
+  "tabler-mood-kid": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-kid\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-kid"
+  },
+  "tabler-mood-neutral": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-neutral\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-neutral"
+  },
+  "tabler-mood-sad": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-sad\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-sad"
+  },
+  "tabler-mood-smile": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-smile\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-smile"
+  },
+  "tabler-mood-suprised": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-suprised\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-suprised"
+  },
+  "tabler-mood-tongue": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-tongue\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mood-tongue"
+  },
+  "tabler-moon-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-moon-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-moon-2"
+  },
+  "tabler-moon-stars": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-moon-stars\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-moon-stars"
+  },
+  "tabler-moon": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-moon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-moon"
+  },
+  "tabler-moped": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-moped\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-moped"
+  },
+  "tabler-mouse": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mouse\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mouse"
+  },
+  "tabler-movie": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-movie\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-movie"
+  },
+  "tabler-mug": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-mug\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-mug"
+  },
+  "tabler-music": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-music\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-music"
+  },
+  "tabler-new-section": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-new-section\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-new-section"
+  },
+  "tabler-news": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-news\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-news"
+  },
+  "tabler-note": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-note\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-note"
+  },
+  "tabler-notebook": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-notebook\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-notebook"
+  },
+  "tabler-notes": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-notes\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-notes"
+  },
+  "tabler-notification": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-notification\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-notification"
+  },
+  "tabler-octagon": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-octagon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-octagon"
+  },
+  "tabler-omega": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-omega\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-omega"
+  },
+  "tabler-outlet": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-outlet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-outlet"
+  },
+  "tabler-package": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-package\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-package"
+  },
+  "tabler-page-break": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-page-break\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-page-break"
+  },
+  "tabler-paint": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-paint\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-paint"
+  },
+  "tabler-palette": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-palette\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-palette"
+  },
+  "tabler-panorama-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-panorama-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-panorama-horizontal"
+  },
+  "tabler-panorama-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-panorama-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-panorama-vertical"
+  },
+  "tabler-paperclip": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-paperclip\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-paperclip"
+  },
+  "tabler-parentheses": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-parentheses\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-parentheses"
+  },
+  "tabler-parking": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-parking\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-parking"
+  },
+  "tabler-peace": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-peace\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-peace"
+  },
+  "tabler-pencil": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-pencil\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-pencil"
+  },
+  "tabler-percentage": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-percentage\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-percentage"
+  },
+  "tabler-phone-call": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-call\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-call"
+  },
+  "tabler-phone-calling": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-calling\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-calling"
+  },
+  "tabler-phone-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-check"
+  },
+  "tabler-phone-incoming": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-incoming\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-incoming"
+  },
+  "tabler-phone-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-off"
+  },
+  "tabler-phone-outgoing": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-outgoing\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-outgoing"
+  },
+  "tabler-phone-pause": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-pause\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-pause"
+  },
+  "tabler-phone-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-plus"
+  },
+  "tabler-phone-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone-x"
+  },
+  "tabler-phone": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-phone"
+  },
+  "tabler-photo-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-photo-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-photo-off"
+  },
+  "tabler-photo": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-photo\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-photo"
+  },
+  "tabler-picture-in-picture-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-picture-in-picture-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-picture-in-picture-off"
+  },
+  "tabler-picture-in-picture-on": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-picture-in-picture-on\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-picture-in-picture-on"
+  },
+  "tabler-picture-in-picture": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-picture-in-picture\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-picture-in-picture"
+  },
+  "tabler-pill": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-pill\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-pill"
+  },
+  "tabler-pin": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-pin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-pin"
+  },
+  "tabler-plane-arrival": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-plane-arrival\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-plane-arrival"
+  },
+  "tabler-plane-departure": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-plane-departure\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-plane-departure"
+  },
+  "tabler-plane": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-plane\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-plane"
+  },
+  "tabler-planet": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-planet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-planet"
+  },
+  "tabler-plant": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-plant\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-plant"
+  },
+  "tabler-player-pause": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-pause\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-pause"
+  },
+  "tabler-player-play": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-play\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-play"
+  },
+  "tabler-player-record": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-record\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-record"
+  },
+  "tabler-player-skip-back": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-skip-back\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-skip-back"
+  },
+  "tabler-player-skip-forward": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-skip-forward\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-skip-forward"
+  },
+  "tabler-player-stop": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-stop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-stop"
+  },
+  "tabler-player-track-next": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-track-next\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-track-next"
+  },
+  "tabler-player-track-prev": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-track-prev\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-player-track-prev"
+  },
+  "tabler-plug": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-plug\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-plug"
+  },
+  "tabler-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-plus"
+  },
+  "tabler-point": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-point\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-point"
+  },
+  "tabler-power": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-power\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-power"
+  },
+  "tabler-pray": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-pray\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-pray"
+  },
+  "tabler-presentation": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-presentation\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-presentation"
+  },
+  "tabler-printer": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-printer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-printer"
+  },
+  "tabler-prompt": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-prompt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-prompt"
+  },
+  "tabler-puzzle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-puzzle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-puzzle"
+  },
+  "tabler-qrcode": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-qrcode\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-qrcode"
+  },
+  "tabler-question-mark": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-question-mark\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-question-mark"
+  },
+  "tabler-radioactive": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-radioactive\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-radioactive"
+  },
+  "tabler-record-mail": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-record-mail\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-record-mail"
+  },
+  "tabler-rectangle-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rectangle-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rectangle-vertical"
+  },
+  "tabler-rectangle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rectangle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rectangle"
+  },
+  "tabler-recycle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-recycle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-recycle"
+  },
+  "tabler-refresh-alert": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-refresh-alert\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-refresh-alert"
+  },
+  "tabler-refresh": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-refresh\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-refresh"
+  },
+  "tabler-registered": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-registered\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-registered"
+  },
+  "tabler-repeat-once": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-repeat-once\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-repeat-once"
+  },
+  "tabler-repeat": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-repeat\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-repeat"
+  },
+  "tabler-replace": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-replace\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-replace"
+  },
+  "tabler-road-sign": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-road-sign\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-road-sign"
+  },
+  "tabler-rocket": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rocket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rocket"
+  },
+  "tabler-rotate-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rotate-2"
+  },
+  "tabler-rotate-clockwise-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-clockwise-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rotate-clockwise-2"
+  },
+  "tabler-rotate-clockwise": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-clockwise\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rotate-clockwise"
+  },
+  "tabler-rotate-rectangle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-rectangle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rotate-rectangle"
+  },
+  "tabler-rotate": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rotate"
+  },
+  "tabler-route": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-route\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-route"
+  },
+  "tabler-router": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-router\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-router"
+  },
+  "tabler-rss": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-rss\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-rss"
+  },
+  "tabler-ruler": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ruler\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ruler"
+  },
+  "tabler-run": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-run\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-run"
+  },
+  "tabler-sailboat": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sailboat\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sailboat"
+  },
+  "tabler-scale": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-scale\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-scale"
+  },
+  "tabler-scan": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-scan\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-scan"
+  },
+  "tabler-school": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-school\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-school"
+  },
+  "tabler-scissors": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-scissors\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-scissors"
+  },
+  "tabler-scooter-electric": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-scooter-electric\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-scooter-electric"
+  },
+  "tabler-scooter": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-scooter\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-scooter"
+  },
+  "tabler-screen-share-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-screen-share-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-screen-share-off"
+  },
+  "tabler-screen-share": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-screen-share\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-screen-share"
+  },
+  "tabler-search": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-search\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-search"
+  },
+  "tabler-seeding": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-seeding\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-seeding"
+  },
+  "tabler-select": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-select\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-select"
+  },
+  "tabler-selector": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-selector\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-selector"
+  },
+  "tabler-send": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-send\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-send"
+  },
+  "tabler-separator-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-separator-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-separator-horizontal"
+  },
+  "tabler-separator-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-separator-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-separator-vertical"
+  },
+  "tabler-separator": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-separator\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-separator"
+  },
+  "tabler-server": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-server\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-server"
+  },
+  "tabler-servicemark": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-servicemark\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-servicemark"
+  },
+  "tabler-settings": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-settings\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-settings"
+  },
+  "tabler-shape": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shape\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shape"
+  },
+  "tabler-share": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-share\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-share"
+  },
+  "tabler-shield-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shield-check"
+  },
+  "tabler-shield-lock": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-lock\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shield-lock"
+  },
+  "tabler-shield-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shield-off"
+  },
+  "tabler-shield-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shield-x"
+  },
+  "tabler-shield": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shield"
+  },
+  "tabler-ship": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ship\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ship"
+  },
+  "tabler-shirt": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shirt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shirt"
+  },
+  "tabler-shopping-cart": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-shopping-cart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-shopping-cart"
+  },
+  "tabler-sitemap": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sitemap\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sitemap"
+  },
+  "tabler-skateboard": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-skateboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-skateboard"
+  },
+  "tabler-slice": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-slice\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-slice"
+  },
+  "tabler-slideshow": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-slideshow\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-slideshow"
+  },
+  "tabler-smart-home": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-smart-home\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-smart-home"
+  },
+  "tabler-smoking-no": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-smoking-no\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-smoking-no"
+  },
+  "tabler-smoking": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-smoking\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-smoking"
+  },
+  "tabler-snowflake": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-snowflake\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-snowflake"
+  },
+  "tabler-social": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-social\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-social"
+  },
+  "tabler-sort-ascending": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sort-ascending\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sort-ascending"
+  },
+  "tabler-sort-descending": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sort-descending\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sort-descending"
+  },
+  "tabler-space": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-space\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-space"
+  },
+  "tabler-square-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-check"
+  },
+  "tabler-square-dot": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-dot\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-dot"
+  },
+  "tabler-square-forbid-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-forbid-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-forbid-2"
+  },
+  "tabler-square-forbid": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-forbid\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-forbid"
+  },
+  "tabler-square-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-minus"
+  },
+  "tabler-square-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-plus"
+  },
+  "tabler-square-rotated": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-rotated\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-rotated"
+  },
+  "tabler-square-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square-x"
+  },
+  "tabler-square": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-square\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-square"
+  },
+  "tabler-stack": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-stack\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-stack"
+  },
+  "tabler-stairs-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-stairs-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-stairs-down"
+  },
+  "tabler-stairs-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-stairs-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-stairs-up"
+  },
+  "tabler-stairs": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-stairs\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-stairs"
+  },
+  "tabler-star-half": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-star-half\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-star-half"
+  },
+  "tabler-star": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-star\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-star"
+  },
+  "tabler-stars": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-stars\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-stars"
+  },
+  "tabler-steering-wheel": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-steering-wheel\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-steering-wheel"
+  },
+  "tabler-step-into": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-step-into\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-step-into"
+  },
+  "tabler-step-out": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-step-out\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-step-out"
+  },
+  "tabler-sticker": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sticker\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sticker"
+  },
+  "tabler-strikethrough": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-strikethrough\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-strikethrough"
+  },
+  "tabler-subscript": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-subscript\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-subscript"
+  },
+  "tabler-subtask": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-subtask\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-subtask"
+  },
+  "tabler-sum": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sum\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sum"
+  },
+  "tabler-sun": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sun\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sun"
+  },
+  "tabler-sunset": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sunset\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sunset"
+  },
+  "tabler-sunshine": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-sunshine\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-sunshine"
+  },
+  "tabler-superscript": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-superscript\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-superscript"
+  },
+  "tabler-swimming": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-swimming\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-swimming"
+  },
+  "tabler-switch-horizontal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-switch-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-switch-horizontal"
+  },
+  "tabler-switch-vertical": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-switch-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-switch-vertical"
+  },
+  "tabler-switch": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-switch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-switch"
+  },
+  "tabler-table": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-table\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-table"
+  },
+  "tabler-tag": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tag\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tag"
+  },
+  "tabler-tallymark-1": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tallymark-1"
+  },
+  "tabler-tallymark-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tallymark-2"
+  },
+  "tabler-tallymark-3": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tallymark-3"
+  },
+  "tabler-tallymark-4": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-4\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tallymark-4"
+  },
+  "tabler-tallymarks": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymarks\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tallymarks"
+  },
+  "tabler-target": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-target\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-target"
+  },
+  "tabler-tax": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tax\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tax"
+  },
+  "tabler-temperature-celsius": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-celsius\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-temperature-celsius"
+  },
+  "tabler-temperature-fahrenheit": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-fahrenheit\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-temperature-fahrenheit"
+  },
+  "tabler-temperature-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-temperature-minus"
+  },
+  "tabler-temperature-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-temperature-plus"
+  },
+  "tabler-temperature": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-temperature"
+  },
+  "tabler-template": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-template\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-template"
+  },
+  "tabler-terminal-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-terminal-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-terminal-2"
+  },
+  "tabler-terminal": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-terminal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-terminal"
+  },
+  "tabler-test-pipe": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-test-pipe\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-test-pipe"
+  },
+  "tabler-text-wrap-disabled": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-text-wrap-disabled\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-text-wrap-disabled"
+  },
+  "tabler-text-wrap": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-text-wrap\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-text-wrap"
+  },
+  "tabler-thumb-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-thumb-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-thumb-down"
+  },
+  "tabler-thumb-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-thumb-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-thumb-up"
+  },
+  "tabler-ticket": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-ticket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-ticket"
+  },
+  "tabler-tir": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tir\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tir"
+  },
+  "tabler-toggle-left": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-toggle-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-toggle-left"
+  },
+  "tabler-toggle-right": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-toggle-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-toggle-right"
+  },
+  "tabler-tool": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tool\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tool"
+  },
+  "tabler-tools": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tools\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tools"
+  },
+  "tabler-tornado": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tornado\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tornado"
+  },
+  "tabler-tournament": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tournament\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tournament"
+  },
+  "tabler-tractor": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-tractor\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-tractor"
+  },
+  "tabler-trademark": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-trademark\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-trademark"
+  },
+  "tabler-traffic-cone": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-traffic-cone\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-traffic-cone"
+  },
+  "tabler-traffic-lights": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-traffic-lights\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-traffic-lights"
+  },
+  "tabler-trash": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-trash\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-trash"
+  },
+  "tabler-trees": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-trees\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-trees"
+  },
+  "tabler-trending-down": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-trending-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-trending-down"
+  },
+  "tabler-trending-up": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-trending-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-trending-up"
+  },
+  "tabler-triangle-square-circle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-triangle-square-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-triangle-square-circle"
+  },
+  "tabler-triangle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-triangle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-triangle"
+  },
+  "tabler-trident": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-trident\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-trident"
+  },
+  "tabler-trophy": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-trophy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-trophy"
+  },
+  "tabler-truck-delivery": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-truck-delivery\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-truck-delivery"
+  },
+  "tabler-truck-return": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-truck-return\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-truck-return"
+  },
+  "tabler-truck": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-truck\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-truck"
+  },
+  "tabler-typography": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-typography\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-typography"
+  },
+  "tabler-umbrella": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-umbrella\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-umbrella"
+  },
+  "tabler-underline": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-underline\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-underline"
+  },
+  "tabler-unlink": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-unlink\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-unlink"
+  },
+  "tabler-upload": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-upload\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-upload"
+  },
+  "tabler-urgent": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-urgent\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-urgent"
+  },
+  "tabler-user-check": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-check\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-user-check"
+  },
+  "tabler-user-exclamation": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-exclamation\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-user-exclamation"
+  },
+  "tabler-user-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-user-minus"
+  },
+  "tabler-user-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-user-off"
+  },
+  "tabler-user-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-user-plus"
+  },
+  "tabler-user-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-user-x"
+  },
+  "tabler-user": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-user\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-user"
+  },
+  "tabler-users": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-users\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-users"
+  },
+  "tabler-vector-beizer-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector-beizer-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-vector-beizer-2"
+  },
+  "tabler-vector-beizer": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector-beizer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-vector-beizer"
+  },
+  "tabler-vector-triangle": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector-triangle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-vector-triangle"
+  },
+  "tabler-vector": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-vector"
+  },
+  "tabler-venus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-venus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-venus"
+  },
+  "tabler-versions": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-versions\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-versions"
+  },
+  "tabler-video-minus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-video-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-video-minus"
+  },
+  "tabler-video-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-video-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-video-off"
+  },
+  "tabler-video-plus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-video-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-video-plus"
+  },
+  "tabler-video": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-video\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-video"
+  },
+  "tabler-viewfinder": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-viewfinder\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-viewfinder"
+  },
+  "tabler-viewport-narrow": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-viewport-narrow\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-viewport-narrow"
+  },
+  "tabler-viewport-wide": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-viewport-wide\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-viewport-wide"
+  },
+  "tabler-virus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-virus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-virus"
+  },
+  "tabler-volume-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-volume-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-volume-2"
+  },
+  "tabler-volume-3": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-volume-3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-volume-3"
+  },
+  "tabler-volume": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-volume\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-volume"
+  },
+  "tabler-walk": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-walk\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-walk"
+  },
+  "tabler-wallet": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wallet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wallet"
+  },
+  "tabler-wand": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wand\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wand"
+  },
+  "tabler-wave-saw-tool": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wave-saw-tool\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wave-saw-tool"
+  },
+  "tabler-wave-sine": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wave-sine\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wave-sine"
+  },
+  "tabler-wave-square": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wave-square\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wave-square"
+  },
+  "tabler-wifi-0": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-0\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wifi-0"
+  },
+  "tabler-wifi-1": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wifi-1"
+  },
+  "tabler-wifi-2": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wifi-2"
+  },
+  "tabler-wifi-off": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wifi-off"
+  },
+  "tabler-wifi": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wifi"
+  },
+  "tabler-wind": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wind\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wind"
+  },
+  "tabler-wiper-wash": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wiper-wash\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wiper-wash"
+  },
+  "tabler-wiper": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-wiper\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-wiper"
+  },
+  "tabler-woman": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-woman\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-woman"
+  },
+  "tabler-world-latitude": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-world-latitude\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-world-latitude"
+  },
+  "tabler-world-longitude": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-world-longitude\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-world-longitude"
+  },
+  "tabler-world": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-world\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-world"
+  },
+  "tabler-x": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-x"
+  },
+  "tabler-yin-yang": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-yin-yang\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-yin-yang"
+  },
+  "tabler-zodiac-aquarius": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-aquarius\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-aquarius"
+  },
+  "tabler-zodiac-aries": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-aries\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-aries"
+  },
+  "tabler-zodiac-cancer": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-cancer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-cancer"
+  },
+  "tabler-zodiac-capricorn": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-capricorn\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-capricorn"
+  },
+  "tabler-zodiac-gemini": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-gemini\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-gemini"
+  },
+  "tabler-zodiac-leo": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-leo\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-leo"
+  },
+  "tabler-zodiac-libra": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-libra\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-libra"
+  },
+  "tabler-zodiac-pisces": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-pisces\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-pisces"
+  },
+  "tabler-zodiac-sagittarius": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-sagittarius\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-sagittarius"
+  },
+  "tabler-zodiac-scorpio": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-scorpio\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-scorpio"
+  },
+  "tabler-zodiac-taurus": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-taurus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-taurus"
+  },
+  "tabler-zodiac-virgo": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-virgo\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zodiac-virgo"
+  },
+  "tabler-zoom-cancel": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zoom-cancel\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zoom-cancel"
+  },
+  "tabler-zoom-in": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zoom-in\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zoom-in"
+  },
+  "tabler-zoom-out": {
+    "body": "<svg width=\"${1:24}\" height=\"${1:24}\">\n\t<use xlink:href=\"${2:tabler-sprite}.svg#tabler-zoom-out\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "tabler-zoom-out"
+  }
+}

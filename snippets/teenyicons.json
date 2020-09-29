@@ -1,0 +1,3002 @@
+{
+  "teenyicons-360": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-360\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-360"
+  },
+  "teenyicons-ab-testing": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ab-testing\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ab-testing"
+  },
+  "teenyicons-add-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-add-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-add-small"
+  },
+  "teenyicons-add": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-add\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-add"
+  },
+  "teenyicons-address-book": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-address-book\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-address-book"
+  },
+  "teenyicons-adjust-horizontal-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-horizontal-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-adjust-horizontal-alt"
+  },
+  "teenyicons-adjust-horizontal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-adjust-horizontal"
+  },
+  "teenyicons-adjust-vertical-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-vertical-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-adjust-vertical-alt"
+  },
+  "teenyicons-adjust-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-adjust-vertical"
+  },
+  "teenyicons-airplay": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-airplay\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-airplay"
+  },
+  "teenyicons-airpods": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-airpods\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-airpods"
+  },
+  "teenyicons-alarm": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-alarm\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-alarm"
+  },
+  "teenyicons-alien": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-alien\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-alien"
+  },
+  "teenyicons-align-bottom": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-bottom\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-bottom"
+  },
+  "teenyicons-align-center-horizontal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-center-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-center-horizontal"
+  },
+  "teenyicons-align-center-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-center-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-center-vertical"
+  },
+  "teenyicons-align-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-left"
+  },
+  "teenyicons-align-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-right"
+  },
+  "teenyicons-align-text-center": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-center\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-text-center"
+  },
+  "teenyicons-align-text-justify": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-justify\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-text-justify"
+  },
+  "teenyicons-align-text-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-text-left"
+  },
+  "teenyicons-align-text-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-text-right"
+  },
+  "teenyicons-align-top": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-top\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-align-top"
+  },
+  "teenyicons-anchor": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-anchor\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-anchor"
+  },
+  "teenyicons-android": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-android\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-android"
+  },
+  "teenyicons-angular": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-angular\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-angular"
+  },
+  "teenyicons-anja": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-anja\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-anja"
+  },
+  "teenyicons-anti-clockwise": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-anti-clockwise\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-anti-clockwise"
+  },
+  "teenyicons-apple": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-apple\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-apple"
+  },
+  "teenyicons-appointments": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-appointments\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-appointments"
+  },
+  "teenyicons-archive": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-archive\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-archive"
+  },
+  "teenyicons-area-chart-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-area-chart-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-area-chart-alt"
+  },
+  "teenyicons-area-chart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-area-chart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-area-chart"
+  },
+  "teenyicons-arrow-down-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-down-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-down-circle"
+  },
+  "teenyicons-arrow-down-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-down-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-down-small"
+  },
+  "teenyicons-arrow-down": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-down"
+  },
+  "teenyicons-arrow-left-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-left-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-left-circle"
+  },
+  "teenyicons-arrow-left-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-left-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-left-small"
+  },
+  "teenyicons-arrow-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-left"
+  },
+  "teenyicons-arrow-right-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-right-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-right-circle"
+  },
+  "teenyicons-arrow-right-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-right-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-right-small"
+  },
+  "teenyicons-arrow-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-right"
+  },
+  "teenyicons-arrow-up-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-up-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-up-circle"
+  },
+  "teenyicons-arrow-up-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-up-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-up-small"
+  },
+  "teenyicons-arrow-up": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow-up"
+  },
+  "teenyicons-arrow": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-arrow"
+  },
+  "teenyicons-artboard": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-artboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-artboard"
+  },
+  "teenyicons-at": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-at\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-at"
+  },
+  "teenyicons-attach": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-attach\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-attach"
+  },
+  "teenyicons-attachment": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-attachment\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-attachment"
+  },
+  "teenyicons-audio-cable": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-audio-cable\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-audio-cable"
+  },
+  "teenyicons-audio-document": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-audio-document\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-audio-document"
+  },
+  "teenyicons-azure": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-azure\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-azure"
+  },
+  "teenyicons-backspace": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-backspace\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-backspace"
+  },
+  "teenyicons-bag-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bag-alt"
+  },
+  "teenyicons-bag-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bag-minus"
+  },
+  "teenyicons-bag-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bag-plus"
+  },
+  "teenyicons-bag": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bag"
+  },
+  "teenyicons-bank": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bank\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bank"
+  },
+  "teenyicons-bar-chart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bar-chart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bar-chart"
+  },
+  "teenyicons-barcode": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-barcode\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-barcode"
+  },
+  "teenyicons-basket-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-basket-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-basket-minus"
+  },
+  "teenyicons-basket-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-basket-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-basket-plus"
+  },
+  "teenyicons-basket": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-basket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-basket"
+  },
+  "teenyicons-bath": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bath\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bath"
+  },
+  "teenyicons-battery-0": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-0\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-battery-0"
+  },
+  "teenyicons-battery-1": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-battery-1"
+  },
+  "teenyicons-battery-2": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-battery-2"
+  },
+  "teenyicons-battery-3": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-battery-3"
+  },
+  "teenyicons-battery-4": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-4\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-battery-4"
+  },
+  "teenyicons-battery-5": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-5\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-battery-5"
+  },
+  "teenyicons-battery-charge": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-charge\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-battery-charge"
+  },
+  "teenyicons-bed-double": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bed-double\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bed-double"
+  },
+  "teenyicons-bed-single": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bed-single\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bed-single"
+  },
+  "teenyicons-behance": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-behance\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-behance"
+  },
+  "teenyicons-bell": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bell\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bell"
+  },
+  "teenyicons-bin": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bin"
+  },
+  "teenyicons-bitbucket": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bitbucket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bitbucket"
+  },
+  "teenyicons-bitcoin": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bitcoin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bitcoin"
+  },
+  "teenyicons-bluetooth": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bluetooth\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bluetooth"
+  },
+  "teenyicons-bold": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bold\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bold"
+  },
+  "teenyicons-book": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-book\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-book"
+  },
+  "teenyicons-bookmark": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bookmark\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bookmark"
+  },
+  "teenyicons-border-all": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-all\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-all"
+  },
+  "teenyicons-border-bottom": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-bottom\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-bottom"
+  },
+  "teenyicons-border-horizontal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-horizontal"
+  },
+  "teenyicons-border-inner": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-inner\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-inner"
+  },
+  "teenyicons-border-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-left"
+  },
+  "teenyicons-border-none": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-none\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-none"
+  },
+  "teenyicons-border-outer": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-outer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-outer"
+  },
+  "teenyicons-border-radius": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-radius\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-radius"
+  },
+  "teenyicons-border-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-right"
+  },
+  "teenyicons-border-top": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-top\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-top"
+  },
+  "teenyicons-border-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-border-vertical"
+  },
+  "teenyicons-bottom-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bottom-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bottom-left"
+  },
+  "teenyicons-bottom-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bottom-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bottom-right"
+  },
+  "teenyicons-box": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-box\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-box"
+  },
+  "teenyicons-bracket": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bracket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bracket"
+  },
+  "teenyicons-briefcase-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-briefcase-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-briefcase-alt"
+  },
+  "teenyicons-briefcase": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-briefcase\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-briefcase"
+  },
+  "teenyicons-brush": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-brush\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-brush"
+  },
+  "teenyicons-bug": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bug\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bug"
+  },
+  "teenyicons-building": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-building\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-building"
+  },
+  "teenyicons-bulb-off": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bulb-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bulb-off"
+  },
+  "teenyicons-bulb-on": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bulb-on\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-bulb-on"
+  },
+  "teenyicons-button": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-button\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-button"
+  },
+"teenyicons-  c-sharp": {
+  "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-c-sharp\" />\n</svg>",
+  "description": "<svg>",
+  "prefix": "teenyicons-c-sharp"
+},
+  "teenyicons-c": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-c\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-c"
+  },
+  "teenyicons-calculator": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calculator\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-calculator"
+  },
+  "teenyicons-calendar-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-calendar-minus"
+  },
+  "teenyicons-calendar-no-access": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-no-access\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-calendar-no-access"
+  },
+  "teenyicons-calendar-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-calendar-plus"
+  },
+  "teenyicons-calendar-tick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-tick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-calendar-tick"
+  },
+  "teenyicons-calendar-x": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-calendar-x"
+  },
+  "teenyicons-calendar": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-calendar"
+  },
+  "teenyicons-camera": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-camera\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-camera"
+  },
+  "teenyicons-candle-chart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-candle-chart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-candle-chart"
+  },
+  "teenyicons-car": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-car\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-car"
+  },
+  "teenyicons-caret-vertical-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-caret-vertical-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-caret-vertical-circle"
+  },
+  "teenyicons-caret-vertical-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-caret-vertical-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-caret-vertical-small"
+  },
+  "teenyicons-caret-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-caret-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-caret-vertical"
+  },
+  "teenyicons-cart-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cart-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-cart-minus"
+  },
+  "teenyicons-cart-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cart-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-cart-plus"
+  },
+  "teenyicons-cart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-cart"
+  },
+  "teenyicons-certificate": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-certificate\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-certificate"
+  },
+  "teenyicons-chat-typing-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chat-typing-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-chat-typing-alt"
+  },
+  "teenyicons-chat-typing": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chat-typing\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-chat-typing"
+  },
+  "teenyicons-chat": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chat\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-chat"
+  },
+  "teenyicons-chatbot": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chatbot\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-chatbot"
+  },
+  "teenyicons-chrome": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chrome\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-chrome"
+  },
+  "teenyicons-church": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-church\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-church"
+  },
+  "teenyicons-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-circle"
+  },
+  "teenyicons-clipboard-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clipboard-minus"
+  },
+  "teenyicons-clipboard-no-access": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-no-access\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clipboard-no-access"
+  },
+  "teenyicons-clipboard-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clipboard-plus"
+  },
+  "teenyicons-clipboard-tick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-tick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clipboard-tick"
+  },
+  "teenyicons-clipboard-x": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clipboard-x"
+  },
+  "teenyicons-clipboard": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clipboard"
+  },
+  "teenyicons-clock": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clock\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clock"
+  },
+  "teenyicons-clockwise": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clockwise\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-clockwise"
+  },
+  "teenyicons-code": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-code\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-code"
+  },
+  "teenyicons-codepen": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-codepen\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-codepen"
+  },
+  "teenyicons-cog": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cog\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-cog"
+  },
+  "teenyicons-compass": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-compass\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-compass"
+  },
+  "teenyicons-computer": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-computer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-computer"
+  },
+  "teenyicons-contact": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-contact\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-contact"
+  },
+  "teenyicons-contract": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-contract\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-contract"
+  },
+  "teenyicons-cost-estimate": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cost-estimate\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-cost-estimate"
+  },
+  "teenyicons-cplusplus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cplusplus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-cplusplus"
+  },
+  "teenyicons-credit-card": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-credit-card\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-credit-card"
+  },
+  "teenyicons-crop": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-crop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-crop"
+  },
+  "teenyicons-css3": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-css3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-css3"
+  },
+  "teenyicons-csv": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-csv\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-csv"
+  },
+  "teenyicons-cup": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cup\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-cup"
+  },
+  "teenyicons-curved-connector": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-curved-connector\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-curved-connector"
+  },
+  "teenyicons-d3": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-d3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-d3"
+  },
+  "teenyicons-database": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-database\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-database"
+  },
+  "teenyicons-denied": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-denied\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-denied"
+  },
+  "teenyicons-deno": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-deno\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-deno"
+  },
+  "teenyicons-depth-chart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-depth-chart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-depth-chart"
+  },
+  "teenyicons-desklamp": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-desklamp\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-desklamp"
+  },
+  "teenyicons-diamond": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-diamond\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-diamond"
+  },
+  "teenyicons-direction": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-direction\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-direction"
+  },
+  "teenyicons-discord": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-discord\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-discord"
+  },
+  "teenyicons-discount": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-discount\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-discount"
+  },
+  "teenyicons-distribute-horizontal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-distribute-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-distribute-horizontal"
+  },
+  "teenyicons-distribute-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-distribute-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-distribute-vertical"
+  },
+  "teenyicons-divider-line": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-divider-line\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-divider-line"
+  },
+  "teenyicons-doc": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-doc\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-doc"
+  },
+  "teenyicons-docker": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-docker\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-docker"
+  },
+  "teenyicons-documents": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-documents\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-documents"
+  },
+  "teenyicons-dollar": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-dollar\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-dollar"
+  },
+  "teenyicons-donut-chart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-donut-chart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-donut-chart"
+  },
+  "teenyicons-double-caret-down-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-down-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-down-circle"
+  },
+  "teenyicons-double-caret-down-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-down-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-down-small"
+  },
+  "teenyicons-double-caret-down": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-down"
+  },
+  "teenyicons-double-caret-left-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-left-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-left-circle"
+  },
+  "teenyicons-double-caret-left-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-left-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-left-small"
+  },
+  "teenyicons-double-caret-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-left"
+  },
+  "teenyicons-double-caret-right-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-right-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-right-circle"
+  },
+  "teenyicons-double-caret-right-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-right-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-right-small"
+  },
+  "teenyicons-double-caret-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-right"
+  },
+  "teenyicons-double-caret-up-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-up-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-up-circle"
+  },
+  "teenyicons-double-caret-up-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-up-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-up-small"
+  },
+  "teenyicons-double-caret-up": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-double-caret-up"
+  },
+  "teenyicons-down-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-down-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-down-circle"
+  },
+  "teenyicons-down-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-down-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-down-small"
+  },
+  "teenyicons-down": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-down"
+  },
+  "teenyicons-download": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-download\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-download"
+  },
+  "teenyicons-drag-horizontal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drag-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-drag-horizontal"
+  },
+  "teenyicons-drag-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drag-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-drag-vertical"
+  },
+  "teenyicons-drag": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drag\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-drag"
+  },
+  "teenyicons-dribbble": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-dribbble\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-dribbble"
+  },
+  "teenyicons-drop": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-drop"
+  },
+  "teenyicons-dropper": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-dropper\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-dropper"
+  },
+  "teenyicons-edge": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edge\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-edge"
+  },
+  "teenyicons-edit-1": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-edit-1"
+  },
+  "teenyicons-edit-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-edit-circle"
+  },
+  "teenyicons-edit-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-edit-small"
+  },
+  "teenyicons-edit": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-edit"
+  },
+  "teenyicons-elbow-connector": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-elbow-connector\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-elbow-connector"
+  },
+  "teenyicons-envelope-open": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-envelope-open\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-envelope-open"
+  },
+  "teenyicons-envelope": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-envelope\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-envelope"
+  },
+  "teenyicons-eps": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eps\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-eps"
+  },
+  "teenyicons-eslint": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eslint\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-eslint"
+  },
+  "teenyicons-ethereum": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ethereum\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ethereum"
+  },
+  "teenyicons-euro": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-euro\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-euro"
+  },
+  "teenyicons-exclamation-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-exclamation-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-exclamation-circle"
+  },
+  "teenyicons-exclamation-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-exclamation-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-exclamation-small"
+  },
+  "teenyicons-exclamation": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-exclamation\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-exclamation"
+  },
+  "teenyicons-expand-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-expand-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-expand-alt"
+  },
+  "teenyicons-expand": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-expand\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-expand"
+  },
+  "teenyicons-eye-closed": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eye-closed\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-eye-closed"
+  },
+  "teenyicons-eye": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eye\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-eye"
+  },
+  "teenyicons-face-id": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-face-id\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-face-id"
+  },
+  "teenyicons-facebook": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-facebook\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-facebook"
+  },
+  "teenyicons-figma": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-figma\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-figma"
+  },
+  "teenyicons-file-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-file-minus"
+  },
+  "teenyicons-file-no-access": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-no-access\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-file-no-access"
+  },
+  "teenyicons-file-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-file-plus"
+  },
+  "teenyicons-file-tick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-tick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-file-tick"
+  },
+  "teenyicons-file-x": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-file-x"
+  },
+  "teenyicons-file": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-file"
+  },
+  "teenyicons-filter": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-filter\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-filter"
+  },
+  "teenyicons-fingerprint": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-fingerprint\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-fingerprint"
+  },
+  "teenyicons-firebase": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-firebase\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-firebase"
+  },
+  "teenyicons-flag-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flag-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-flag-alt"
+  },
+  "teenyicons-flag": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flag\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-flag"
+  },
+  "teenyicons-flip-horizontal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flip-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-flip-horizontal"
+  },
+  "teenyicons-flip-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flip-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-flip-vertical"
+  },
+  "teenyicons-float-center": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-float-center\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-float-center"
+  },
+  "teenyicons-float-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-float-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-float-left"
+  },
+  "teenyicons-float-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-float-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-float-right"
+  },
+  "teenyicons-floorplan": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-floorplan\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-floorplan"
+  },
+  "teenyicons-folder-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-folder-minus"
+  },
+  "teenyicons-folder-no-access": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-no-access\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-folder-no-access"
+  },
+  "teenyicons-folder-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-folder-plus"
+  },
+  "teenyicons-folder-tick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-tick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-folder-tick"
+  },
+  "teenyicons-folder-x": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-folder-x"
+  },
+  "teenyicons-folder": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-folder"
+  },
+  "teenyicons-folders": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folders\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-folders"
+  },
+  "teenyicons-forward-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-forward-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-forward-circle"
+  },
+  "teenyicons-forward-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-forward-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-forward-small"
+  },
+  "teenyicons-forward": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-forward\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-forward"
+  },
+  "teenyicons-frame": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-frame\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-frame"
+  },
+  "teenyicons-framer": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-framer\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-framer"
+  },
+  "teenyicons-game-controller-retro": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-game-controller-retro\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-game-controller-retro"
+  },
+  "teenyicons-game-controller": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-game-controller\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-game-controller"
+  },
+  "teenyicons-gantt-chart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gantt-chart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-gantt-chart"
+  },
+  "teenyicons-garage": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-garage\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-garage"
+  },
+  "teenyicons-gatsbyjs": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gatsbyjs\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-gatsbyjs"
+  },
+  "teenyicons-gba": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gba\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-gba"
+  },
+  "teenyicons-gbc": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gbc\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-gbc"
+  },
+  "teenyicons-ghost": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ghost\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ghost"
+  },
+  "teenyicons-gif": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gif\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-gif"
+  },
+  "teenyicons-gift": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gift\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-gift"
+  },
+  "teenyicons-git-branch": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-branch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-git-branch"
+  },
+  "teenyicons-git-commit": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-commit\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-git-commit"
+  },
+  "teenyicons-git-compare": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-compare\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-git-compare"
+  },
+  "teenyicons-git-fork": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-fork\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-git-fork"
+  },
+  "teenyicons-git-merge": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-merge\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-git-merge"
+  },
+  "teenyicons-git-pull": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-pull\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-git-pull"
+  },
+  "teenyicons-git": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-git"
+  },
+  "teenyicons-github": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-github\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-github"
+  },
+  "teenyicons-gitlab": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gitlab\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-gitlab"
+  },
+  "teenyicons-globe-africa": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-globe-africa\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-globe-africa"
+  },
+  "teenyicons-globe-americas": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-globe-americas\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-globe-americas"
+  },
+  "teenyicons-globe": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-globe\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-globe"
+  },
+  "teenyicons-google-ad": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-ad\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-google-ad"
+  },
+  "teenyicons-google-drive": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-drive\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-google-drive"
+  },
+  "teenyicons-google-play-store": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-play-store\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-google-play-store"
+  },
+  "teenyicons-google-streetview": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-streetview\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-google-streetview"
+  },
+  "teenyicons-google": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-google"
+  },
+  "teenyicons-graphql": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-graphql\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-graphql"
+  },
+  "teenyicons-grid-layout": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-grid-layout\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-grid-layout"
+  },
+  "teenyicons-hashtag": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hashtag\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-hashtag"
+  },
+  "teenyicons-hd-screen": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hd-screen\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-hd-screen"
+  },
+  "teenyicons-hdmi-cable": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hdmi-cable\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-hdmi-cable"
+  },
+  "teenyicons-headphones": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-headphones\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-headphones"
+  },
+  "teenyicons-headset": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-headset\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-headset"
+  },
+  "teenyicons-heart-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-heart-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-heart-circle"
+  },
+  "teenyicons-heart-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-heart-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-heart-small"
+  },
+  "teenyicons-heart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-heart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-heart"
+  },
+  "teenyicons-hexagon": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hexagon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-hexagon"
+  },
+  "teenyicons-history": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-history\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-history"
+  },
+  "teenyicons-home-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-home-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-home-alt"
+  },
+  "teenyicons-home": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-home\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-home"
+  },
+  "teenyicons-hospital": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hospital\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-hospital"
+  },
+  "teenyicons-hourglass": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hourglass\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-hourglass"
+  },
+  "teenyicons-house": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-house\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-house"
+  },
+  "teenyicons-html5": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-html5\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-html5"
+  },
+  "teenyicons-id": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-id\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-id"
+  },
+  "teenyicons-imac": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-imac\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-imac"
+  },
+  "teenyicons-image-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-image-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-image-alt"
+  },
+  "teenyicons-image-document": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-image-document\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-image-document"
+  },
+  "teenyicons-image": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-image\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-image"
+  },
+  "teenyicons-in-ear-headphones": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-in-ear-headphones\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-in-ear-headphones"
+  },
+  "teenyicons-inbox": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-inbox\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-inbox"
+  },
+  "teenyicons-indent-decrease": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-indent-decrease\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-indent-decrease"
+  },
+  "teenyicons-indent-increase": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-indent-increase\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-indent-increase"
+  },
+  "teenyicons-info-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-info-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-info-circle"
+  },
+  "teenyicons-info-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-info-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-info-small"
+  },
+  "teenyicons-info": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-info\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-info"
+  },
+  "teenyicons-instagram": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-instagram\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-instagram"
+  },
+  "teenyicons-invoice": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-invoice\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-invoice"
+  },
+  "teenyicons-italic": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-italic\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-italic"
+  },
+  "teenyicons-javascript": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-javascript\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-javascript"
+  },
+  "teenyicons-joystick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-joystick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-joystick"
+  },
+  "teenyicons-jpg": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-jpg\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-jpg"
+  },
+  "teenyicons-kanban": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-kanban\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-kanban"
+  },
+  "teenyicons-key": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-key\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-key"
+  },
+  "teenyicons-keyboard": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-keyboard\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-keyboard"
+  },
+  "teenyicons-lan-cable": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lan-cable\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-lan-cable"
+  },
+  "teenyicons-laptop": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-laptop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-laptop"
+  },
+  "teenyicons-laravel": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-laravel\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-laravel"
+  },
+  "teenyicons-layers-difference": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-difference\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-layers-difference"
+  },
+  "teenyicons-layers-intersect": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-intersect\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-layers-intersect"
+  },
+  "teenyicons-layers-subtract": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-subtract\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-layers-subtract"
+  },
+  "teenyicons-layers-union": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-union\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-layers-union"
+  },
+  "teenyicons-layers": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-layers"
+  },
+  "teenyicons-left-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-left-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-left-circle"
+  },
+  "teenyicons-left-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-left-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-left-small"
+  },
+  "teenyicons-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-left"
+  },
+  "teenyicons-lego": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lego\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-lego"
+  },
+  "teenyicons-lifebuoy": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lifebuoy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-lifebuoy"
+  },
+  "teenyicons-lightning-cable": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lightning-cable\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-lightning-cable"
+  },
+  "teenyicons-line": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-line\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-line"
+  },
+  "teenyicons-link-remove": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-link-remove\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-link-remove"
+  },
+  "teenyicons-link": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-link\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-link"
+  },
+  "teenyicons-linkedin": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-linkedin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-linkedin"
+  },
+  "teenyicons-linux-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-linux-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-linux-alt"
+  },
+  "teenyicons-linux": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-linux\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-linux"
+  },
+  "teenyicons-list-layout": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-list-layout\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-list-layout"
+  },
+  "teenyicons-list-ordered": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-list-ordered\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-list-ordered"
+  },
+  "teenyicons-list-unordered": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-list-unordered\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-list-unordered"
+  },
+  "teenyicons-litecoin": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-litecoin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-litecoin"
+  },
+  "teenyicons-loader": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-loader\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-loader"
+  },
+  "teenyicons-location": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-location\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-location"
+  },
+  "teenyicons-lock-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lock-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-lock-circle"
+  },
+  "teenyicons-lock-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lock-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-lock-small"
+  },
+  "teenyicons-lock": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lock\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-lock"
+  },
+  "teenyicons-logout": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-logout\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-logout"
+  },
+  "teenyicons-loop": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-loop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-loop"
+  },
+  "teenyicons-magsafe": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-magsafe\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-magsafe"
+  },
+  "teenyicons-markdown": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-markdown\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-markdown"
+  },
+  "teenyicons-medium": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-medium\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-medium"
+  },
+  "teenyicons-menu": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-menu\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-menu"
+  },
+  "teenyicons-message-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message-minus"
+  },
+  "teenyicons-message-no-access": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-no-access\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message-no-access"
+  },
+  "teenyicons-message-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message-plus"
+  },
+  "teenyicons-message-text-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-text-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message-text-alt"
+  },
+  "teenyicons-message-text": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-text\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message-text"
+  },
+  "teenyicons-message-tick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-tick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message-tick"
+  },
+  "teenyicons-message-x": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message-x"
+  },
+  "teenyicons-message": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-message"
+  },
+  "teenyicons-messenger": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-messenger\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-messenger"
+  },
+  "teenyicons-micro-sd-card": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-micro-sd-card\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-micro-sd-card"
+  },
+  "teenyicons-microphone": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-microphone\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-microphone"
+  },
+  "teenyicons-minimise-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minimise-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-minimise-alt"
+  },
+  "teenyicons-minimise": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minimise\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-minimise"
+  },
+  "teenyicons-minus-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minus-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-minus-circle"
+  },
+  "teenyicons-minus-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minus-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-minus-small"
+  },
+  "teenyicons-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-minus"
+  },
+  "teenyicons-mobile": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mobile\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mobile"
+  },
+  "teenyicons-money-stack": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-money-stack\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-money-stack"
+  },
+  "teenyicons-money": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-money\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-money"
+  },
+  "teenyicons-mongodb": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mongodb\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mongodb"
+  },
+  "teenyicons-mood-flat": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-flat\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mood-flat"
+  },
+  "teenyicons-mood-frown": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-frown\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mood-frown"
+  },
+  "teenyicons-mood-laugh": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-laugh\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mood-laugh"
+  },
+  "teenyicons-mood-sad": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-sad\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mood-sad"
+  },
+  "teenyicons-mood-smile": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-smile\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mood-smile"
+  },
+  "teenyicons-mood-surprised": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-surprised\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mood-surprised"
+  },
+  "teenyicons-mood-tongue": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-tongue\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mood-tongue"
+  },
+  "teenyicons-moon": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-moon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-moon"
+  },
+  "teenyicons-more-horizontal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-more-horizontal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-more-horizontal"
+  },
+  "teenyicons-more-vertical": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-more-vertical\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-more-vertical"
+  },
+  "teenyicons-mouse": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mouse\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mouse"
+  },
+  "teenyicons-mov": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mov\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mov"
+  },
+  "teenyicons-mp3": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mp3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mp3"
+  },
+  "teenyicons-mp4": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mp4\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-mp4"
+  },
+  "teenyicons-ms-excel": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ms-excel\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ms-excel"
+  },
+  "teenyicons-ms-powerpoint": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ms-powerpoint\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ms-powerpoint"
+  },
+  "teenyicons-ms-word": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ms-word\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ms-word"
+  },
+  "teenyicons-n64": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-n64\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-n64"
+  },
+  "teenyicons-nes": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nes\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-nes"
+  },
+  "teenyicons-netlify": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-netlify\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-netlify"
+  },
+  "teenyicons-next-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-next-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-next-circle"
+  },
+  "teenyicons-next-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-next-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-next-small"
+  },
+  "teenyicons-next": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-next\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-next"
+  },
+  "teenyicons-nextjs": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nextjs\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-nextjs"
+  },
+  "teenyicons-ngc": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ngc\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ngc"
+  },
+  "teenyicons-nintendo-switch": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nintendo-switch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-nintendo-switch"
+  },
+  "teenyicons-nodejs": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nodejs\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-nodejs"
+  },
+  "teenyicons-note": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-note\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-note"
+  },
+  "teenyicons-npm": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-npm\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-npm"
+  },
+  "teenyicons-nuxtjs": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nuxtjs\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-nuxtjs"
+  },
+  "teenyicons-omega": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-omega\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-omega"
+  },
+  "teenyicons-opera": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-opera\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-opera"
+  },
+  "teenyicons-otp": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-otp\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-otp"
+  },
+  "teenyicons-page-break": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-page-break\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-page-break"
+  },
+  "teenyicons-page-number": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-page-number\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-page-number"
+  },
+  "teenyicons-paintbrush": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paintbrush\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-paintbrush"
+  },
+  "teenyicons-paintbucket": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paintbucket\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-paintbucket"
+  },
+  "teenyicons-paragraph": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paragraph\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-paragraph"
+  },
+  "teenyicons-password": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-password\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-password"
+  },
+  "teenyicons-patreon": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-patreon\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-patreon"
+  },
+  "teenyicons-pause-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pause-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pause-circle"
+  },
+  "teenyicons-pause-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pause-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pause-small"
+  },
+  "teenyicons-pause": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pause\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pause"
+  },
+  "teenyicons-paw": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paw\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-paw"
+  },
+  "teenyicons-paws": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paws\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-paws"
+  },
+  "teenyicons-paypal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paypal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-paypal"
+  },
+  "teenyicons-pdf": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pdf\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pdf"
+  },
+  "teenyicons-pen": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pen\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pen"
+  },
+  "teenyicons-phone": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phone\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-phone"
+  },
+  "teenyicons-phonecall-blocked": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phonecall-blocked\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-phonecall-blocked"
+  },
+  "teenyicons-phonecall-receive": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phonecall-receive\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-phonecall-receive"
+  },
+  "teenyicons-phonecall": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phonecall\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-phonecall"
+  },
+  "teenyicons-pie-chart-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pie-chart-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pie-chart-alt"
+  },
+  "teenyicons-pie-chart": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pie-chart\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pie-chart"
+  },
+  "teenyicons-pin-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pin-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pin-alt"
+  },
+  "teenyicons-pin": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pin"
+  },
+  "teenyicons-pinterest": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pinterest\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pinterest"
+  },
+  "teenyicons-plant": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-plant\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-plant"
+  },
+  "teenyicons-play-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-play-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-play-circle"
+  },
+  "teenyicons-play-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-play-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-play-small"
+  },
+  "teenyicons-play": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-play\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-play"
+  },
+  "teenyicons-plug": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-plug\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-plug"
+  },
+  "teenyicons-plus-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-plus-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-plus-circle"
+  },
+  "teenyicons-png": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-png\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-png"
+  },
+  "teenyicons-pool": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pool\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pool"
+  },
+  "teenyicons-pound": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pound\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-pound"
+  },
+  "teenyicons-power": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-power\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-power"
+  },
+  "teenyicons-ppt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ppt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ppt"
+  },
+  "teenyicons-print": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-print\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-print"
+  },
+  "teenyicons-python": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-python\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-python"
+  },
+  "teenyicons-qr-code": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-qr-code\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-qr-code"
+  },
+  "teenyicons-question-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-question-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-question-circle"
+  },
+  "teenyicons-question-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-question-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-question-small"
+  },
+  "teenyicons-question": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-question\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-question"
+  },
+  "teenyicons-quote": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-quote\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-quote"
+  },
+  "teenyicons-rand": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rand\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rand"
+  },
+  "teenyicons-react": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-react\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-react"
+  },
+  "teenyicons-receipt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-receipt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-receipt"
+  },
+  "teenyicons-reddit": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-reddit\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-reddit"
+  },
+  "teenyicons-redwoodjs": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-redwoodjs\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-redwoodjs"
+  },
+  "teenyicons-refresh-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-refresh-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-refresh-alt"
+  },
+  "teenyicons-refresh": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-refresh\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-refresh"
+  },
+  "teenyicons-rewind-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rewind-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rewind-circle"
+  },
+  "teenyicons-rewind-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rewind-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rewind-small"
+  },
+  "teenyicons-rewind": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rewind\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rewind"
+  },
+  "teenyicons-right-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-right-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-right-circle"
+  },
+  "teenyicons-right-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-right-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-right-small"
+  },
+  "teenyicons-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-right"
+  },
+  "teenyicons-ripple": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ripple\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ripple"
+  },
+  "teenyicons-robot": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-robot\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-robot"
+  },
+  "teenyicons-roller": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-roller\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-roller"
+  },
+  "teenyicons-rollupjs": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rollupjs\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rollupjs"
+  },
+  "teenyicons-router": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-router\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-router"
+  },
+  "teenyicons-rss": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rss\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rss"
+  },
+  "teenyicons-ruby": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ruby\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-ruby"
+  },
+  "teenyicons-rupee": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rupee\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rupee"
+  },
+  "teenyicons-rust": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rust\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-rust"
+  },
+  "teenyicons-safari": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-safari\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-safari"
+  },
+  "teenyicons-safe": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-safe\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-safe"
+  },
+  "teenyicons-save": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-save\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-save"
+  },
+  "teenyicons-scan": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-scan\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-scan"
+  },
+  "teenyicons-school": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-school\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-school"
+  },
+  "teenyicons-screen-alt-2": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-screen-alt-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-screen-alt-2"
+  },
+  "teenyicons-screen-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-screen-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-screen-alt"
+  },
+  "teenyicons-screen": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-screen\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-screen"
+  },
+  "teenyicons-scribble": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-scribble\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-scribble"
+  },
+  "teenyicons-sd-card": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sd-card\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sd-card"
+  },
+  "teenyicons-search-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-search-circle"
+  },
+  "teenyicons-search-property": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search-property\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-search-property"
+  },
+  "teenyicons-search-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-search-small"
+  },
+  "teenyicons-search": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-search"
+  },
+  "teenyicons-section-add": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-section-add\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-section-add"
+  },
+  "teenyicons-section-remove": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-section-remove\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-section-remove"
+  },
+  "teenyicons-send-down": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-send-down"
+  },
+  "teenyicons-send-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-send-left"
+  },
+  "teenyicons-send-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-send-right"
+  },
+  "teenyicons-send-up": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-send-up"
+  },
+  "teenyicons-send": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-send"
+  },
+  "teenyicons-servers": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-servers\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-servers"
+  },
+  "teenyicons-share": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-share\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-share"
+  },
+  "teenyicons-shield-tick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shield-tick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-shield-tick"
+  },
+  "teenyicons-shield-x": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shield-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-shield-x"
+  },
+  "teenyicons-shield": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shield\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-shield"
+  },
+  "teenyicons-shop": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-shop"
+  },
+  "teenyicons-sign": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sign\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sign"
+  },
+  "teenyicons-signin": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-signin\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-signin"
+  },
+  "teenyicons-sim": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sim\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sim"
+  },
+  "teenyicons-simohamed": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-simohamed\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-simohamed"
+  },
+  "teenyicons-skull": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-skull\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-skull"
+  },
+  "teenyicons-skype": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-skype\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-skype"
+  },
+  "teenyicons-slack": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-slack\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-slack"
+  },
+  "teenyicons-snapchat": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-snapchat\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-snapchat"
+  },
+  "teenyicons-snes": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-snes\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-snes"
+  },
+  "teenyicons-sort-alphabetically": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-alphabetically\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sort-alphabetically"
+  },
+  "teenyicons-sort-down": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sort-down"
+  },
+  "teenyicons-sort-high-to-low": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-high-to-low\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sort-high-to-low"
+  },
+  "teenyicons-sort-low-to-high": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-low-to-high\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sort-low-to-high"
+  },
+  "teenyicons-sort-reverse-alphabetically": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-reverse-alphabetically\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sort-reverse-alphabetically"
+  },
+  "teenyicons-sort-up": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sort-up"
+  },
+  "teenyicons-sound-off": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sound-off\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sound-off"
+  },
+  "teenyicons-sound-on": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sound-on\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sound-on"
+  },
+  "teenyicons-spotify": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-spotify\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-spotify"
+  },
+  "teenyicons-spreadsheet": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-spreadsheet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-spreadsheet"
+  },
+  "teenyicons-square": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-square\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-square"
+  },
+  "teenyicons-stackoverflow": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stackoverflow\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-stackoverflow"
+  },
+  "teenyicons-stamp": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stamp\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-stamp"
+  },
+  "teenyicons-star-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-star-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-star-circle"
+  },
+  "teenyicons-star-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-star-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-star-small"
+  },
+  "teenyicons-star": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-star\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-star"
+  },
+  "teenyicons-stop-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stop-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-stop-circle"
+  },
+  "teenyicons-stop-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stop-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-stop-small"
+  },
+  "teenyicons-stop": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stop\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-stop"
+  },
+  "teenyicons-stopwatch": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stopwatch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-stopwatch"
+  },
+  "teenyicons-strikethrough": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-strikethrough\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-strikethrough"
+  },
+  "teenyicons-subscript": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-subscript\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-subscript"
+  },
+  "teenyicons-sun": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sun\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-sun"
+  },
+  "teenyicons-superscript": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-superscript\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-superscript"
+  },
+  "teenyicons-svelte": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-svelte\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-svelte"
+  },
+  "teenyicons-svg": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-svg\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-svg"
+  },
+  "teenyicons-table": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-table\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-table"
+  },
+  "teenyicons-tablet": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tablet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tablet"
+  },
+  "teenyicons-tag": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tag\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tag"
+  },
+  "teenyicons-tailwind": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tailwind\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tailwind"
+  },
+  "teenyicons-target": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-target\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-target"
+  },
+  "teenyicons-telegram": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-telegram\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-telegram"
+  },
+  "teenyicons-terminal": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-terminal\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-terminal"
+  },
+  "teenyicons-text-document-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-text-document-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-text-document-alt"
+  },
+  "teenyicons-text-document": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-text-document\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-text-document"
+  },
+  "teenyicons-text": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-text\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-text"
+  },
+  "teenyicons-thumb-down": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-thumb-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-thumb-down"
+  },
+  "teenyicons-thumb-up": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-thumb-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-thumb-up"
+  },
+  "teenyicons-thumbtack": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-thumbtack\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-thumbtack"
+  },
+  "teenyicons-tick-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tick-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tick-circle"
+  },
+  "teenyicons-tick-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tick-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tick-small"
+  },
+  "teenyicons-tick": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tick\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tick"
+  },
+  "teenyicons-tiktok": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tiktok\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tiktok"
+  },
+  "teenyicons-toggle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-toggle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-toggle"
+  },
+  "teenyicons-top-left": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-top-left\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-top-left"
+  },
+  "teenyicons-top-right": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-top-right\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-top-right"
+  },
+  "teenyicons-trend-down": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-trend-down\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-trend-down"
+  },
+  "teenyicons-trend-up": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-trend-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-trend-up"
+  },
+  "teenyicons-triangle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-triangle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-triangle"
+  },
+  "teenyicons-trophy": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-trophy\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-trophy"
+  },
+  "teenyicons-tv": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tv\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-tv"
+  },
+  "teenyicons-twitch": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-twitch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-twitch"
+  },
+  "teenyicons-twitter": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-twitter\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-twitter"
+  },
+  "teenyicons-typescript": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-typescript\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-typescript"
+  },
+  "teenyicons-underline": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-underline\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-underline"
+  },
+  "teenyicons-unlock-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-unlock-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-unlock-circle"
+  },
+  "teenyicons-unlock-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-unlock-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-unlock-small"
+  },
+  "teenyicons-unlock": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-unlock\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-unlock"
+  },
+  "teenyicons-up-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-up-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-up-circle"
+  },
+  "teenyicons-up-small": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-up-small\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-up-small"
+  },
+  "teenyicons-up": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-up\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-up"
+  },
+  "teenyicons-upload": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-upload\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-upload"
+  },
+  "teenyicons-usb-cable": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-usb-cable\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-usb-cable"
+  },
+  "teenyicons-user-circle": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-circle\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-user-circle"
+  },
+  "teenyicons-user-minus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-minus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-user-minus"
+  },
+  "teenyicons-user-plus": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-plus\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-user-plus"
+  },
+  "teenyicons-user-square": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-square\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-user-square"
+  },
+  "teenyicons-user": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-user"
+  },
+  "teenyicons-users": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-users\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-users"
+  },
+  "teenyicons-vector-document": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vector-document\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-vector-document"
+  },
+  "teenyicons-venn-diagram": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-venn-diagram\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-venn-diagram"
+  },
+  "teenyicons-view-column": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-view-column\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-view-column"
+  },
+  "teenyicons-view-grid": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-view-grid\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-view-grid"
+  },
+  "teenyicons-vim": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vim\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-vim"
+  },
+  "teenyicons-volume-1": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-volume-1\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-volume-1"
+  },
+  "teenyicons-volume-2": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-volume-2\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-volume-2"
+  },
+  "teenyicons-volume-3": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-volume-3\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-volume-3"
+  },
+  "teenyicons-vr-headset": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vr-headset\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-vr-headset"
+  },
+  "teenyicons-vue": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vue\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-vue"
+  },
+  "teenyicons-wallet-alt": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wallet-alt\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wallet-alt"
+  },
+  "teenyicons-wallet": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wallet\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wallet"
+  },
+  "teenyicons-wan": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wan\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wan"
+  },
+  "teenyicons-wand": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wand\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wand"
+  },
+  "teenyicons-watch": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-watch\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-watch"
+  },
+  "teenyicons-webpack": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-webpack\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-webpack"
+  },
+  "teenyicons-whatsapp": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-whatsapp\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-whatsapp"
+  },
+  "teenyicons-wifi-full": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wifi-full\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wifi-full"
+  },
+  "teenyicons-wifi-low": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wifi-low\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wifi-low"
+  },
+  "teenyicons-wifi-none": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wifi-none\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wifi-none"
+  },
+  "teenyicons-windows": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-windows\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-windows"
+  },
+  "teenyicons-wordpress": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wordpress\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-wordpress"
+  },
+"teenyicons-  x-circle": {
+  "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-x-circle\" />\n</svg>",
+  "description": "<svg>",
+  "prefix": "teenyicons-x-circle"
+},
+"teenyicons-  x-small": {
+  "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-x-small\" />\n</svg>",
+  "description": "<svg>",
+  "prefix": "teenyicons-x-small"
+},
+  "teenyicons-x": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-x\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-x"
+  },
+  "teenyicons-xls": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-xls\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-xls"
+  },
+  "teenyicons-yen": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-yen\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-yen"
+  },
+  "teenyicons-youtube": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-youtube\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-youtube"
+  },
+  "teenyicons-zip": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-zip\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-zip"
+  },
+  "teenyicons-zoom-in": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-zoom-in\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-zoom-in"
+  },
+  "teenyicons-zoom-out": {
+    "body": "<svg width=\"${1:15}\" height=\"${1:15}\">\n\t<use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-zoom-out\" />\n</svg>",
+    "description": "<svg>",
+    "prefix": "teenyicons-zoom-out"
+  }
+}

@@ -74,6 +74,8 @@ Snippets are limited to the `html`, `blade`, `jsx` and `vue` scopes. Typing the 
 | `oi`           | [Open Iconic][oi]                   | 1.1.0   |
 | `se`           | [Speakemoji][se]                    | 1.0     |
 | `si`           | [SmartIcons Glyphs][si]             | 1.1     |
+| `tabler`       | [Tabler Icons][tabler]              | 1.30.0  |
+| `teenyicons`   | [Teenyicons][teenyicons]            | 0.4.0   |
 
 ## License
 
@@ -90,3 +92,5 @@ You are welcome to support this project using [Flattr](https://flattr.com/submit
 [oi]: https://github.com/iconic/open-iconic
 [se]: https://github.com/rizalrenaldi/speakemoji
 [si]: https://github.com/frexy/glyph-iconset
+[tabler]: https://github.com/tabler/tabler-icons
+[teenyicons]: https://github.com/teenyicons/teenyicons
