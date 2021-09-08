@@ -3,7 +3,7 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-svg-icons)](https://github.com/idleberg/vscode-svg-icons/releases)
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.svg-icons.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.svg-icons)
-[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/vscode-svg-icons)](https://circleci.com/gh/idleberg/vscode-svg-icons/)
+[![CI](https://img.shields.io/github/workflow/status/idleberg/vscode-svg-icons/CI?style=flat-square)](https://github.com/idleberg/vscode-svg-icons/actions)
 
 Snippets for popular SVG icons including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize ([see details](https://github.com/idleberg/vscode-svg-icons#prefixes)).
 

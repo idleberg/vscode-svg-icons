@@ -10,9 +10,10 @@
         "url": "http://github.com/idleberg"
     },
     "scripts": {
-        "postinstall": "node ./node_modules/vscode/bin/install",
-        "test": "vscode-linter",
-        "vscode:prepublish": "gulp"
+        "lint": "eslint ./**/*.json --ignore-path .gitignore",
+        "test": "npm run lint",
+        "vscode:prepublish": "gulp",
+        "prepare": "husky install"
     },
     "keywords": [
         "svg icons",
@@ -185,6 +186,42 @@
                 "path": "./snippets/teenyicons.json"
             },
             {
+                "language": "typescriptreact",
+                "path": "./snippets/jsx/bi.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/jsx/ei.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/feather.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/jsx/octicon.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/jsx/oi.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/jsx/se.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/jsx/si.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/tabler.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/teenyicons.json"
+            },
+            {
                 "language": "vue-html",
                 "path": "./snippets/html/bi.json"
             },
@@ -223,16 +260,15 @@
         ]
     },
     "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-plugin-json": "^3.1.0",
         "gulp": "^4.0.2",
         "gulp-raster": "^0.2.0",
         "gulp-rename": "^2.0.0",
-        "husky": "^4.3.0",
-        "vscode": "^1.1.37",
-        "vscode-linter": "^0.3.1"
+        "husky": "^7.0.0",
+        "lint-staged": "^11.1.2"
     },
-    "husky": {
-        "hooks": {
-            "pre-commit": "npm run test"
-        }
+    "lint-staged": {
+        "*.json": "eslint --cache --fix"
     }
 }
