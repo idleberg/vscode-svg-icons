@@ -1,5 +1,22 @@
-*.vsix
+# Package Managers
+bower_components/
+node_modules/
+npm-debug.log*
+shrinkwrap.yaml
+vendor/
+yarn-error.log
+yarn.lock
+
+# Development Files
 .circleci/
+.eslintcache
+.github/
 .travis.yml
+*.d.ts
+*.map
+*.vsix
 gulpfile.js
 yarn.lock
+
+# Project-specific
+todo.md
