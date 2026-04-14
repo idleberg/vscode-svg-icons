@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/idleberg/vscode-textile?color=blue&style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/github/v/release/idleberg/vscode-textile?style=for-the-badge)](https://github.com/idleberg/vscode-textile/releases)
 [![Build](https://img.shields.io/github/actions/workflow/status/idleberg/vscode-textile/default.yml?style=for-the-badge)](https://github.com/idleberg/vscode-textile/actions)
+
 Snippets for popular SVG icons including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize ([see details](https://github.com/idleberg/vscode-svg-icons#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-svg-icons) and [Sublime Text](https://github.com/idleberg/sublime-svg-icons)
@@ -77,7 +78,7 @@ Snippets are limited to the `html`, `blade`, `jsx` and `vue` scopes. Typing the 
 
 ## License
 
-This work is licensed under [The MIT License](https://opensource.org/licenses/MIT)
+This work is licensed under [The MIT License](LICENSE)
 
 [bi]: https://github.com/danklammer/bytesize-icons
 [ei]: https://github.com/outpunk/evil-icons
