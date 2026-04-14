@@ -10,12 +10,12 @@
 		"url": "http://github.com/idleberg"
 	},
 	"scripts": {
+		"build": "sharp resize 1024 1024 --input src/logo.svg --output images/logo.png",
 		"lint": "biome check",
 		"publish:ovsx": "ovsx publish --no-dependencies",
 		"publish:vsce": "vsce publish --githubBranch main --no-dependencies",
 		"test": "npm run lint",
-		"vscode:prepublish": "gulp",
-		"prepare": "husky install"
+		"vscode:prepublish": "npm run build"
 	},
 	"keywords": [
 		"svg icons",
@@ -265,9 +265,7 @@
 		"@commitlint/cli": "^20.5.0",
 		"@commitlint/config-conventional": "^20.5.0",
 		"@idleberg/configs": "^0.4.2",
-		"gulp": "^4.0.2",
-		"gulp-raster": "^0.2.0",
-		"gulp-rename": "^2.0.0"
+		"sharp-cli": "^5.2.0"
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
