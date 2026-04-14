@@ -1,31 +1,13 @@
-name: CI
+name: Publish Extension
 
 on:
   push:
-    paths:
-      - ".github/workflows/**"
-      - "src/**"
-      - "tests/**"
-      - "types/**"
-      - "package.json"
-      - "pnpm-lock.yaml"
-  pull_request:
-    paths:
-      - ".github/workflows/**"
-      - "src/**"
-      - "types/**"
-      - "tests/**"
-      - "package.json"
-      - "pnpm-lock.yaml"
-  workflow_dispatch:
+    tags:
+      - "*"
 
 jobs:
   default:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        node-version: ["lts/*", "*"]
-        os: [ubuntu-latest]
+    runs-on: "ubuntu-latest"
 
     steps:
       - uses: actions/checkout@v5
@@ -36,8 +18,7 @@ jobs:
 
       - uses: actions/setup-node@v5
         with:
-          node-version: ${{ matrix.node-version }}
-
+          node-version: "lts/*"
       - name: Get pnpm store directory
         shell: bash
         run: |
@@ -57,8 +38,20 @@ jobs:
       - name: Lint Source
         run: pnpm exec biome ci
 
-      - name: Build Source
-        run: pnpm run --if-present build
-
       - name: Run Tests
         run: pnpm run --if-present test
+
+      - name: Publish to Open VSX Registry
+        uses: HaaLeo/publish-vscode-extension@v2
+        with:
+          dependencies: false
+          pat: ${{ secrets.OVSX_PERSONAL_ACCESS_TOKEN }}
+          skipDuplicate: true
+
+      - name: Publish to Visual Studio Marketplace
+        uses: HaaLeo/publish-vscode-extension@v2
+        with:
+          dependencies: false
+          pat: ${{ secrets.VSCE_PERSONAL_ACCESS_TOKEN }}
+          registryUrl: https://marketplace.visualstudio.com
+          skipDuplicate: true
