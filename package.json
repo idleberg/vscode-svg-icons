@@ -1,275 +1,278 @@
 {
-    "name": "svg-icons",
-    "displayName": "SVG Icons",
-    "description": "Snippets for popular SVG icons, including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize",
-    "version": "0.9.0",
-    "publisher": "idleberg",
-    "license": "MIT",
-    "author": {
-        "name": "Jan T. Sott",
-        "url": "http://github.com/idleberg"
-    },
-    "scripts": {
-        "lint": "eslint ./**/*.json --ignore-path .gitignore",
-        "test": "npm run lint",
-        "vscode:prepublish": "gulp",
-        "prepare": "husky install"
-    },
-    "keywords": [
-        "svg icons",
-        "octicons",
-        "evil icons",
-        "glyphs"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/idleberg/vscode-svg-icons"
-    },
-    "homepage": "https://github.com/idleberg/vscode-svg-icons#readme",
-    "bugs": {
-        "url": "https://github.com/idleberg/vscode-svg-icons/issues"
-    },
-    "icon": "images/logo.png",
-    "galleryBanner": {
-        "color": "#bee7fa"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "blade",
-                "path": "./snippets/html/bi.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/html/ei.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/feather.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/html/octicon.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/html/oi.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/html/se.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/html/si.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/tabler.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/teenyicons.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/html/bi.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/html/ei.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/feather.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/html/octicon.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/html/oi.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/html/se.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/html/si.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/tabler.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/teenyicons.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jsx/bi.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jsx/ei.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/feather.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jsx/octicon.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jsx/oi.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jsx/se.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jsx/si.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/tabler.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/teenyicons.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/html/bi.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/html/ei.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/feather.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/html/octicon.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/html/oi.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/html/se.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/html/si.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/tabler.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/teenyicons.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/jsx/bi.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/jsx/ei.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/feather.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/jsx/octicon.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/jsx/oi.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/jsx/se.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/jsx/si.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/tabler.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/teenyicons.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/bi.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/ei.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/feather.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/octicon.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/oi.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/se.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/si.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/tabler.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/teenyicons.json"
-            }
-        ]
-    },
-    "devDependencies": {
-        "eslint": "^7.32.0",
-        "eslint-plugin-json": "^3.1.0",
-        "gulp": "^4.0.2",
-        "gulp-raster": "^0.2.0",
-        "gulp-rename": "^2.0.0",
-        "husky": "^7.0.0",
-        "lint-staged": "^11.1.2"
-    },
-    "lint-staged": {
-        "*.json": "eslint --cache --fix"
-    },
-    "packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
+	"name": "svg-icons",
+	"displayName": "SVG Icons",
+	"description": "Snippets for popular SVG icons, including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize",
+	"version": "0.9.0",
+	"publisher": "idleberg",
+	"license": "MIT",
+	"author": {
+		"name": "Jan T. Sott",
+		"url": "http://github.com/idleberg"
+	},
+	"scripts": {
+		"lint": "biome check",
+		"publish:ovsx": "ovsx publish --no-dependencies",
+		"publish:vsce": "vsce publish --githubBranch main --no-dependencies",
+		"test": "npm run lint",
+		"vscode:prepublish": "gulp",
+		"prepare": "husky install"
+	},
+	"keywords": [
+		"svg icons",
+		"octicons",
+		"evil icons",
+		"glyphs"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/idleberg/vscode-svg-icons"
+	},
+	"homepage": "https://github.com/idleberg/vscode-svg-icons#readme",
+	"bugs": {
+		"url": "https://github.com/idleberg/vscode-svg-icons/issues"
+	},
+	"icon": "images/logo.png",
+	"galleryBanner": {
+		"color": "#bee7fa"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "blade",
+				"path": "./snippets/html/bi.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/html/ei.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/feather.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/html/octicon.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/html/oi.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/html/se.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/html/si.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/tabler.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/teenyicons.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html/bi.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html/ei.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/feather.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html/octicon.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html/oi.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html/se.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html/si.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/tabler.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/teenyicons.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/jsx/bi.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/jsx/ei.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/feather.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/jsx/octicon.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/jsx/oi.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/jsx/se.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/jsx/si.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/tabler.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/teenyicons.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/html/bi.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/html/ei.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/feather.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/html/octicon.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/html/oi.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/html/se.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/html/si.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/tabler.json"
+			},
+			{
+				"language": "svelte",
+				"path": "./snippets/teenyicons.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/jsx/bi.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/jsx/ei.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/feather.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/jsx/octicon.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/jsx/oi.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/jsx/se.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/jsx/si.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/tabler.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/teenyicons.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/html/bi.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/html/ei.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/feather.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/html/octicon.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/html/oi.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/html/se.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/html/si.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/tabler.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/teenyicons.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@commitlint/cli": "^20.5.0",
+		"@commitlint/config-conventional": "^20.5.0",
+		"@idleberg/configs": "^0.4.2",
+		"gulp": "^4.0.2",
+		"gulp-raster": "^0.2.0",
+		"gulp-rename": "^2.0.0"
+	},
+	"pnpm": {
+		"onlyBuiltDependencies": [
+			"lefthook"
+		]
+	},
+	"packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
 }

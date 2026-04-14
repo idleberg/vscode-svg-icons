@@ -1,0 +1,3 @@
+{
+	"extends": ["@idleberg/configs/biome"]
+}
